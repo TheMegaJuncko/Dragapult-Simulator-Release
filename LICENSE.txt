@@ -1,0 +1,52 @@
+Software License Agreement
+
+Last Updated: [06/12/2025]
+
+This Software License Agreement (“Agreement”) is a legal contract between you (“User”) and the Licensor regarding the use of the Software.
+
+By installing, copying, or using the Software, the User agrees to the terms below.
+
+1. Grant of License
+
+The Licensor grants the User a limited, non-exclusive, non-transferable license to use the Software in its compiled or executable form only.
+
+2. No Access to Source Code
+
+The User acknowledges that the Software contains proprietary and confidential information belonging to the Licensor.
+The User is strictly prohibited from accessing, attempting to access, or obtaining copies of the Software’s source code by any means, including but not limited to:
+
+Reverse engineering
+
+Decompiling
+
+Disassembling
+
+Bypassing security or technical protection measures
+
+Monitoring, scanning, or analyzing memory, storage, or network traffic
+
+Attempting to reconstruct any part of the source code, structure, or algorithms of the Software
+
+3. No Redistribution or Copying
+
+The User may not copy, distribute, sublicense, or create derivative works of the Software.
+
+4. Ownership
+
+The Software is licensed, not sold. All intellectual property rights remain with the Licensor.
+
+5. Termination
+
+Any violation of this Agreement automatically terminates the User’s license.
+Upon termination, the User must immediately stop all use of the Software and delete all copies in their possession.
+
+6. Disclaimer of Warranty
+
+The Software is provided “AS IS” without warranties of any kind. The User assumes all risks arising from use of the Software.
+7. Limitation of Liability
+
+The Licensor shall not be liable for any damages arising out of the use or inability to use the Software.
+
+8. Governing Law
+
+This Agreement shall be governed by the laws of the jurisdiction in which the Licensor resides, unless otherwise required by law.

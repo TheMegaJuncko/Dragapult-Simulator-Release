@@ -4,4 +4,5 @@ Dragapult Simulator is a software for Windows and Mac that is made to facilitate
 
 You may find that this folder doesn't contain any installers. At the time this readme is written (12/08/2025), the simulator has not reached the state of beta. Please look forward to more informations on release dates.
 
-You may contact TheMegaJuncko on discord / X (or twitter) for more informations, or, after release, any bug, crash or feedback.
+You may contact TheMegaJuncko on discord / X (or twitter) for more information, or, after release, any bug, crash or feedback.
+
