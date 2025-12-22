@@ -1,0 +1,1627 @@
+[
+    {
+        "moveId": "ACID",
+        "power": 6,
+        "type": "poison"
+    },
+    {
+        "moveId": "ACID_SPRAY",
+        "power": 20,
+        "type": "poison"
+    },
+    {
+        "moveId": "ACROBATICS",
+        "power": 110,
+        "type": "flying"
+    },
+    {
+        "moveId": "AEGISLASH_CHARGE_AIR_SLASH",
+        "power": 0,
+        "type": "flying"
+    },
+    {
+        "moveId": "AEGISLASH_CHARGE_PSYCHO_CUT",
+        "power": 0,
+        "type": "psychic"
+    },
+    {
+        "moveId": "AERIAL_ACE",
+        "power": 60,
+        "type": "flying"
+    },
+    {
+        "moveId": "AEROBLAST",
+        "power": 170,
+        "type": "flying"
+    },
+    {
+        "moveId": "AIR_CUTTER",
+        "power": 45,
+        "type": "flying"
+    },
+    {
+        "moveId": "AIR_SLASH",
+        "power": 9,
+        "type": "flying"
+    },
+    {
+        "moveId": "ANCIENT_POWER",
+        "power": 60,
+        "type": "rock"
+    },
+    {
+        "moveId": "AQUA_JET",
+        "power": 70,
+        "type": "water"
+    },
+    {
+        "moveId": "AQUA_STEP",
+        "power": 55,
+        "type": "water"
+    },
+    {
+        "moveId": "AQUA_TAIL",
+        "power": 55,
+        "type": "water"
+    },
+    {
+        "moveId": "ASTONISH",
+        "power": 12,
+        "type": "ghost"
+    },
+    {
+        "moveId": "AURA_SPHERE",
+        "power": 80,
+        "type": "fighting"
+    },
+    {
+        "moveId": "AURA_WHEEL_DARK",
+        "power": 100,
+        "type": "dark"
+    },
+    {
+        "moveId": "AURA_WHEEL_ELECTRIC",
+        "power": 100,
+        "type": "electric"
+    },
+    {
+        "moveId": "AURORA_BEAM",
+        "power": 80,
+        "type": "ice"
+    },
+    {
+        "moveId": "AVALANCHE",
+        "power": 90,
+        "type": "ice"
+    },
+    {
+        "moveId": "BEAK_BLAST",
+        "power": 110,
+        "type": "flying"
+    },
+    {
+        "moveId": "BEHEMOTH_BASH",
+        "power": 80,
+        "type": "steel"
+    },
+    {
+        "moveId": "BEHEMOTH_BLADE",
+        "power": 100,
+        "type": "steel"
+    },
+    {
+        "moveId": "BITE",
+        "power": 4,
+        "type": "dark"
+    },
+    {
+        "moveId": "BLAST_BURN",
+        "power": 110,
+        "type": "fire"
+    },
+    {
+        "moveId": "BLAZE_KICK",
+        "power": 60,
+        "type": "fire"
+    },
+    {
+        "moveId": "BLEAKWIND_STORM",
+        "power": 60,
+        "type": "flying"
+    },
+    {
+        "moveId": "BLIZZARD",
+        "power": 140,
+        "type": "ice"
+    },
+    {
+        "moveId": "BODY_SLAM",
+        "power": 55,
+        "type": "normal"
+    },
+    {
+        "moveId": "BONE_CLUB",
+        "power": 55,
+        "type": "ground"
+    },
+    {
+        "moveId": "BOOMBURST",
+        "power": 150,
+        "type": "normal"
+    },
+    {
+        "moveId": "BRAVE_BIRD",
+        "power": 130,
+        "type": "flying"
+    },
+    {
+        "moveId": "BREAKING_SWIPE",
+        "power": 50,
+        "type": "dragon"
+    },
+    {
+        "moveId": "BRICK_BREAK",
+        "power": 50,
+        "type": "fighting"
+    },
+    {
+        "moveId": "BRINE",
+        "power": 60,
+        "type": "water"
+    },
+    {
+        "moveId": "BRUTAL_SWING",
+        "power": 55,
+        "type": "dark"
+    },
+    {
+        "moveId": "BUBBLE",
+        "power": 8,
+        "type": "water"
+    },
+    {
+        "moveId": "BUBBLE_BEAM",
+        "power": 25,
+        "type": "water"
+    },
+    {
+        "moveId": "BUG_BITE",
+        "power": 4,
+        "type": "bug"
+    },
+    {
+        "moveId": "BUG_BUZZ",
+        "power": 100,
+        "type": "bug"
+    },
+    {
+        "moveId": "BULLDOZE",
+        "power": 45,
+        "type": "ground"
+    },
+    {
+        "moveId": "BULLET_PUNCH",
+        "power": 8,
+        "type": "steel"
+    },
+    {
+        "moveId": "BULLET_SEED",
+        "power": 5,
+        "type": "grass"
+    },
+    {
+        "moveId": "CHARGE_BEAM",
+        "power": 5,
+        "type": "electric"
+    },
+    {
+        "moveId": "CHARM",
+        "power": 13,
+        "type": "fairy"
+    },
+    {
+        "moveId": "CHILLING_WATER",
+        "power": 60,
+        "type": "water"
+    },
+    {
+        "moveId": "CLANGING_SCALES",
+        "power": 120,
+        "type": "dragon"
+    },
+    {
+        "moveId": "CLOSE_COMBAT",
+        "power": 100,
+        "type": "fighting"
+    },
+    {
+        "moveId": "CONFUSION",
+        "power": 16,
+        "type": "psychic"
+    },
+    {
+        "moveId": "COUNTER",
+        "power": 8,
+        "type": "fighting"
+    },
+    {
+        "moveId": "CRABHAMMER",
+        "power": 85,
+        "type": "water"
+    },
+    {
+        "moveId": "CROSS_CHOP",
+        "power": 55,
+        "type": "fighting"
+    },
+    {
+        "moveId": "CROSS_POISON",
+        "power": 50,
+        "type": "poison"
+    },
+    {
+        "moveId": "CRUNCH",
+        "power": 70,
+        "type": "dark"
+    },
+    {
+        "moveId": "CRUSH_GRIP",
+        "power": 110,
+        "type": "normal"
+    },
+    {
+        "moveId": "CUT",
+        "power": 3,
+        "type": "normal"
+    },
+    {
+        "moveId": "DARKEST_LARIAT",
+        "power": 120,
+        "type": "dark"
+    },
+    {
+        "moveId": "DARK_PULSE",
+        "power": 80,
+        "type": "dark"
+    },
+    {
+        "moveId": "DAZZLING_GLEAM",
+        "power": 90,
+        "type": "fairy"
+    },
+    {
+        "moveId": "DIG",
+        "power": 70,
+        "type": "ground"
+    },
+    {
+        "moveId": "DISARMING_VOICE",
+        "power": 70,
+        "type": "fairy"
+    },
+    {
+        "moveId": "DISCHARGE",
+        "power": 55,
+        "type": "electric"
+    },
+    {
+        "moveId": "DOOM_DESIRE",
+        "power": 80,
+        "type": "steel"
+    },
+    {
+        "moveId": "DOUBLE_IRON_BASH",
+        "power": 55,
+        "type": "steel"
+    },
+    {
+        "moveId": "DOUBLE_KICK",
+        "power": 8,
+        "type": "fighting"
+    },
+    {
+        "moveId": "DRACO_METEOR",
+        "power": 150,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAGON_ASCENT",
+        "power": 150,
+        "type": "flying"
+    },
+    {
+        "moveId": "DRAGON_BREATH",
+        "power": 3,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAGON_CLAW",
+        "power": 80,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAGON_ENERGY",
+        "power": 90,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAGON_PULSE",
+        "power": 90,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAGON_TAIL",
+        "power": 9,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DRAINING_KISS",
+        "power": 60,
+        "type": "fairy"
+    },
+    {
+        "moveId": "DRAIN_PUNCH",
+        "power": 20,
+        "type": "fighting"
+    },
+    {
+        "moveId": "DRILL_PECK",
+        "power": 70,
+        "type": "flying"
+    },
+    {
+        "moveId": "DRILL_RUN",
+        "power": 80,
+        "type": "ground"
+    },
+    {
+        "moveId": "DYNAMAX_CANNON",
+        "power": 80,
+        "type": "dragon"
+    },
+    {
+        "moveId": "DYNAMIC_PUNCH",
+        "power": 90,
+        "type": "fighting"
+    },
+    {
+        "moveId": "EARTHQUAKE",
+        "power": 110,
+        "type": "ground"
+    },
+    {
+        "moveId": "EARTH_POWER",
+        "power": 90,
+        "type": "ground"
+    },
+    {
+        "moveId": "EMBER",
+        "power": 4,
+        "type": "fire"
+    },
+    {
+        "moveId": "ENERGY_BALL",
+        "power": 90,
+        "type": "grass"
+    },
+    {
+        "moveId": "EXTRASENSORY",
+        "power": 8,
+        "type": "psychic"
+    },
+    {
+        "moveId": "FAIRY_WIND",
+        "power": 4,
+        "type": "fairy"
+    },
+    {
+        "moveId": "FEATHER_DANCE",
+        "power": 35,
+        "type": "flying"
+    },
+    {
+        "moveId": "FEINT_ATTACK",
+        "power": 6,
+        "type": "dark"
+    },
+    {
+        "moveId": "FELL_STINGER",
+        "power": 20,
+        "type": "bug"
+    },
+    {
+        "moveId": "FIRE_BLAST",
+        "power": 140,
+        "type": "fire"
+    },
+    {
+        "moveId": "FIRE_FANG",
+        "power": 8,
+        "type": "fire"
+    },
+    {
+        "moveId": "FIRE_PUNCH",
+        "power": 60,
+        "type": "fire"
+    },
+    {
+        "moveId": "FIRE_SPIN",
+        "power": 11,
+        "type": "fire"
+    },
+    {
+        "moveId": "FLAMETHROWER",
+        "power": 90,
+        "type": "fire"
+    },
+    {
+        "moveId": "FLAME_BURST",
+        "power": 70,
+        "type": "fire"
+    },
+    {
+        "moveId": "FLAME_CHARGE",
+        "power": 65,
+        "type": "fire"
+    },
+    {
+        "moveId": "FLAME_WHEEL",
+        "power": 80,
+        "type": "fire"
+    },
+    {
+        "moveId": "FLASH_CANNON",
+        "power": 110,
+        "type": "steel"
+    },
+    {
+        "moveId": "FLOWER_TRICK",
+        "power": 30,
+        "type": "grass"
+    },
+    {
+        "moveId": "FLY",
+        "power": 80,
+        "type": "flying"
+    },
+    {
+        "moveId": "FLYING_PRESS",
+        "power": 90,
+        "type": "fighting"
+    },
+    {
+        "moveId": "FOCUS_BLAST",
+        "power": 150,
+        "type": "fighting"
+    },
+    {
+        "moveId": "FORCE_PALM",
+        "power": 13,
+        "type": "fighting"
+    },
+    {
+        "moveId": "FOUL_PLAY",
+        "power": 65,
+        "type": "dark"
+    },
+    {
+        "moveId": "FREEZE_SHOCK",
+        "power": 120,
+        "type": "ice"
+    },
+    {
+        "moveId": "FRENZY_PLANT",
+        "power": 100,
+        "type": "grass"
+    },
+    {
+        "moveId": "FROST_BREATH",
+        "power": 7,
+        "type": "ice"
+    },
+    {
+        "moveId": "FRUSTRATION",
+        "power": 10,
+        "type": "normal"
+    },
+    {
+        "moveId": "FURY_CUTTER",
+        "power": 3,
+        "type": "bug"
+    },
+    {
+        "moveId": "FUSION_BOLT",
+        "power": 90,
+        "type": "electric"
+    },
+    {
+        "moveId": "FUSION_FLARE",
+        "power": 90,
+        "type": "fire"
+    },
+    {
+        "moveId": "FUTURE_SIGHT",
+        "power": 110,
+        "type": "psychic"
+    },
+    {
+        "moveId": "GEOMANCY",
+        "power": 8,
+        "type": "fairy"
+    },
+    {
+        "moveId": "GIGA_DRAIN",
+        "power": 50,
+        "type": "grass"
+    },
+    {
+        "moveId": "GIGA_IMPACT",
+        "power": 150,
+        "type": "normal"
+    },
+    {
+        "moveId": "GLACIATE",
+        "power": 60,
+        "type": "ice"
+    },
+    {
+        "moveId": "GRASS_KNOT",
+        "power": 90,
+        "type": "grass"
+    },
+    {
+        "moveId": "GUNK_SHOT",
+        "power": 130,
+        "type": "poison"
+    },
+    {
+        "moveId": "GUST",
+        "power": 16,
+        "type": "flying"
+    },
+    {
+        "moveId": "GYRO_BALL",
+        "power": 80,
+        "type": "steel"
+    },
+    {
+        "moveId": "HEART_STAMP",
+        "power": 40,
+        "type": "psychic"
+    },
+    {
+        "moveId": "HEAT_WAVE",
+        "power": 95,
+        "type": "fire"
+    },
+    {
+        "moveId": "HEAVY_SLAM",
+        "power": 70,
+        "type": "steel"
+    },
+    {
+        "moveId": "HEX",
+        "power": 7,
+        "type": "ghost"
+    },
+    {
+        "moveId": "HIDDEN_POWER_BUG",
+        "power": 9,
+        "type": "bug"
+    },
+    {
+        "moveId": "HIDDEN_POWER_DARK",
+        "power": 9,
+        "type": "dark"
+    },
+    {
+        "moveId": "HIDDEN_POWER_DRAGON",
+        "power": 9,
+        "type": "dragon"
+    },
+    {
+        "moveId": "HIDDEN_POWER_ELECTRIC",
+        "power": 9,
+        "type": "electric"
+    },
+    {
+        "moveId": "HIDDEN_POWER_FIGHTING",
+        "power": 9,
+        "type": "fighting"
+    },
+    {
+        "moveId": "HIDDEN_POWER_FIRE",
+        "power": 9,
+        "type": "fire"
+    },
+    {
+        "moveId": "HIDDEN_POWER_FLYING",
+        "power": 9,
+        "type": "flying"
+    },
+    {
+        "moveId": "HIDDEN_POWER_GHOST",
+        "power": 9,
+        "type": "ghost"
+    },
+    {
+        "moveId": "HIDDEN_POWER_GRASS",
+        "power": 9,
+        "type": "grass"
+    },
+    {
+        "moveId": "HIDDEN_POWER_GROUND",
+        "power": 9,
+        "type": "ground"
+    },
+    {
+        "moveId": "HIDDEN_POWER_ICE",
+        "power": 9,
+        "type": "ice"
+    },
+    {
+        "moveId": "HIDDEN_POWER_POISON",
+        "power": 9,
+        "type": "poison"
+    },
+    {
+        "moveId": "HIDDEN_POWER_PSYCHIC",
+        "power": 9,
+        "type": "psychic"
+    },
+    {
+        "moveId": "HIDDEN_POWER_ROCK",
+        "power": 9,
+        "type": "rock"
+    },
+    {
+        "moveId": "HIDDEN_POWER_STEEL",
+        "power": 9,
+        "type": "steel"
+    },
+    {
+        "moveId": "HIDDEN_POWER_WATER",
+        "power": 9,
+        "type": "water"
+    },
+    {
+        "moveId": "HIGH_HORSEPOWER",
+        "power": 100,
+        "type": "ground"
+    },
+    {
+        "moveId": "HIGH_JUMP_KICK",
+        "power": 110,
+        "type": "fighting"
+    },
+    {
+        "moveId": "HORN_ATTACK",
+        "power": 40,
+        "type": "normal"
+    },
+    {
+        "moveId": "HURRICANE",
+        "power": 110,
+        "type": "flying"
+    },
+    {
+        "moveId": "HYDRO_CANNON",
+        "power": 80,
+        "type": "water"
+    },
+    {
+        "moveId": "HYDRO_PUMP",
+        "power": 130,
+        "type": "water"
+    },
+    {
+        "moveId": "HYDRO_PUMP_BLASTOISE",
+        "power": 90,
+        "type": "water"
+    },
+    {
+        "moveId": "HYPER_BEAM",
+        "power": 150,
+        "type": "normal"
+    },
+    {
+        "moveId": "HYPER_FANG",
+        "power": 80,
+        "type": "normal"
+    },
+    {
+        "moveId": "ICE_BEAM",
+        "power": 90,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICE_BURN",
+        "power": 120,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICE_FANG",
+        "power": 8,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICE_PUNCH",
+        "power": 60,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICE_SHARD",
+        "power": 9,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICICLE_SPEAR",
+        "power": 70,
+        "type": "ice"
+    },
+    {
+        "moveId": "ICY_WIND",
+        "power": 60,
+        "type": "ice"
+    },
+    {
+        "moveId": "INCINERATE",
+        "power": 20,
+        "type": "fire"
+    },
+    {
+        "moveId": "INFESTATION",
+        "power": 6,
+        "type": "bug"
+    },
+    {
+        "moveId": "IRON_HEAD",
+        "power": 70,
+        "type": "steel"
+    },
+    {
+        "moveId": "IRON_TAIL",
+        "power": 10,
+        "type": "steel"
+    },
+    {
+        "moveId": "KARATE_CHOP",
+        "power": 5,
+        "type": "fighting"
+    },
+    {
+        "moveId": "LAST_RESORT",
+        "power": 90,
+        "type": "normal"
+    },
+    {
+        "moveId": "LEAFAGE",
+        "power": 6,
+        "type": "grass"
+    },
+    {
+        "moveId": "LEAF_BLADE",
+        "power": 70,
+        "type": "grass"
+    },
+    {
+        "moveId": "LEAF_STORM",
+        "power": 130,
+        "type": "grass"
+    },
+    {
+        "moveId": "LEAF_TORNADO",
+        "power": 45,
+        "type": "grass"
+    },
+    {
+        "moveId": "LICK",
+        "power": 3,
+        "type": "ghost"
+    },
+    {
+        "moveId": "LIQUIDATION",
+        "power": 70,
+        "type": "water"
+    },
+    {
+        "moveId": "LOCK_ON",
+        "power": 1,
+        "type": "normal"
+    },
+    {
+        "moveId": "LOW_KICK",
+        "power": 4,
+        "type": "fighting"
+    },
+    {
+        "moveId": "LOW_SWEEP",
+        "power": 40,
+        "type": "fighting"
+    },
+    {
+        "moveId": "LUNGE",
+        "power": 60,
+        "type": "bug"
+    },
+    {
+        "moveId": "LUSTER_PURGE",
+        "power": 120,
+        "type": "psychic"
+    },
+    {
+        "moveId": "MAGICAL_LEAF",
+        "power": 10,
+        "type": "grass"
+    },
+    {
+        "moveId": "MAGMA_STORM",
+        "power": 65,
+        "type": "fire"
+    },
+    {
+        "moveId": "MAGNET_BOMB",
+        "power": 70,
+        "type": "steel"
+    },
+    {
+        "moveId": "MEGAHORN",
+        "power": 110,
+        "type": "bug"
+    },
+    {
+        "moveId": "MEGA_DRAIN",
+        "power": 25,
+        "type": "grass"
+    },
+    {
+        "moveId": "METAL_CLAW",
+        "power": 5,
+        "type": "steel"
+    },
+    {
+        "moveId": "METAL_SOUND",
+        "power": 5,
+        "type": "steel"
+    },
+    {
+        "moveId": "METEOR_BEAM",
+        "power": 120,
+        "type": "rock"
+    },
+    {
+        "moveId": "METEOR_MASH",
+        "power": 100,
+        "type": "steel"
+    },
+    {
+        "moveId": "MIRROR_COAT",
+        "power": 60,
+        "type": "psychic"
+    },
+    {
+        "moveId": "MIRROR_SHOT",
+        "power": 35,
+        "type": "steel"
+    },
+    {
+        "moveId": "MIST_BALL",
+        "power": 120,
+        "type": "psychic"
+    },
+    {
+        "moveId": "MOONBLAST",
+        "power": 110,
+        "type": "fairy"
+    },
+    {
+        "moveId": "MOONGEIST_BEAM",
+        "power": 135,
+        "type": "ghost"
+    },
+    {
+        "moveId": "MUDDY_WATER",
+        "power": 35,
+        "type": "water"
+    },
+    {
+        "moveId": "MUD_BOMB",
+        "power": 60,
+        "type": "ground"
+    },
+    {
+        "moveId": "MUD_SHOT",
+        "power": 4,
+        "type": "ground"
+    },
+    {
+        "moveId": "MUD_SLAP",
+        "power": 12,
+        "type": "ground"
+    },
+    {
+        "moveId": "MYSTICAL_FIRE",
+        "power": 60,
+        "type": "fire"
+    },
+    {
+        "moveId": "NATURES_MADNESS",
+        "power": 80,
+        "type": "fairy"
+    },
+    {
+        "moveId": "NIGHT_SHADE",
+        "power": 70,
+        "type": "ghost"
+    },
+    {
+        "moveId": "NIGHT_SLASH",
+        "power": 50,
+        "type": "dark"
+    },
+    {
+        "moveId": "OBLIVION_WING",
+        "power": 85,
+        "type": "flying"
+    },
+    {
+        "moveId": "OBSTRUCT",
+        "power": 15,
+        "type": "dark"
+    },
+    {
+        "moveId": "OCTAZOOKA",
+        "power": 50,
+        "type": "water"
+    },
+    {
+        "moveId": "OMINOUS_WIND",
+        "power": 45,
+        "type": "ghost"
+    },
+    {
+        "moveId": "ORIGIN_PULSE",
+        "power": 130,
+        "type": "water"
+    },
+    {
+        "moveId": "OUTRAGE",
+        "power": 110,
+        "type": "dragon"
+    },
+    {
+        "moveId": "OVERHEAT",
+        "power": 130,
+        "type": "fire"
+    },
+    {
+        "moveId": "PARABOLIC_CHARGE",
+        "power": 70,
+        "type": "electric"
+    },
+    {
+        "moveId": "PAYBACK",
+        "power": 110,
+        "type": "dark"
+    },
+    {
+        "moveId": "PECK",
+        "power": 6,
+        "type": "flying"
+    },
+    {
+        "moveId": "PETAL_BLIZZARD",
+        "power": 110,
+        "type": "grass"
+    },
+    {
+        "moveId": "PLAY_ROUGH",
+        "power": 90,
+        "type": "fairy"
+    },
+    {
+        "moveId": "POISON_FANG",
+        "power": 45,
+        "type": "poison"
+    },
+    {
+        "moveId": "POISON_JAB",
+        "power": 7,
+        "type": "poison"
+    },
+    {
+        "moveId": "POISON_STING",
+        "power": 4,
+        "type": "poison"
+    },
+    {
+        "moveId": "POLTERGEIST",
+        "power": 150,
+        "type": "ghost"
+    },
+    {
+        "moveId": "POUND",
+        "power": 4,
+        "type": "normal"
+    },
+    {
+        "moveId": "POWDER_SNOW",
+        "power": 6,
+        "type": "ice"
+    },
+    {
+        "moveId": "POWER_GEM",
+        "power": 85,
+        "type": "rock"
+    },
+    {
+        "moveId": "POWER_UP_PUNCH",
+        "power": 20,
+        "type": "fighting"
+    },
+    {
+        "moveId": "POWER_WHIP",
+        "power": 90,
+        "type": "grass"
+    },
+    {
+        "moveId": "PRECIPICE_BLADES",
+        "power": 130,
+        "type": "ground"
+    },
+    {
+        "moveId": "PRESENT",
+        "power": 3,
+        "type": "normal"
+    },
+    {
+        "moveId": "PSYBEAM",
+        "power": 70,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYCHIC",
+        "power": 75,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYCHIC_FANGS",
+        "power": 40,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYCHO_BOOST",
+        "power": 70,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYCHO_CUT",
+        "power": 3,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYSHOCK",
+        "power": 70,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYSTRIKE",
+        "power": 90,
+        "type": "psychic"
+    },
+    {
+        "moveId": "PSYWAVE",
+        "power": 3,
+        "type": "psychic"
+    },
+    {
+        "moveId": "QUICK_ATTACK",
+        "power": 5,
+        "type": "normal"
+    },
+    {
+        "moveId": "RAGE_FIST",
+        "power": 50,
+        "type": "ghost"
+    },
+    {
+        "moveId": "RAZOR_LEAF",
+        "power": 9,
+        "type": "grass"
+    },
+    {
+        "moveId": "RAZOR_SHELL",
+        "power": 35,
+        "type": "water"
+    },
+    {
+        "moveId": "REST",
+        "power": 50,
+        "type": "normal"
+    },
+    {
+        "moveId": "RETURN",
+        "power": 130,
+        "type": "normal"
+    },
+    {
+        "moveId": "ROAR_OF_TIME",
+        "power": 150,
+        "type": "dragon"
+    },
+    {
+        "moveId": "ROCK_BLAST",
+        "power": 50,
+        "type": "rock"
+    },
+    {
+        "moveId": "ROCK_SLIDE",
+        "power": 75,
+        "type": "rock"
+    },
+    {
+        "moveId": "ROCK_SMASH",
+        "power": 9,
+        "type": "fighting"
+    },
+    {
+        "moveId": "ROCK_THROW",
+        "power": 8,
+        "type": "rock"
+    },
+    {
+        "moveId": "ROCK_TOMB",
+        "power": 80,
+        "type": "rock"
+    },
+    {
+        "moveId": "ROCK_WRECKER",
+        "power": 110,
+        "type": "rock"
+    },
+    {
+        "moveId": "ROLLOUT",
+        "power": 7,
+        "type": "rock"
+    },
+    {
+        "moveId": "SACRED_FIRE",
+        "power": 130,
+        "type": "fire"
+    },
+    {
+        "moveId": "SACRED_SWORD",
+        "power": 60,
+        "type": "fighting"
+    },
+    {
+        "moveId": "SANDSEAR_STORM",
+        "power": 60,
+        "type": "ground"
+    },
+    {
+        "moveId": "SAND_ATTACK",
+        "power": 2,
+        "type": "ground"
+    },
+    {
+        "moveId": "SAND_TOMB",
+        "power": 25,
+        "type": "ground"
+    },
+    {
+        "moveId": "SCALD",
+        "power": 85,
+        "type": "water"
+    },
+    {
+        "moveId": "SCORCHING_SANDS",
+        "power": 80,
+        "type": "ground"
+    },
+    {
+        "moveId": "SCRATCH",
+        "power": 4,
+        "type": "normal"
+    },
+    {
+        "moveId": "SECRET_SWORD",
+        "power": 70,
+        "type": "fighting"
+    },
+    {
+        "moveId": "SEED_BOMB",
+        "power": 55,
+        "type": "grass"
+    },
+    {
+        "moveId": "SEED_FLARE",
+        "power": 130,
+        "type": "grass"
+    },
+    {
+        "moveId": "SHADOW_BALL",
+        "power": 100,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SHADOW_BONE",
+        "power": 80,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SHADOW_CLAW",
+        "power": 6,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SHADOW_FORCE",
+        "power": 120,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SHADOW_PUNCH",
+        "power": 55,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SHADOW_SNEAK",
+        "power": 75,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SIGNAL_BEAM",
+        "power": 75,
+        "type": "bug"
+    },
+    {
+        "moveId": "SILVER_WIND",
+        "power": 60,
+        "type": "bug"
+    },
+    {
+        "moveId": "SKULL_BASH",
+        "power": 130,
+        "type": "normal"
+    },
+    {
+        "moveId": "SKY_ATTACK",
+        "power": 75,
+        "type": "flying"
+    },
+    {
+        "moveId": "SLUDGE",
+        "power": 70,
+        "type": "poison"
+    },
+    {
+        "moveId": "SLUDGE_BOMB",
+        "power": 80,
+        "type": "poison"
+    },
+    {
+        "moveId": "SLUDGE_WAVE",
+        "power": 110,
+        "type": "poison"
+    },
+    {
+        "moveId": "SMACK_DOWN",
+        "power": 12,
+        "type": "rock"
+    },
+    {
+        "moveId": "SNARL",
+        "power": 5,
+        "type": "dark"
+    },
+    {
+        "moveId": "SOLAR_BEAM",
+        "power": 150,
+        "type": "grass"
+    },
+    {
+        "moveId": "SPACIAL_REND",
+        "power": 95,
+        "type": "dragon"
+    },
+    {
+        "moveId": "SPARK",
+        "power": 5,
+        "type": "electric"
+    },
+    {
+        "moveId": "SPARKLING_ARIA",
+        "power": 80,
+        "type": "water"
+    },
+    {
+        "moveId": "SPIRIT_SHACKLE",
+        "power": 50,
+        "type": "ghost"
+    },
+    {
+        "moveId": "SPLASH",
+        "power": 0,
+        "type": "water"
+    },
+    {
+        "moveId": "SPRINGTIDE_STORM",
+        "power": 60,
+        "type": "fairy"
+    },
+    {
+        "moveId": "STEEL_WING",
+        "power": 7,
+        "type": "steel"
+    },
+    {
+        "moveId": "STOMP",
+        "power": 55,
+        "type": "normal"
+    },
+    {
+        "moveId": "STONE_EDGE",
+        "power": 100,
+        "type": "rock"
+    },
+    {
+        "moveId": "STRUGGLE",
+        "power": 35,
+        "type": "normal"
+    },
+    {
+        "moveId": "STRUGGLE_BUG",
+        "power": 9,
+        "type": "bug"
+    },
+    {
+        "moveId": "SUBMISSION",
+        "power": 60,
+        "type": "fighting"
+    },
+    {
+        "moveId": "SUCKER_PUNCH",
+        "power": 8,
+        "type": "dark"
+    },
+    {
+        "moveId": "SUNSTEEL_STRIKE",
+        "power": 135,
+        "type": "steel"
+    },
+    {
+        "moveId": "SUPER_POWER",
+        "power": 85,
+        "type": "fighting"
+    },
+    {
+        "moveId": "SURF",
+        "power": 75,
+        "type": "water"
+    },
+    {
+        "moveId": "SWIFT",
+        "power": 55,
+        "type": "normal"
+    },
+    {
+        "moveId": "SYNCHRONOISE",
+        "power": 80,
+        "type": "psychic"
+    },
+    {
+        "moveId": "TACKLE",
+        "power": 3,
+        "type": "normal"
+    },
+    {
+        "moveId": "TAKE_DOWN",
+        "power": 5,
+        "type": "normal"
+    },
+    {
+        "moveId": "TECHNO_BLAST_BURN",
+        "power": 120,
+        "type": "fire"
+    },
+    {
+        "moveId": "TECHNO_BLAST_CHILL",
+        "power": 120,
+        "type": "ice"
+    },
+    {
+        "moveId": "TECHNO_BLAST_DOUSE",
+        "power": 120,
+        "type": "water"
+    },
+    {
+        "moveId": "TECHNO_BLAST_NORMAL",
+        "power": 120,
+        "type": "normal"
+    },
+    {
+        "moveId": "TECHNO_BLAST_SHOCK",
+        "power": 120,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDER",
+        "power": 100,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDERBOLT",
+        "power": 90,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDER_CAGE",
+        "power": 60,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDER_FANG",
+        "power": 8,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDER_PUNCH",
+        "power": 60,
+        "type": "electric"
+    },
+    {
+        "moveId": "THUNDER_SHOCK",
+        "power": 4,
+        "type": "electric"
+    },
+    {
+        "moveId": "TORCH_SONG",
+        "power": 70,
+        "type": "fire"
+    },
+    {
+        "moveId": "TRAILBLAZE",
+        "power": 65,
+        "type": "grass"
+    },
+    {
+        "moveId": "TRANSFORM",
+        "power": 0,
+        "type": "normal"
+    },
+    {
+        "moveId": "TRIPLE_AXEL",
+        "power": 60,
+        "type": "ice"
+    },
+    {
+        "moveId": "TRI_ATTACK",
+        "power": 65,
+        "type": "normal"
+    },
+    {
+        "moveId": "TWISTER",
+        "power": 45,
+        "type": "dragon"
+    },
+    {
+        "moveId": "UPPER_HAND",
+        "power": 70,
+        "type": "fighting"
+    },
+    {
+        "moveId": "VICE_GRIP",
+        "power": 70,
+        "type": "normal"
+    },
+    {
+        "moveId": "VINE_WHIP",
+        "power": 5,
+        "type": "grass"
+    },
+    {
+        "moveId": "VOLT_SWITCH",
+        "power": 14,
+        "type": "electric"
+    },
+    {
+        "moveId": "VOLT_TACKLE",
+        "power": 90,
+        "type": "electric"
+    },
+    {
+        "moveId": "V_CREATE",
+        "power": 95,
+        "type": "fire"
+    },
+    {
+        "moveId": "WATERFALL",
+        "power": 12,
+        "type": "water"
+    },
+    {
+        "moveId": "WATER_GUN",
+        "power": 3,
+        "type": "water"
+    },
+    {
+        "moveId": "WATER_GUN_FAST_BLASTOISE",
+        "power": 6,
+        "type": "water"
+    },
+    {
+        "moveId": "WATER_PULSE",
+        "power": 80,
+        "type": "water"
+    },
+    {
+        "moveId": "WATER_SHURIKEN",
+        "power": 6,
+        "type": "water"
+    },
+    {
+        "moveId": "WEATHER_BALL_FIRE",
+        "power": 60,
+        "type": "fire"
+    },
+    {
+        "moveId": "WEATHER_BALL_ICE",
+        "power": 60,
+        "type": "ice"
+    },
+    {
+        "moveId": "WEATHER_BALL_NORMAL",
+        "power": 60,
+        "type": "normal"
+    },
+    {
+        "moveId": "WEATHER_BALL_ROCK",
+        "power": 60,
+        "type": "rock"
+    },
+    {
+        "moveId": "WEATHER_BALL_WATER",
+        "power": 60,
+        "type": "water"
+    },
+    {
+        "moveId": "WILDBOLT_STORM",
+        "power": 60,
+        "type": "electric"
+    },
+    {
+        "moveId": "WILD_CHARGE",
+        "power": 100,
+        "type": "electric"
+    },
+    {
+        "moveId": "WING_ATTACK",
+        "power": 5,
+        "type": "flying"
+    },
+    {
+        "moveId": "WRAP",
+        "power": 60,
+        "type": "normal"
+    },
+    {
+        "moveId": "X_SCISSOR",
+        "power": 65,
+        "type": "bug"
+    },
+    {
+        "moveId": "YAWN",
+        "power": 0,
+        "type": "normal"
+    },
+    {
+        "moveId": "ZAP_CANNON",
+        "power": 150,
+        "type": "electric"
+    },
+    {
+        "moveId": "ZEN_HEADBUTT",
+        "power": 8,
+        "type": "psychic"
+    }
+]
