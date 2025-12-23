@@ -4396,7 +4396,7 @@
         },
         "fastMoves": [
             "SMACK_DOWN",
-            "INCINERATE"
+            "TACKLE"
         ],
         "speciesId": "carkol",
         "types": [
@@ -5934,8 +5934,7 @@
             ]
         },
         "fastMoves": [
-            "SMACK_DOWN",
-            "INCINERATE"
+            "SMACK_DOWN"
         ],
         "speciesId": "coalossal",
         "types": [
