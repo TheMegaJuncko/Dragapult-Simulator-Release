@@ -3091,7 +3091,8 @@
         "chargedMoves": [
             "MYSTICAL_FIRE",
             "SHADOW_BALL",
-            "OVERHEAT"
+            "OVERHEAT",
+            "MIND_BLOWN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -4395,8 +4396,7 @@
             ]
         },
         "fastMoves": [
-            "SMACK_DOWN",
-            "TACKLE"
+            "SMACK_DOWN"
         ],
         "speciesId": "carkol",
         "types": [
@@ -5934,7 +5934,8 @@
             ]
         },
         "fastMoves": [
-            "SMACK_DOWN"
+            "SMACK_DOWN",
+            "FIRE_SPIN"
         ],
         "speciesId": "coalossal",
         "types": [
@@ -12505,7 +12506,8 @@
         "chargedMoves": [
             "DAZZLING_GLEAM",
             "POWER_GEM",
-            "SLUDGE_WAVE"
+            "SLUDGE_WAVE",
+            "METEOR_BEAM"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -26936,7 +26938,9 @@
         "chargedMoves": [
             "ENERGY_BALL",
             "GRASS_KNOT",
-            "EARTH_POWER"
+            "EARTH_POWER",
+            "DRUM_BEATING",
+            "FRENZY_PLANT"
         ],
         "defaultIVs": {
             "cp1500": [

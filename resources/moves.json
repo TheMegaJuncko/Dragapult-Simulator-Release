@@ -375,6 +375,11 @@
         "type": "ground"
     },
     {
+        "moveId": "DRUM_BEATING",
+        "power": 60,
+        "type": "grass"
+    },
+    {
         "moveId": "DYNAMAX_CANNON",
         "power": 80,
         "type": "dragon"
@@ -893,6 +898,11 @@
         "moveId": "METEOR_MASH",
         "power": 100,
         "type": "steel"
+    },
+    {
+        "moveId": "MIND_BLOWN",
+        "power": 90,
+        "type": "fire"
     },
     {
         "moveId": "MIRROR_COAT",
