@@ -665,6 +665,11 @@
         "type": "ice"
     },
     {
+        "moveId": "HIDDEN_POWER_NORMAL",
+        "power": 9,
+        "type": "normal"
+    },
+    {
         "moveId": "HIDDEN_POWER_POISON",
         "power": 9,
         "type": "poison"

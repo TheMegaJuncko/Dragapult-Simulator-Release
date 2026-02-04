@@ -10668,7 +10668,7 @@
         "chargedMoves": [
             "AERIAL_ACE",
             "BRAVE_BIRD",
-            "CLOSE_COMBAT"
+            "UPPER_HAND"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -22255,7 +22255,8 @@
             "PSYSHOCK",
             "SOLAR_BEAM",
             "WEATHER_BALL_FIRE",
-            "SCORCHING_SANDS"
+            "SCORCHING_SANDS",
+            "ENERGY_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -22287,7 +22288,8 @@
             "DAZZLING_GLEAM",
             "ICE_BEAM",
             "PSYSHOCK",
-            "WEATHER_BALL_ICE"
+            "WEATHER_BALL_ICE",
+            "CHILLING_WATER"
         ],
         "defaultIVs": {
             "cp1500": [
