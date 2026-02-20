@@ -9796,9 +9796,10 @@
             "hp": 179
         },
         "chargedMoves": [
-            "DAZZLING_GLEAM",
+            "MOONBLAST",
             "FLY",
-            "GRASS_KNOT"
+            "EARTH_POWER",
+            "MYSTICAL_FIRE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -9810,7 +9811,7 @@
         },
         "fastMoves": [
             "ASTONISH",
-            "ZEN_HEADBUTT",
+            "EXTRASENSORY",
             "FAIRY_WIND"
         ],
         "speciesId": "enamorus_therian",
@@ -19211,6 +19212,37 @@
             "PSYWAVE"
         ],
         "speciesId": "malamar",
+        "types": [
+            "dark",
+            "psychic"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 208,
+            "def": 222,
+            "hp": 200
+        },
+        "chargedMoves": [
+            "PSYBEAM",
+            "FOUL_PLAY",
+            "SUPER_POWER",
+            "HYPER_BEAM"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                17.5,
+                4,
+                15,
+                15
+            ]
+        },
+        "fastMoves": [
+            "PECK",
+            "PSYCHO_CUT",
+            "PSYWAVE"
+        ],
+        "speciesId": "malamar_mega",
         "types": [
             "dark",
             "psychic"
@@ -36006,6 +36038,38 @@
             "MAGICAL_LEAF"
         ],
         "speciesId": "victreebel",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 265,
+            "def": 181,
+            "hp": 190
+        },
+        "chargedMoves": [
+            "LEAF_BLADE",
+            "SLUDGE_BOMB",
+            "SOLAR_BEAM",
+            "ACID_SPRAY",
+            "LEAF_TORNADO"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                15.5,
+                7,
+                14,
+                14
+            ]
+        },
+        "fastMoves": [
+            "ACID",
+            "RAZOR_LEAF",
+            "MAGICAL_LEAF"
+        ],
+        "speciesId": "victreebel_mega",
         "types": [
             "grass",
             "poison"
