@@ -56,7 +56,8 @@
             ]
         },
         "family": [
-            "snover"
+            "snover",
+            "abomasnow"
         ],
         "fastMoves": [
             "POWDER_SNOW",
@@ -89,7 +90,8 @@
             ]
         },
         "family": [
-            "kadabra"
+            "kadabra",
+            "alakazam"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -218,7 +220,9 @@
             ]
         },
         "family": [
-            "doublade"
+            "doublade",
+            "honedge",
+            "aegislash_shield"
         ],
         "fastMoves": [
             "PSYCHO_CUT",
@@ -250,7 +254,8 @@
             ]
         },
         "family": [
-            "doublade"
+            "doublade",
+            "honedge"
         ],
         "fastMoves": [
             "AEGISLASH_CHARGE_PSYCHO_CUT",
@@ -350,7 +355,8 @@
             ]
         },
         "family": [
-            "lairon"
+            "lairon",
+            "aron"
         ],
         "fastMoves": [
             "DRAGON_TAIL",
@@ -452,7 +458,8 @@
             ]
         },
         "family": [
-            "kadabra"
+            "kadabra",
+            "abra"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -630,7 +637,8 @@
             ]
         },
         "family": [
-            "swablu"
+            "swablu",
+            "altaria"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -764,7 +772,8 @@
             ]
         },
         "family": [
-            "flaaffy"
+            "flaaffy",
+            "mareep"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -801,7 +810,9 @@
             ]
         },
         "family": [
-            "flaaffy"
+            "flaaffy",
+            "mareep",
+            "ampharos"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -836,7 +847,8 @@
             ]
         },
         "family": [
-            "primeape"
+            "primeape",
+            "mankey"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -901,7 +913,10 @@
             ]
         },
         "family": [
-            "applin"
+            "applin",
+            "flapple",
+            "dipplin",
+            "hydrapple"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -933,7 +948,8 @@
         "family": [
             "flapple",
             "appletun",
-            "dipplin"
+            "dipplin",
+            "hydrapple"
         ],
         "fastMoves": [
             "ASTONISH"
@@ -1033,7 +1049,8 @@
             ]
         },
         "family": [
-            "dolliv"
+            "dolliv",
+            "smoliv"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -1916,7 +1933,8 @@
             ]
         },
         "family": [
-            "charcadet"
+            "charcadet",
+            "ceruledge"
         ],
         "fastMoves": [
             "EMBER",
@@ -1982,7 +2000,8 @@
             ]
         },
         "family": [
-            "lairon"
+            "lairon",
+            "aggron"
         ],
         "fastMoves": [
             "METAL_CLAW",
@@ -2242,7 +2261,8 @@
             ]
         },
         "family": [
-            "bergmite"
+            "bergmite",
+            "avalugg"
         ],
         "fastMoves": [
             "BITE",
@@ -2275,7 +2295,8 @@
             ]
         },
         "family": [
-            "fraxure"
+            "fraxure",
+            "haxorus"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -2336,7 +2357,8 @@
             ]
         },
         "family": [
-            "marill"
+            "marill",
+            "azurill"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -2368,7 +2390,8 @@
             ]
         },
         "family": [
-            "marill"
+            "marill",
+            "azumarill"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -2400,7 +2423,8 @@
             ]
         },
         "family": [
-            "shelgon"
+            "shelgon",
+            "salamence"
         ],
         "fastMoves": [
             "BITE",
@@ -2624,7 +2648,8 @@
             ]
         },
         "family": [
-            "basculin"
+            "basculin",
+            "basculegion_male"
         ],
         "fastMoves": [
             "SPLASH"
@@ -2653,7 +2678,8 @@
             ]
         },
         "family": [
-            "basculin"
+            "basculin",
+            "basculegion_female"
         ],
         "fastMoves": [
             "SPLASH"
@@ -2751,7 +2777,8 @@
             ]
         },
         "family": [
-            "arctibax"
+            "arctibax",
+            "frigibax"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -2850,7 +2877,10 @@
             ]
         },
         "family": [
-            "silcoon"
+            "silcoon",
+            "wurmple",
+            "cascoon",
+            "dustox"
         ],
         "fastMoves": [
             "INFESTATION",
@@ -2884,7 +2914,8 @@
             ]
         },
         "family": [
-            "kakuna"
+            "kakuna",
+            "weedle"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -2920,7 +2951,9 @@
             ]
         },
         "family": [
-            "kakuna"
+            "kakuna",
+            "weedle",
+            "beedrill"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -2984,7 +3017,8 @@
             ]
         },
         "family": [
-            "metang"
+            "metang",
+            "metagross"
         ],
         "fastMoves": [
             "TAKE_DOWN"
@@ -3048,7 +3082,9 @@
             ]
         },
         "family": [
-            "gloom"
+            "gloom",
+            "oddish",
+            "vileplume"
         ],
         "fastMoves": [
             "ACID",
@@ -3082,7 +3118,8 @@
             ]
         },
         "family": [
-            "weepinbell"
+            "weepinbell",
+            "victreebel"
         ],
         "fastMoves": [
             "ACID",
@@ -3347,7 +3384,8 @@
             ]
         },
         "family": [
-            "wartortle"
+            "wartortle",
+            "squirtle"
         ],
         "fastMoves": [
             "BITE",
@@ -3382,7 +3420,9 @@
             ]
         },
         "family": [
-            "wartortle"
+            "wartortle",
+            "squirtle",
+            "blastoise"
         ],
         "fastMoves": [
             "BITE",
@@ -3419,7 +3459,8 @@
             ]
         },
         "family": [
-            "combusken"
+            "combusken",
+            "torchic"
         ],
         "fastMoves": [
             "COUNTER",
@@ -3484,7 +3525,8 @@
             ]
         },
         "family": [
-            "dottler"
+            "dottler",
+            "orbeetle"
         ],
         "fastMoves": [
             "STRUGGLE_BUG"
@@ -3516,7 +3558,8 @@
             ]
         },
         "family": [
-            "chansey"
+            "chansey",
+            "happiny"
         ],
         "fastMoves": [
             "POUND",
@@ -3736,7 +3779,8 @@
             ]
         },
         "family": [
-            "steenee"
+            "steenee",
+            "tsareena"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -3901,7 +3945,8 @@
             ]
         },
         "family": [
-            "rufflet"
+            "rufflet",
+            "braviary"
         ],
         "fastMoves": [
             "ZEN_HEADBUTT",
@@ -4126,7 +4171,8 @@
             ]
         },
         "family": [
-            "roselia"
+            "roselia",
+            "roserade"
         ],
         "fastMoves": [
             "HIDDEN_POWER_BUG",
@@ -4205,7 +4251,8 @@
             ]
         },
         "family": [
-            "ivysaur"
+            "ivysaur",
+            "venusaur"
         ],
         "fastMoves": [
             "TACKLE",
@@ -4299,7 +4346,9 @@
         },
         "family": [
             "wormadam_plant",
-            "mothim"
+            "mothim",
+            "burmy_trash",
+            "wormadam_trash"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -4330,7 +4379,9 @@
         },
         "family": [
             "wormadam_sandy",
-            "mothim"
+            "mothim",
+            "burmy_trash",
+            "wormadam_trash"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -4393,7 +4444,8 @@
             ]
         },
         "family": [
-            "metapod"
+            "metapod",
+            "caterpie"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -4620,7 +4672,8 @@
             ]
         },
         "family": [
-            "numel"
+            "numel",
+            "camerupt"
         ],
         "fastMoves": [
             "EMBER",
@@ -4715,7 +4768,9 @@
         },
         "family": [
             "boltund",
-            "coalossal"
+            "coalossal",
+            "yamper",
+            "rolycoly"
         ],
         "fastMoves": [
             "SMACK_DOWN"
@@ -4839,7 +4894,9 @@
         },
         "family": [
             "wurmple",
-            "dustox"
+            "dustox",
+            "silcoon",
+            "beautifly"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -4986,7 +5043,8 @@
             ]
         },
         "family": [
-            "metapod"
+            "metapod",
+            "butterfree"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -5115,7 +5173,8 @@
             ]
         },
         "family": [
-            "charcadet"
+            "charcadet",
+            "armarouge"
         ],
         "fastMoves": [
             "EMBER",
@@ -5217,7 +5276,8 @@
             ]
         },
         "family": [
-            "lampent"
+            "lampent",
+            "litwick"
         ],
         "fastMoves": [
             "HEX",
@@ -5320,7 +5380,8 @@
             ]
         },
         "family": [
-            "charmeleon"
+            "charmeleon",
+            "charmander"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -5358,7 +5419,9 @@
             ]
         },
         "family": [
-            "charmeleon"
+            "charmeleon",
+            "charmander",
+            "charizard"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -5396,7 +5459,9 @@
             ]
         },
         "family": [
-            "charmeleon"
+            "charmeleon",
+            "charmander",
+            "charizard"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -5465,7 +5530,8 @@
             ]
         },
         "family": [
-            "charmeleon"
+            "charmeleon",
+            "charizard"
         ],
         "fastMoves": [
             "EMBER",
@@ -5560,7 +5626,8 @@
             ]
         },
         "family": [
-            "cherubi"
+            "cherubi",
+            "cherrim_sunny"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -5593,7 +5660,8 @@
             ]
         },
         "family": [
-            "cherubi"
+            "cherubi",
+            "cherrim_overcast"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -5661,7 +5729,8 @@
             ]
         },
         "family": [
-            "quilladin"
+            "quilladin",
+            "chespin"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -5694,7 +5763,8 @@
             ]
         },
         "family": [
-            "quilladin"
+            "quilladin",
+            "chesnaught"
         ],
         "fastMoves": [
             "TAKE_DOWN",
@@ -5815,7 +5885,8 @@
             ]
         },
         "family": [
-            "bayleef"
+            "bayleef",
+            "meganium"
         ],
         "fastMoves": [
             "TACKLE",
@@ -5848,7 +5919,8 @@
             ]
         },
         "family": [
-            "monferno"
+            "monferno",
+            "infernape"
         ],
         "fastMoves": [
             "EMBER",
@@ -6008,7 +6080,8 @@
             ]
         },
         "family": [
-            "raboot"
+            "raboot",
+            "scorbunny"
         ],
         "fastMoves": [
             "TACKLE",
@@ -6178,7 +6251,8 @@
             ]
         },
         "family": [
-            "clefairy"
+            "clefairy",
+            "cleffa"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -6250,7 +6324,8 @@
             ]
         },
         "family": [
-            "clefairy"
+            "clefairy",
+            "clefable"
         ],
         "fastMoves": [
             "POUND",
@@ -6384,7 +6459,10 @@
             ]
         },
         "family": [
-            "rolycoly"
+            "rolycoly",
+            "carkol",
+            "boltund",
+            "yamper"
         ],
         "fastMoves": [
             "SMACK_DOWN",
@@ -6587,7 +6665,8 @@
             ]
         },
         "family": [
-            "gurdurr"
+            "gurdurr",
+            "timburr"
         ],
         "fastMoves": [
             "COUNTER",
@@ -6745,7 +6824,8 @@
             ]
         },
         "family": [
-            "corvisquire"
+            "corvisquire",
+            "rookidee"
         ],
         "fastMoves": [
             "STEEL_WING",
@@ -6840,7 +6920,9 @@
             ]
         },
         "family": [
-            "cosmoem"
+            "cosmoem",
+            "solgaleo",
+            "lunala"
         ],
         "fastMoves": [
             "SPLASH"
@@ -7007,7 +7089,8 @@
             ]
         },
         "family": [
-            "lileep"
+            "lileep",
+            "cradily"
         ],
         "fastMoves": [
             "ACID",
@@ -7201,7 +7284,8 @@
             ]
         },
         "family": [
-            "golbat"
+            "golbat",
+            "zubat"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -7551,7 +7635,8 @@
             ]
         },
         "family": [
-            "quilava"
+            "quilava",
+            "typhlosion"
         ],
         "fastMoves": [
             "EMBER",
@@ -7647,7 +7732,8 @@
             ]
         },
         "family": [
-            "darumaka"
+            "darumaka",
+            "darmanitan_standard"
         ],
         "fastMoves": [
             "TACKLE",
@@ -7680,7 +7766,8 @@
             ]
         },
         "family": [
-            "darumaka"
+            "darumaka",
+            "darmanitan_standard"
         ],
         "fastMoves": [
             "TACKLE",
@@ -7747,7 +7834,8 @@
             ]
         },
         "family": [
-            "darumaka"
+            "darumaka",
+            "darmanitan_standard"
         ],
         "fastMoves": [
             "TACKLE",
@@ -7845,7 +7933,9 @@
             ]
         },
         "family": [
-            "darmanitan_galarian_standard"
+            "darmanitan_galarian_standard",
+            "darumaka",
+            "darmanitan_standard"
         ],
         "fastMoves": [
             "TACKLE",
@@ -7879,7 +7969,8 @@
             ]
         },
         "family": [
-            "dartrix"
+            "dartrix",
+            "rowlet"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -7915,7 +8006,9 @@
             ]
         },
         "family": [
-            "dartrix"
+            "dartrix",
+            "rowlet",
+            "decidueye"
         ],
         "fastMoves": [
             "MAGICAL_LEAF",
@@ -8009,7 +8102,8 @@
             ]
         },
         "family": [
-            "zweilous"
+            "zweilous",
+            "hydreigon"
         ],
         "fastMoves": [
             "TACKLE",
@@ -8109,7 +8203,8 @@
             ]
         },
         "family": [
-            "braixen"
+            "braixen",
+            "fennekin"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -8610,7 +8705,9 @@
         },
         "family": [
             "applin",
-            "hydrapple"
+            "hydrapple",
+            "flapple",
+            "appletun"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -8999,7 +9096,8 @@
             ]
         },
         "family": [
-            "drakloak"
+            "drakloak",
+            "dreepy"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -9070,7 +9168,8 @@
             ]
         },
         "family": [
-            "dragonair"
+            "dragonair",
+            "dratini"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -9108,7 +9207,9 @@
             ]
         },
         "family": [
-            "dragonair"
+            "dragonair",
+            "dratini",
+            "dragonite"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -9239,7 +9340,8 @@
             ]
         },
         "family": [
-            "dragonair"
+            "dragonair",
+            "dragonite"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -9302,7 +9404,8 @@
             ]
         },
         "family": [
-            "drakloak"
+            "drakloak",
+            "dragapult"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -9871,7 +9974,8 @@
             ]
         },
         "family": [
-            "dusclops"
+            "dusclops",
+            "duskull"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -9903,7 +10007,8 @@
             ]
         },
         "family": [
-            "dusclops"
+            "dusclops",
+            "dusknoir"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -9935,7 +10040,10 @@
             ]
         },
         "family": [
-            "cascoon"
+            "cascoon",
+            "wurmple",
+            "silcoon",
+            "beautifly"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -10034,7 +10142,8 @@
             ]
         },
         "family": [
-            "eelektrik"
+            "eelektrik",
+            "tynamo"
         ],
         "fastMoves": [
             "ACID",
@@ -10290,7 +10399,8 @@
             ]
         },
         "family": [
-            "electabuzz"
+            "electabuzz",
+            "elekid"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -10421,7 +10531,8 @@
             ]
         },
         "family": [
-            "electabuzz"
+            "electabuzz",
+            "electivire"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -10487,7 +10598,8 @@
             ]
         },
         "family": [
-            "pignite"
+            "pignite",
+            "tepig"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -10551,7 +10663,8 @@
             ]
         },
         "family": [
-            "prinplup"
+            "prinplup",
+            "piplup"
         ],
         "fastMoves": [
             "METAL_CLAW",
@@ -10748,7 +10861,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -10974,7 +11094,8 @@
             ]
         },
         "family": [
-            "exeggcute"
+            "exeggcute",
+            "exeggutor"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -11007,7 +11128,8 @@
             ]
         },
         "family": [
-            "loudred"
+            "loudred",
+            "whismur"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -11229,7 +11351,8 @@
             ]
         },
         "family": [
-            "braixen"
+            "braixen",
+            "delphox"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -11262,7 +11385,8 @@
             ]
         },
         "family": [
-            "croconaw"
+            "croconaw",
+            "totodile"
         ],
         "fastMoves": [
             "BITE",
@@ -11522,7 +11646,8 @@
             ]
         },
         "family": [
-            "floette"
+            "floette",
+            "florges"
         ],
         "fastMoves": [
             "VINE_WHIP",
@@ -11584,7 +11709,10 @@
             ]
         },
         "family": [
-            "applin"
+            "applin",
+            "appletun",
+            "dipplin",
+            "hydrapple"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -11619,7 +11747,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "EMBER",
@@ -11687,7 +11822,8 @@
             ]
         },
         "family": [
-            "fletchinder"
+            "fletchinder",
+            "talonflame"
         ],
         "fastMoves": [
             "PECK",
@@ -11853,7 +11989,8 @@
             ]
         },
         "family": [
-            "floette"
+            "floette",
+            "flabebe"
         ],
         "fastMoves": [
             "VINE_WHIP",
@@ -11917,7 +12054,8 @@
             ]
         },
         "family": [
-            "vibrava"
+            "vibrava",
+            "trapinch"
         ],
         "fastMoves": [
             "DRAGON_TAIL",
@@ -12085,7 +12223,8 @@
             ]
         },
         "family": [
-            "arctibax"
+            "arctibax",
+            "baxcalibur"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -12149,7 +12288,8 @@
             ]
         },
         "family": [
-            "frogadier"
+            "frogadier",
+            "greninja"
         ],
         "fastMoves": [
             "POUND",
@@ -12215,7 +12355,8 @@
             ]
         },
         "family": [
-            "snorunt"
+            "snorunt",
+            "glalie"
         ],
         "fastMoves": [
             "HEX",
@@ -12280,7 +12421,8 @@
             ]
         },
         "family": [
-            "crocalor"
+            "crocalor",
+            "skeledirge"
         ],
         "fastMoves": [
             "INCINERATE",
@@ -12411,7 +12553,9 @@
             ]
         },
         "family": [
-            "kirlia"
+            "kirlia",
+            "ralts",
+            "gardevoir"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -12547,7 +12691,8 @@
             ]
         },
         "family": [
-            "gabite"
+            "gabite",
+            "gible"
         ],
         "fastMoves": [
             "DRAGON_TAIL",
@@ -12613,7 +12758,9 @@
             ]
         },
         "family": [
-            "kirlia"
+            "kirlia",
+            "ralts",
+            "gallade"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -12680,7 +12827,8 @@
             ]
         },
         "family": [
-            "naclstack"
+            "naclstack",
+            "nacli"
         ],
         "fastMoves": [
             "SMACK_DOWN",
@@ -12713,7 +12861,8 @@
             ]
         },
         "family": [
-            "haunter"
+            "haunter",
+            "gengar"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -12946,7 +13095,8 @@
             ]
         },
         "family": [
-            "haunter"
+            "haunter",
+            "gastly"
         ],
         "fastMoves": [
             "HEX",
@@ -12985,7 +13135,9 @@
             ]
         },
         "family": [
-            "haunter"
+            "haunter",
+            "gastly",
+            "gengar"
         ],
         "fastMoves": [
             "HEX",
@@ -13019,7 +13171,8 @@
             ]
         },
         "family": [
-            "graveler"
+            "graveler",
+            "golem"
         ],
         "fastMoves": [
             "ROCK_THROW",
@@ -13051,7 +13204,8 @@
             ]
         },
         "family": [
-            "graveler_alolan"
+            "graveler_alolan",
+            "golem_alolan"
         ],
         "fastMoves": [
             "ROCK_THROW",
@@ -13116,7 +13270,8 @@
             ]
         },
         "family": [
-            "gabite"
+            "gabite",
+            "garchomp"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -13150,7 +13305,8 @@
             ]
         },
         "family": [
-            "boldore"
+            "boldore",
+            "roggenrola"
         ],
         "fastMoves": [
             "MUD_SLAP",
@@ -13308,7 +13464,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "sylveon"
         ],
         "fastMoves": [
             "FROST_BREATH",
@@ -13340,7 +13503,8 @@
             ]
         },
         "family": [
-            "snorunt"
+            "snorunt",
+            "froslass"
         ],
         "fastMoves": [
             "FROST_BREATH",
@@ -13768,7 +13932,8 @@
             ]
         },
         "family": [
-            "graveler"
+            "graveler",
+            "geodude"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -13801,7 +13966,8 @@
             ]
         },
         "family": [
-            "graveler_alolan"
+            "graveler_alolan",
+            "geodude_alolan"
         ],
         "fastMoves": [
             "ROCK_THROW",
@@ -13904,7 +14070,8 @@
             ]
         },
         "family": [
-            "wimpod"
+            "wimpod",
+            "golisopod"
         ],
         "fastMoves": [
             "FURY_CUTTER",
@@ -13974,7 +14141,8 @@
             ]
         },
         "family": [
-            "sliggoo"
+            "sliggoo",
+            "goomy"
         ],
         "fastMoves": [
             "WATER_GUN",
@@ -14006,7 +14174,8 @@
             ]
         },
         "family": [
-            "sliggoo"
+            "sliggoo",
+            "goodra"
         ],
         "fastMoves": [
             "WATER_GUN",
@@ -14038,7 +14207,8 @@
             ]
         },
         "family": [
-            "clamperl"
+            "clamperl",
+            "huntail"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -14101,7 +14271,8 @@
             ]
         },
         "family": [
-            "gothorita"
+            "gothorita",
+            "gothitelle"
         ],
         "fastMoves": [
             "POUND",
@@ -14133,7 +14304,8 @@
             ]
         },
         "family": [
-            "gothorita"
+            "gothorita",
+            "gothita"
         ],
         "fastMoves": [
             "CHARM",
@@ -14624,7 +14796,8 @@
             ]
         },
         "family": [
-            "frogadier"
+            "frogadier",
+            "froakie"
         ],
         "fastMoves": [
             "FEINT_ATTACK",
@@ -14723,7 +14896,8 @@
             ]
         },
         "family": [
-            "morgrem"
+            "morgrem",
+            "impidimp"
         ],
         "fastMoves": [
             "BITE",
@@ -14755,7 +14929,8 @@
             ]
         },
         "family": [
-            "thwackey"
+            "thwackey",
+            "rillaboom"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -14979,7 +15154,8 @@
             ]
         },
         "family": [
-            "charjabug"
+            "charjabug",
+            "vikavolt"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -15212,7 +15388,8 @@
             ]
         },
         "family": [
-            "magikarp"
+            "magikarp",
+            "gyarados"
         ],
         "fastMoves": [
             "BITE",
@@ -15278,7 +15455,8 @@
             ]
         },
         "family": [
-            "chansey"
+            "chansey",
+            "blissey"
         ],
         "fastMoves": [
             "POUND",
@@ -15345,7 +15523,8 @@
             ]
         },
         "family": [
-            "hattrem"
+            "hattrem",
+            "hatterene"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -15378,7 +15557,8 @@
             ]
         },
         "family": [
-            "hattrem"
+            "hattrem",
+            "hatenna"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -15512,7 +15692,8 @@
             ]
         },
         "family": [
-            "fraxure"
+            "fraxure",
+            "axew"
         ],
         "fastMoves": [
             "DRAGON_TAIL",
@@ -15842,7 +16023,9 @@
             ]
         },
         "family": [
-            "tyrogue"
+            "tyrogue",
+            "hitmonlee",
+            "hitmontop"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -15878,7 +16061,9 @@
             ]
         },
         "family": [
-            "tyrogue"
+            "tyrogue",
+            "hitmonchan",
+            "hitmontop"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -15912,7 +16097,9 @@
             ]
         },
         "family": [
-            "tyrogue"
+            "tyrogue",
+            "hitmonlee",
+            "hitmonchan"
         ],
         "fastMoves": [
             "COUNTER",
@@ -16024,7 +16211,8 @@
             ]
         },
         "family": [
-            "doublade"
+            "doublade",
+            "aegislash_shield"
         ],
         "fastMoves": [
             "TACKLE",
@@ -16175,7 +16363,8 @@
             ]
         },
         "family": [
-            "skiploom"
+            "skiploom",
+            "jumpluff"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -16207,7 +16396,8 @@
             ]
         },
         "family": [
-            "seadra"
+            "seadra",
+            "kingdra"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -16273,7 +16463,8 @@
             ]
         },
         "family": [
-            "houndour"
+            "houndour",
+            "houndoom"
         ],
         "fastMoves": [
             "FIRE_FANG",
@@ -16370,7 +16561,8 @@
             ]
         },
         "family": [
-            "clamperl"
+            "clamperl",
+            "gorebyss"
         ],
         "fastMoves": [
             "BITE",
@@ -16402,7 +16594,10 @@
             ]
         },
         "family": [
-            "dipplin"
+            "dipplin",
+            "applin",
+            "flapple",
+            "appletun"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -16437,7 +16632,8 @@
             ]
         },
         "family": [
-            "zweilous"
+            "zweilous",
+            "deino"
         ],
         "fastMoves": [
             "BITE",
@@ -16508,7 +16704,8 @@
             ]
         },
         "family": [
-            "jigglypuff"
+            "jigglypuff",
+            "wigglytuff"
         ],
         "fastMoves": [
             "FEINT_ATTACK",
@@ -16569,7 +16766,8 @@
             ]
         },
         "family": [
-            "morgrem"
+            "morgrem",
+            "grimmsnarl"
         ],
         "fastMoves": [
             "BITE",
@@ -16606,7 +16804,8 @@
             ]
         },
         "family": [
-            "torracat"
+            "torracat",
+            "litten"
         ],
         "fastMoves": [
             "SNARL",
@@ -16696,7 +16895,8 @@
             ]
         },
         "family": [
-            "monferno"
+            "monferno",
+            "chimchar"
         ],
         "fastMoves": [
             "FIRE_SPIN",
@@ -16760,7 +16960,8 @@
             ]
         },
         "family": [
-            "drizzile"
+            "drizzile",
+            "sobble"
         ],
         "fastMoves": [
             "POUND",
@@ -17085,7 +17286,8 @@
             ]
         },
         "family": [
-            "hakamo_o"
+            "hakamo_o",
+            "kommo_o"
         ],
         "fastMoves": [
             "TACKLE",
@@ -17218,7 +17420,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -17284,7 +17493,8 @@
             ]
         },
         "family": [
-            "skiploom"
+            "skiploom",
+            "hoppip"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -17739,7 +17949,8 @@
             ]
         },
         "family": [
-            "bisharp"
+            "bisharp",
+            "pawniard"
         ],
         "fastMoves": [
             "SNARL",
@@ -17774,7 +17985,8 @@
             ]
         },
         "family": [
-            "seadra"
+            "seadra",
+            "horsea"
         ],
         "fastMoves": [
             "DRAGON_BREATH",
@@ -17943,7 +18155,8 @@
             ]
         },
         "family": [
-            "scyther"
+            "scyther",
+            "scizor"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -18006,7 +18219,8 @@
             ]
         },
         "family": [
-            "klang"
+            "klang",
+            "klinklang"
         ],
         "fastMoves": [
             "VOLT_SWITCH",
@@ -18040,7 +18254,8 @@
             ]
         },
         "family": [
-            "klang"
+            "klang",
+            "klink"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -18139,7 +18354,8 @@
             ]
         },
         "family": [
-            "hakamo_o"
+            "hakamo_o",
+            "jangmo_o"
         ],
         "fastMoves": [
             "POISON_JAB",
@@ -18362,7 +18578,8 @@
             ]
         },
         "family": [
-            "krokorok"
+            "krokorok",
+            "sandile"
         ],
         "fastMoves": [
             "SNARL",
@@ -18748,7 +18965,8 @@
             ]
         },
         "family": [
-            "chinchou"
+            "chinchou",
+            "lanturn"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -18848,7 +19066,8 @@
             ]
         },
         "family": [
-            "pupitar"
+            "pupitar",
+            "tyranitar"
         ],
         "fastMoves": [
             "BITE",
@@ -19007,7 +19226,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -19041,7 +19267,8 @@
             ]
         },
         "family": [
-            "swadloon"
+            "swadloon",
+            "sewaddle"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -19357,7 +19584,8 @@
             ]
         },
         "family": [
-            "petilil"
+            "petilil",
+            "lilligant"
         ],
         "fastMoves": [
             "MAGICAL_LEAF",
@@ -19389,7 +19617,8 @@
             ]
         },
         "family": [
-            "herdier"
+            "herdier",
+            "stoutland"
         ],
         "fastMoves": [
             "TACKLE",
@@ -19524,7 +19753,8 @@
             ]
         },
         "family": [
-            "torracat"
+            "torracat",
+            "incineroar"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -19557,7 +19787,8 @@
             ]
         },
         "family": [
-            "lampent"
+            "lampent",
+            "chandelure"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -19692,7 +19923,8 @@
             ]
         },
         "family": [
-            "buneary"
+            "buneary",
+            "lopunny"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -19725,7 +19957,8 @@
             ]
         },
         "family": [
-            "lombre"
+            "lombre",
+            "ludicolo"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -19833,7 +20066,8 @@
             ]
         },
         "family": [
-            "riolu"
+            "riolu",
+            "lucario"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -19871,7 +20105,8 @@
             ]
         },
         "family": [
-            "lombre"
+            "lombre",
+            "lotad"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -19969,7 +20204,9 @@
             ]
         },
         "family": [
-            "cosmoem"
+            "cosmoem",
+            "cosmog",
+            "solgaleo"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -20131,7 +20368,8 @@
             ]
         },
         "family": [
-            "luxio"
+            "luxio",
+            "shinx"
         ],
         "fastMoves": [
             "HIDDEN_POWER_BUG",
@@ -20180,7 +20418,10 @@
             ]
         },
         "family": [
-            "rockruff"
+            "rockruff",
+            "lycanroc_midnight",
+            "lycanroc_midday",
+            "lycranroc_dusk"
         ],
         "fastMoves": [
             "COUNTER",
@@ -20214,7 +20455,9 @@
             ]
         },
         "family": [
-            "rockruff"
+            "rockruff",
+            "lycanroc_midnight",
+            "lycranroc_dusk"
         ],
         "fastMoves": [
             "SUCKER_PUNCH",
@@ -20247,7 +20490,9 @@
             ]
         },
         "family": [
-            "rockruff"
+            "rockruff",
+            "lycanroc_midday",
+            "lycranroc_dusk"
         ],
         "fastMoves": [
             "COUNTER",
@@ -20316,7 +20561,8 @@
             ]
         },
         "family": [
-            "machoke"
+            "machoke",
+            "machop"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -20383,7 +20629,8 @@
             ]
         },
         "family": [
-            "machoke"
+            "machoke",
+            "machamp"
         ],
         "fastMoves": [
             "KARATE_CHOP",
@@ -20417,7 +20664,8 @@
             ]
         },
         "family": [
-            "magmar"
+            "magmar",
+            "magmortar"
         ],
         "fastMoves": [
             "EMBER",
@@ -20575,7 +20823,8 @@
             ]
         },
         "family": [
-            "magmar"
+            "magmar",
+            "magby"
         ],
         "fastMoves": [
             "FIRE_SPIN",
@@ -20607,7 +20856,8 @@
             ]
         },
         "family": [
-            "magneton"
+            "magneton",
+            "magnezone"
         ],
         "fastMoves": [
             "SPARK",
@@ -20679,7 +20929,8 @@
             ]
         },
         "family": [
-            "magneton"
+            "magneton",
+            "magnemite"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -20781,7 +21032,8 @@
             ]
         },
         "family": [
-            "inkay"
+            "inkay",
+            "malamar"
         ],
         "fastMoves": [
             "PECK",
@@ -20817,7 +21069,8 @@
             ]
         },
         "family": [
-            "piloswine"
+            "piloswine",
+            "swinub"
         ],
         "fastMoves": [
             "MUD_SLAP",
@@ -20951,7 +21204,8 @@
             ]
         },
         "family": [
-            "electrike"
+            "electrike",
+            "manectric"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -20984,7 +21238,8 @@
             ]
         },
         "family": [
-            "primeape"
+            "primeape",
+            "annihilape"
         ],
         "fastMoves": [
             "KARATE_CHOP",
@@ -21144,7 +21399,8 @@
             ]
         },
         "family": [
-            "flaaffy"
+            "flaaffy",
+            "ampharos"
         ],
         "fastMoves": [
             "TACKLE",
@@ -21210,7 +21466,8 @@
             ]
         },
         "family": [
-            "cubone"
+            "cubone",
+            "marowak_alolan"
         ],
         "fastMoves": [
             "MUD_SLAP",
@@ -21244,7 +21501,8 @@
             ]
         },
         "family": [
-            "cubone"
+            "cubone",
+            "marowak"
         ],
         "fastMoves": [
             "HEX",
@@ -21441,7 +21699,8 @@
             ]
         },
         "family": [
-            "tandemaus"
+            "tandemaus",
+            "maushold"
         ],
         "fastMoves": [
             "TAKE_DOWN",
@@ -21474,7 +21733,8 @@
             ]
         },
         "family": [
-            "tandemaus"
+            "tandemaus",
+            "maushold"
         ],
         "fastMoves": [
             "TAKE_DOWN",
@@ -21669,7 +21929,8 @@
             ]
         },
         "family": [
-            "bayleef"
+            "bayleef",
+            "chikorita"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -21829,7 +22090,8 @@
             ]
         },
         "family": [
-            "floragato"
+            "floragato",
+            "sprigatito"
         ],
         "fastMoves": [
             "LEAFAGE",
@@ -21893,7 +22155,8 @@
             ]
         },
         "family": [
-            "espurr"
+            "espurr",
+            "meowstic"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -22056,7 +22319,8 @@
             ]
         },
         "family": [
-            "metang"
+            "metang",
+            "beldum"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -22091,7 +22355,9 @@
             ]
         },
         "family": [
-            "metang"
+            "metang",
+            "beldum",
+            "metagross"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -23046,7 +23312,8 @@
             ]
         },
         "family": [
-            "burmy_trash"
+            "burmy_trash",
+            "wormadam_trash"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -23114,7 +23381,8 @@
         },
         "family": [
             "mime_jr",
-            "mr_rime"
+            "mr_rime",
+            "mr_mime"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -23148,7 +23416,9 @@
             ]
         },
         "family": [
-            "mr_mime_galarian"
+            "mr_mime_galarian",
+            "mime_jr",
+            "mr_mime"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -23213,7 +23483,8 @@
             ]
         },
         "family": [
-            "marshtomp"
+            "marshtomp",
+            "swampert"
         ],
         "fastMoves": [
             "TACKLE",
@@ -23505,7 +23776,8 @@
             ]
         },
         "family": [
-            "naclstack"
+            "naclstack",
+            "garganacl"
         ],
         "fastMoves": [
             "ROCK_THROW",
@@ -23796,7 +24068,8 @@
             ]
         },
         "family": [
-            "nidorino"
+            "nidorino",
+            "nidoran_male"
         ],
         "fastMoves": [
             "FURY_CUTTER",
@@ -23833,7 +24106,8 @@
             ]
         },
         "family": [
-            "nidorina"
+            "nidorina",
+            "nidoran_female"
         ],
         "fastMoves": [
             "BITE",
@@ -23867,7 +24141,8 @@
             ]
         },
         "family": [
-            "nidorina"
+            "nidorina",
+            "nidoqueen"
         ],
         "fastMoves": [
             "BITE",
@@ -23899,7 +24174,8 @@
             ]
         },
         "family": [
-            "nidorino"
+            "nidorino",
+            "nidoking"
         ],
         "fastMoves": [
             "PECK",
@@ -24399,7 +24675,8 @@
             ]
         },
         "family": [
-            "linoone_galarian"
+            "linoone_galarian",
+            "zigzagoon_galarian"
         ],
         "fastMoves": [
             "COUNTER",
@@ -24466,7 +24743,9 @@
             ]
         },
         "family": [
-            "gloom"
+            "gloom",
+            "vileplume",
+            "bellossom"
         ],
         "fastMoves": [
             "ACID",
@@ -24560,7 +24839,8 @@
             ]
         },
         "family": [
-            "lechonk"
+            "lechonk",
+            "oinkologne"
         ],
         "fastMoves": [
             "TACKLE",
@@ -24755,7 +25035,8 @@
             ]
         },
         "family": [
-            "dottler"
+            "dottler",
+            "blipbug"
         ],
         "fastMoves": [
             "STRUGGLE_BUG",
@@ -24932,7 +25213,8 @@
             ]
         },
         "family": [
-            "dewott"
+            "dewott",
+            "samurott"
         ],
         "fastMoves": [
             "TACKLE",
@@ -25065,7 +25347,8 @@
             ]
         },
         "family": [
-            "finizen"
+            "finizen",
+            "palafin"
         ],
         "fastMoves": [
             "WATERFALL",
@@ -25100,7 +25383,8 @@
             ]
         },
         "family": [
-            "finizen"
+            "finizen",
+            "palafin"
         ],
         "fastMoves": [
             "WATERFALL",
@@ -25553,7 +25837,8 @@
             ]
         },
         "family": [
-            "pawmo"
+            "pawmo",
+            "pawmot"
         ],
         "fastMoves": [
             "SPARK",
@@ -25624,7 +25909,8 @@
             ]
         },
         "family": [
-            "pawmo"
+            "pawmo",
+            "pawmi"
         ],
         "fastMoves": [
             "SPARK",
@@ -25658,7 +25944,8 @@
             ]
         },
         "family": [
-            "bisharp"
+            "bisharp",
+            "kingambit"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -26024,7 +26311,8 @@
             ]
         },
         "family": [
-            "pikachu"
+            "pikachu",
+            "raichu"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -26058,7 +26346,8 @@
             ]
         },
         "family": [
-            "pidgeotto"
+            "pidgeotto",
+            "pidgey"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -26094,7 +26383,9 @@
             ]
         },
         "family": [
-            "pidgeotto"
+            "pidgeotto",
+            "pidgey",
+            "pidgeot"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -26161,7 +26452,8 @@
             ]
         },
         "family": [
-            "pidgeotto"
+            "pidgeotto",
+            "pidgeot"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -26193,7 +26485,8 @@
             ]
         },
         "family": [
-            "tranquill"
+            "tranquill",
+            "unfezant"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -26356,7 +26649,9 @@
             ]
         },
         "family": [
-            "pichu"
+            "pichu",
+            "pikachu",
+            "raichu"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -26388,7 +26683,9 @@
             ]
         },
         "family": [
-            "pichu"
+            "pichu",
+            "pikachu",
+            "raichu"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -26449,7 +26746,9 @@
             ]
         },
         "family": [
-            "pichu"
+            "pichu",
+            "pikachu",
+            "raichu"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -26481,7 +26780,9 @@
             ]
         },
         "family": [
-            "pichu"
+            "pichu",
+            "pikachu",
+            "raichu"
         ],
         "fastMoves": [
             "THUNDER_SHOCK",
@@ -26517,7 +26818,8 @@
         },
         "family": [
             "pichu",
-            "raichu"
+            "raichu",
+            "pikachu"
         ],
         "fastMoves": [
             "PRESENT",
@@ -26550,7 +26852,8 @@
             ]
         },
         "family": [
-            "trumbeak"
+            "trumbeak",
+            "toucannon"
         ],
         "fastMoves": [
             "PECK",
@@ -26743,7 +27046,8 @@
             ]
         },
         "family": [
-            "prinplup"
+            "prinplup",
+            "empoleon"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -26841,7 +27145,9 @@
             ]
         },
         "family": [
-            "poliwhirl"
+            "poliwhirl",
+            "poliwag",
+            "poliwrath"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -26873,7 +27179,9 @@
             ]
         },
         "family": [
-            "poliwhirl"
+            "poliwhirl",
+            "poliwrath",
+            "politoed"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -26944,7 +27252,9 @@
             ]
         },
         "family": [
-            "poliwhirl"
+            "poliwhirl",
+            "poliwag",
+            "politoed"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -27140,7 +27450,8 @@
             ]
         },
         "family": [
-            "brionne"
+            "brionne",
+            "primarina"
         ],
         "fastMoves": [
             "POUND",
@@ -27175,7 +27486,8 @@
             ]
         },
         "family": [
-            "porygon2"
+            "porygon2",
+            "porygon_z"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -27277,7 +27589,8 @@
             ]
         },
         "family": [
-            "porygon2"
+            "porygon2",
+            "porygon"
         ],
         "fastMoves": [
             "LOCK_ON",
@@ -27328,7 +27641,8 @@
             ]
         },
         "family": [
-            "brionne"
+            "brionne",
+            "popplio"
         ],
         "fastMoves": [
             "CHARM",
@@ -27820,7 +28134,8 @@
             ]
         },
         "family": [
-            "quaxwell"
+            "quaxwell",
+            "quaxly"
         ],
         "fastMoves": [
             "WATER_GUN",
@@ -27852,7 +28167,8 @@
             ]
         },
         "family": [
-            "quaxwell"
+            "quaxwell",
+            "quaquaval"
         ],
         "fastMoves": [
             "WATER_GUN",
@@ -28144,7 +28460,8 @@
             ]
         },
         "family": [
-            "pikachu"
+            "pikachu",
+            "pichu"
         ],
         "fastMoves": [
             "SPARK",
@@ -28182,7 +28499,9 @@
             ]
         },
         "family": [
-            "pikachu"
+            "pikachu",
+            "pichu",
+            "raichu"
         ],
         "fastMoves": [
             "SPARK",
@@ -28246,7 +28565,9 @@
             ]
         },
         "family": [
-            "kirlia"
+            "kirlia",
+            "gallade",
+            "gardevoir"
         ],
         "fastMoves": [
             "CHARGE_BEAM",
@@ -28383,7 +28704,8 @@
             ]
         },
         "family": [
-            "rattata_alolan"
+            "rattata_alolan",
+            "raticate_alolan"
         ],
         "fastMoves": [
             "BITE",
@@ -28447,7 +28769,9 @@
             ]
         },
         "family": [
-            "raticate"
+            "raticate",
+            "rattata_alolan",
+            "raticate_alolan"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -28901,7 +29225,8 @@
             ]
         },
         "family": [
-            "duosion"
+            "duosion",
+            "solosis"
         ],
         "fastMoves": [
             "HIDDEN_POWER_BUG",
@@ -29018,7 +29343,8 @@
             ]
         },
         "family": [
-            "rhydon"
+            "rhydon",
+            "rhyperior"
         ],
         "fastMoves": [
             "MUD_SLAP",
@@ -29054,7 +29380,8 @@
             ]
         },
         "family": [
-            "rhydon"
+            "rhydon",
+            "rhyhorn"
         ],
         "fastMoves": [
             "MUD_SLAP",
@@ -29121,7 +29448,8 @@
             ]
         },
         "family": [
-            "thwackey"
+            "thwackey",
+            "grookey"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -29248,7 +29576,8 @@
             ]
         },
         "family": [
-            "boldore"
+            "boldore",
+            "gigalith"
         ],
         "fastMoves": [
             "TACKLE",
@@ -29279,7 +29608,10 @@
             ]
         },
         "family": [
-            "carkol"
+            "carkol",
+            "boltund",
+            "coalossal",
+            "yamper"
         ],
         "fastMoves": [
             "SMACK_DOWN",
@@ -29310,7 +29642,8 @@
             ]
         },
         "family": [
-            "corvisquire"
+            "corvisquire",
+            "corviknight"
         ],
         "fastMoves": [
             "PECK",
@@ -29380,7 +29713,8 @@
             ]
         },
         "family": [
-            "roselia"
+            "roselia",
+            "budew"
         ],
         "fastMoves": [
             "POISON_JAB",
@@ -29588,7 +29922,8 @@
             ]
         },
         "family": [
-            "dartrix"
+            "dartrix",
+            "decidueye"
         ],
         "fastMoves": [
             "TACKLE",
@@ -29754,7 +30089,8 @@
             ]
         },
         "family": [
-            "shelgon"
+            "shelgon",
+            "bagon"
         ],
         "fastMoves": [
             "BITE",
@@ -29889,7 +30225,8 @@
             ]
         },
         "family": [
-            "dewott"
+            "dewott",
+            "oshawott"
         ],
         "fastMoves": [
             "FURY_CUTTER",
@@ -29923,7 +30260,9 @@
             ]
         },
         "family": [
-            "dewott"
+            "dewott",
+            "oshawott",
+            "samurott"
         ],
         "fastMoves": [
             "FURY_CUTTER",
@@ -29989,7 +30328,8 @@
             ]
         },
         "family": [
-            "krokorok"
+            "krokorok",
+            "krookodile"
         ],
         "fastMoves": [
             "BITE",
@@ -30280,7 +30620,8 @@
             ]
         },
         "family": [
-            "spewpa"
+            "spewpa",
+            "vivillon"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -30315,7 +30656,8 @@
             ]
         },
         "family": [
-            "grovyle"
+            "grovyle",
+            "treecko"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -30380,7 +30722,8 @@
             ]
         },
         "family": [
-            "scyther"
+            "scyther",
+            "kleavor"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -30413,7 +30756,9 @@
             ]
         },
         "family": [
-            "scyther"
+            "scyther",
+            "scizor",
+            "kleavor"
         ],
         "fastMoves": [
             "BULLET_PUNCH",
@@ -30446,7 +30791,8 @@
             ]
         },
         "family": [
-            "whirlipede"
+            "whirlipede",
+            "venipede"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -30478,7 +30824,8 @@
             ]
         },
         "family": [
-            "raboot"
+            "raboot",
+            "cinderace"
         ],
         "fastMoves": [
             "TACKLE",
@@ -30776,7 +31123,8 @@
             ]
         },
         "family": [
-            "nuzleaf"
+            "nuzleaf",
+            "shiftry"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -30842,7 +31190,8 @@
             ]
         },
         "family": [
-            "palpitoad"
+            "palpitoad",
+            "tympole"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -30907,7 +31256,8 @@
             ]
         },
         "family": [
-            "servine"
+            "servine",
+            "snivy"
         ],
         "fastMoves": [
             "IRON_TAIL",
@@ -31001,7 +31351,8 @@
             ]
         },
         "family": [
-            "swadloon"
+            "swadloon",
+            "leavanny"
         ],
         "fastMoves": [
             "STRUGGLE_BUG",
@@ -31065,7 +31416,8 @@
             ]
         },
         "family": [
-            "carvanha"
+            "carvanha",
+            "sharpedo"
         ],
         "fastMoves": [
             "BITE",
@@ -31189,7 +31541,8 @@
             ]
         },
         "family": [
-            "nincada"
+            "nincada",
+            "ninjask"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -31401,7 +31754,8 @@
             ]
         },
         "family": [
-            "nuzleaf"
+            "nuzleaf",
+            "seedot"
         ],
         "fastMoves": [
             "FEINT_ATTACK",
@@ -31466,7 +31820,8 @@
             ]
         },
         "family": [
-            "luxio"
+            "luxio",
+            "luxray"
         ],
         "fastMoves": [
             "SPARK",
@@ -31652,7 +32007,9 @@
         },
         "family": [
             "wurmple",
-            "beautifly"
+            "beautifly",
+            "cascoon",
+            "dustox"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -32532,7 +32889,8 @@
             ]
         },
         "family": [
-            "crocalor"
+            "crocalor",
+            "fuecoco"
         ],
         "fastMoves": [
             "INCINERATE",
@@ -32793,7 +33151,8 @@
             ]
         },
         "family": [
-            "vigoroth"
+            "vigoroth",
+            "slakoth"
         ],
         "fastMoves": [
             "YAWN"
@@ -32824,7 +33183,8 @@
             ]
         },
         "family": [
-            "vigoroth"
+            "vigoroth",
+            "slaking"
         ],
         "fastMoves": [
             "YAWN"
@@ -32918,7 +33278,8 @@
             ]
         },
         "family": [
-            "slowpoke"
+            "slowpoke",
+            "slowking"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -32954,7 +33315,8 @@
             ]
         },
         "family": [
-            "slowpoke_galarian"
+            "slowpoke_galarian",
+            "slowking_galarian"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -32989,7 +33351,9 @@
             ]
         },
         "family": [
-            "slowpoke_galarian"
+            "slowpoke_galarian",
+            "slowbro_galarian",
+            "slowking_galarian"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -33023,7 +33387,8 @@
             ]
         },
         "family": [
-            "slowpoke"
+            "slowpoke",
+            "slowbro"
         ],
         "fastMoves": [
             "CONFUSION",
@@ -33058,7 +33423,8 @@
             ]
         },
         "family": [
-            "slowpoke_galarian"
+            "slowpoke_galarian",
+            "slowbro_galarian"
         ],
         "fastMoves": [
             "HEX",
@@ -33482,7 +33848,8 @@
             ]
         },
         "family": [
-            "dolliv"
+            "dolliv",
+            "arboliva"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -33645,7 +34012,8 @@
             ]
         },
         "family": [
-            "servine"
+            "servine",
+            "serperior"
         ],
         "fastMoves": [
             "TACKLE",
@@ -33842,7 +34210,8 @@
             ]
         },
         "family": [
-            "drizzile"
+            "drizzile",
+            "inteleon"
         ],
         "fastMoves": [
             "POUND",
@@ -33875,7 +34244,9 @@
             ]
         },
         "family": [
-            "cosmoem"
+            "cosmoem",
+            "cosmog",
+            "lunala"
         ],
         "fastMoves": [
             "ZEN_HEADBUTT",
@@ -33907,7 +34278,8 @@
             ]
         },
         "family": [
-            "duosion"
+            "duosion",
+            "reuniclus"
         ],
         "fastMoves": [
             "HIDDEN_POWER_BUG",
@@ -34077,7 +34449,8 @@
             ]
         },
         "family": [
-            "sealeo"
+            "sealeo",
+            "walrein"
         ],
         "fastMoves": [
             "ROCK_SMASH",
@@ -34266,7 +34639,8 @@
             ]
         },
         "family": [
-            "floragato"
+            "floragato",
+            "meowscarada"
         ],
         "fastMoves": [
             "LEAFAGE",
@@ -34474,7 +34848,8 @@
             ]
         },
         "family": [
-            "wartortle"
+            "wartortle",
+            "blastoise"
         ],
         "fastMoves": [
             "BUBBLE",
@@ -34568,7 +34943,8 @@
             ]
         },
         "family": [
-            "staravia"
+            "staravia",
+            "starly"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -34637,7 +35013,8 @@
             ]
         },
         "family": [
-            "staravia"
+            "staravia",
+            "staraptor"
         ],
         "fastMoves": [
             "QUICK_ATTACK",
@@ -34794,7 +35171,8 @@
             ]
         },
         "family": [
-            "onix"
+            "onix",
+            "steelix"
         ],
         "fastMoves": [
             "DRAGON_TAIL",
@@ -34889,7 +35267,8 @@
             ]
         },
         "family": [
-            "herdier"
+            "herdier",
+            "lillipup"
         ],
         "fastMoves": [
             "LICK",
@@ -35331,7 +35710,8 @@
             ]
         },
         "family": [
-            "marshtomp"
+            "marshtomp",
+            "mudkip"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -35460,7 +35840,8 @@
             ]
         },
         "family": [
-            "piloswine"
+            "piloswine",
+            "mamoswine"
         ],
         "fastMoves": [
             "POWDER_SNOW",
@@ -35558,7 +35939,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon"
         ],
         "fastMoves": [
             "CHARM",
@@ -35654,7 +36042,8 @@
             ]
         },
         "family": [
-            "fletchinder"
+            "fletchinder",
+            "fletchling"
         ],
         "fastMoves": [
             "PECK",
@@ -36176,7 +36565,8 @@
             ]
         },
         "family": [
-            "ursaring"
+            "ursaring",
+            "ursaluna"
         ],
         "fastMoves": [
             "LICK",
@@ -36276,7 +36666,8 @@
             ]
         },
         "family": [
-            "pignite"
+            "pignite",
+            "emboar"
         ],
         "fastMoves": [
             "TACKLE",
@@ -36520,7 +36911,8 @@
             ]
         },
         "family": [
-            "gurdurr"
+            "gurdurr",
+            "conkeldurr"
         ],
         "fastMoves": [
             "LOW_KICK",
@@ -36580,7 +36972,8 @@
             ]
         },
         "family": [
-            "tinkatuff"
+            "tinkatuff",
+            "tinkaton"
         ],
         "fastMoves": [
             "FAIRY_WIND",
@@ -36613,7 +37006,8 @@
             ]
         },
         "family": [
-            "tinkatuff"
+            "tinkatuff",
+            "tinkatink"
         ],
         "fastMoves": [
             "FAIRY_WIND",
@@ -36806,7 +37200,8 @@
             ]
         },
         "family": [
-            "togetic"
+            "togetic",
+            "togepi"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -36855,7 +37250,8 @@
             ]
         },
         "family": [
-            "togetic"
+            "togetic",
+            "togekiss"
         ],
         "fastMoves": [
             "HIDDEN_POWER_BUG",
@@ -36956,7 +37352,8 @@
             ]
         },
         "family": [
-            "combusken"
+            "combusken",
+            "blaziken"
         ],
         "fastMoves": [
             "EMBER",
@@ -37114,7 +37511,8 @@
             ]
         },
         "family": [
-            "grotle"
+            "grotle",
+            "turtwig"
         ],
         "fastMoves": [
             "BITE",
@@ -37147,7 +37545,8 @@
             ]
         },
         "family": [
-            "croconaw"
+            "croconaw",
+            "feraligatr"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -37180,7 +37579,8 @@
             ]
         },
         "family": [
-            "trumbeak"
+            "trumbeak",
+            "pikipek"
         ],
         "fastMoves": [
             "PECK",
@@ -37312,7 +37712,9 @@
             ]
         },
         "family": [
-            "toxel"
+            "toxel",
+            "toxtricity_amped",
+            "toxtricity_low_key"
         ],
         "fastMoves": [
             "ACID",
@@ -37346,7 +37748,8 @@
             ]
         },
         "family": [
-            "toxel"
+            "toxel",
+            "toxtricity_low_key"
         ],
         "fastMoves": [
             "ACID",
@@ -37380,7 +37783,8 @@
             ]
         },
         "family": [
-            "toxel"
+            "toxel",
+            "toxtricity_amped"
         ],
         "fastMoves": [
             "ACID",
@@ -37447,7 +37851,8 @@
             ]
         },
         "family": [
-            "vibrava"
+            "vibrava",
+            "flygon"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -37480,7 +37885,8 @@
             ]
         },
         "family": [
-            "grovyle"
+            "grovyle",
+            "sceptile"
         ],
         "fastMoves": [
             "BULLET_SEED",
@@ -37641,7 +38047,8 @@
             ]
         },
         "family": [
-            "steenee"
+            "steenee",
+            "bounsweet"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -37707,7 +38114,8 @@
             ]
         },
         "family": [
-            "grotle"
+            "grotle",
+            "torterra"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -37739,7 +38147,8 @@
             ]
         },
         "family": [
-            "palpitoad"
+            "palpitoad",
+            "seismitoad"
         ],
         "fastMoves": [
             "MUD_SHOT",
@@ -37769,7 +38178,8 @@
             ]
         },
         "family": [
-            "eelektrik"
+            "eelektrik",
+            "eelektross"
         ],
         "fastMoves": [
             "TACKLE",
@@ -37835,7 +38245,8 @@
             ]
         },
         "family": [
-            "quilava"
+            "quilava",
+            "cyndaquil"
         ],
         "fastMoves": [
             "EMBER",
@@ -37870,7 +38281,9 @@
             ]
         },
         "family": [
-            "quilava"
+            "quilava",
+            "cyndaquil",
+            "typhlosion"
         ],
         "fastMoves": [
             "EMBER",
@@ -37903,7 +38316,8 @@
             ]
         },
         "family": [
-            "pupitar"
+            "pupitar",
+            "larvitar"
         ],
         "fastMoves": [
             "BITE",
@@ -38073,7 +38487,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "vaporeon",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "FEINT_ATTACK",
@@ -38105,7 +38526,8 @@
             ]
         },
         "family": [
-            "tranquill"
+            "tranquill",
+            "pidove"
         ],
         "fastMoves": [
             "AIR_SLASH",
@@ -38183,7 +38605,8 @@
             ]
         },
         "family": [
-            "ursaring"
+            "ursaring",
+            "teddiursa"
         ],
         "fastMoves": [
             "TACKLE",
@@ -38253,7 +38676,8 @@
             ]
         },
         "family": [
-            "kubfu"
+            "kubfu",
+            "urshifu_single_strike"
         ],
         "fastMoves": [
             "ROCK_SMASH",
@@ -38287,7 +38711,8 @@
             ]
         },
         "family": [
-            "kubfu"
+            "kubfu",
+            "urshifu_rapid_strike"
         ],
         "fastMoves": [
             "ROCK_SMASH",
@@ -38382,7 +38807,8 @@
             ]
         },
         "family": [
-            "vanillish"
+            "vanillish",
+            "vanilluxe"
         ],
         "fastMoves": [
             "POWDER_SNOW",
@@ -38415,7 +38841,8 @@
             ]
         },
         "family": [
-            "vanillish"
+            "vanillish",
+            "vanillite"
         ],
         "fastMoves": [
             "FROST_BREATH",
@@ -38450,7 +38877,14 @@
             ]
         },
         "family": [
-            "eevee"
+            "eevee",
+            "jolteon",
+            "flareon",
+            "espeon",
+            "umbreon",
+            "leafeon",
+            "glaceon",
+            "sylveon"
         ],
         "fastMoves": [
             "WATER_GUN"
@@ -38544,7 +38978,8 @@
             ]
         },
         "family": [
-            "whirlipede"
+            "whirlipede",
+            "scolipede"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -38645,7 +39080,8 @@
             ]
         },
         "family": [
-            "ivysaur"
+            "ivysaur",
+            "bulbasaur"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -38679,7 +39115,9 @@
             ]
         },
         "family": [
-            "ivysaur"
+            "ivysaur",
+            "bulbasaur",
+            "venusaur"
         ],
         "fastMoves": [
             "RAZOR_LEAF",
@@ -38815,7 +39253,8 @@
             ]
         },
         "family": [
-            "weepinbell"
+            "weepinbell",
+            "bellsprout"
         ],
         "fastMoves": [
             "ACID",
@@ -38850,7 +39289,9 @@
             ]
         },
         "family": [
-            "weepinbell"
+            "weepinbell",
+            "bellsprout",
+            "victreebel"
         ],
         "fastMoves": [
             "ACID",
@@ -38918,7 +39359,8 @@
             ]
         },
         "family": [
-            "charjabug"
+            "charjabug",
+            "grubbin"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -38953,7 +39395,9 @@
             ]
         },
         "family": [
-            "gloom"
+            "gloom",
+            "oddish",
+            "bellossom"
         ],
         "fastMoves": [
             "ACID",
@@ -39017,7 +39461,8 @@
             ]
         },
         "family": [
-            "spewpa"
+            "spewpa",
+            "scatterbug"
         ],
         "fastMoves": [
             "GUST",
@@ -39400,7 +39845,8 @@
             ]
         },
         "family": [
-            "sealeo"
+            "sealeo",
+            "spheal"
         ],
         "fastMoves": [
             "FROST_BREATH",
@@ -39562,7 +40008,8 @@
             ]
         },
         "family": [
-            "kakuna"
+            "kakuna",
+            "beedrill"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -39665,7 +40112,8 @@
             ]
         },
         "family": [
-            "koffing"
+            "koffing",
+            "weezing"
         ],
         "fastMoves": [
             "TACKLE",
@@ -39797,7 +40245,8 @@
             ]
         },
         "family": [
-            "loudred"
+            "loudred",
+            "exploud"
         ],
         "fastMoves": [
             "ASTONISH",
@@ -39833,7 +40282,8 @@
             ]
         },
         "family": [
-            "jigglypuff"
+            "jigglypuff",
+            "igglybuff"
         ],
         "fastMoves": [
             "FEINT_ATTACK",
@@ -40237,7 +40687,10 @@
             ]
         },
         "family": [
-            "burmy_plant"
+            "burmy_plant",
+            "mothim",
+            "burmy_trash",
+            "wormadam_trash"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -40269,7 +40722,10 @@
             ]
         },
         "family": [
-            "burmy_sandy"
+            "burmy_sandy",
+            "mothim",
+            "burmy_trash",
+            "wormadam_trash"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -40301,7 +40757,8 @@
             ]
         },
         "family": [
-            "burmy_trash"
+            "burmy_trash",
+            "mothim"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -40365,7 +40822,9 @@
         },
         "family": [
             "silcoon",
-            "cascoon"
+            "cascoon",
+            "beautifly",
+            "dustox"
         ],
         "fastMoves": [
             "BUG_BITE",
@@ -41146,7 +41605,8 @@
             ]
         },
         "family": [
-            "linoone_galarian"
+            "linoone_galarian",
+            "obstagoon"
         ],
         "fastMoves": [
             "TACKLE",
@@ -41212,7 +41672,8 @@
             ]
         },
         "family": [
-            "zorua"
+            "zorua",
+            "zoroark"
         ],
         "fastMoves": [
             "SHADOW_CLAW",
@@ -41278,7 +41739,9 @@
             ]
         },
         "family": [
-            "zoroark_hisuian"
+            "zoroark_hisuian",
+            "zorua",
+            "zoroark"
         ],
         "fastMoves": [
             "SCRATCH",
@@ -41311,7 +41774,8 @@
             ]
         },
         "family": [
-            "golbat"
+            "golbat",
+            "crobat"
         ],
         "fastMoves": [
             "BITE",
