@@ -201,7 +201,7 @@
     },
     {
         "moveId": "BULLET_PUNCH",
-        "power": 8,
+        "power": 7,
         "type": "steel"
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "moveId": "DRAIN_PUNCH",
-        "power": 20,
+        "power": 40,
         "type": "fighting"
     },
     {
@@ -596,7 +596,7 @@
     },
     {
         "moveId": "HEAT_WAVE",
-        "power": 95,
+        "power": 75,
         "type": "fire"
     },
     {
@@ -841,7 +841,7 @@
     },
     {
         "moveId": "LOW_KICK",
-        "power": 4,
+        "power": 5,
         "type": "fighting"
     },
     {
@@ -941,17 +941,17 @@
     },
     {
         "moveId": "MUD_BOMB",
-        "power": 60,
+        "power": 65,
         "type": "ground"
     },
     {
         "moveId": "MUD_SHOT",
-        "power": 4,
+        "power": 3,
         "type": "ground"
     },
     {
         "moveId": "MUD_SLAP",
-        "power": 12,
+        "power": 11,
         "type": "ground"
     },
     {
@@ -1111,7 +1111,7 @@
     },
     {
         "moveId": "PSYCHO_CUT",
-        "power": 3,
+        "power": 4,
         "type": "psychic"
     },
     {
@@ -1128,6 +1128,11 @@
         "moveId": "PSYWAVE",
         "power": 3,
         "type": "psychic"
+    },
+    {
+        "moveId": "PYRO_BALL",
+        "power": 75,
+        "type": "fire"
     },
     {
         "moveId": "QUICK_ATTACK",
@@ -1186,7 +1191,7 @@
     },
     {
         "moveId": "ROCK_TOMB",
-        "power": 80,
+        "power": 75,
         "type": "rock"
     },
     {
@@ -1221,7 +1226,7 @@
     },
     {
         "moveId": "SAND_TOMB",
-        "power": 25,
+        "power": 40,
         "type": "ground"
     },
     {
@@ -1321,7 +1326,7 @@
     },
     {
         "moveId": "SMACK_DOWN",
-        "power": 12,
+        "power": 11,
         "type": "rock"
     },
     {
@@ -1516,7 +1521,7 @@
     },
     {
         "moveId": "TWISTER",
-        "power": 45,
+        "power": 70,
         "type": "dragon"
     },
     {
@@ -1551,7 +1556,7 @@
     },
     {
         "moveId": "WATERFALL",
-        "power": 12,
+        "power": 11,
         "type": "water"
     },
     {

@@ -2134,7 +2134,8 @@
         },
         "fastMoves": [
             "FROST_BREATH",
-            "ICE_SHARD"
+            "ICE_SHARD",
+            "POWDER_SNOW"
         ],
         "released": true,
         "speciesId": "articuno",
@@ -4768,7 +4769,9 @@
             "EARTHQUAKE",
             "OVERHEAT",
             "SOLAR_BEAM",
-            "EARTH_POWER"
+            "EARTH_POWER",
+            "SCORCHING_SANDS",
+            "ROCK_TOMB"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -4803,7 +4806,9 @@
             "EARTHQUAKE",
             "OVERHEAT",
             "SOLAR_BEAM",
-            "EARTH_POWER"
+            "EARTH_POWER",
+            "SCORCHING_SANDS",
+            "ROCK_TOMB"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -12409,7 +12414,8 @@
             "EARTH_POWER",
             "BOOMBURST",
             "SCORCHING_SANDS",
-            "SAND_TOMB"
+            "SAND_TOMB",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -13065,7 +13071,8 @@
             "OUTRAGE",
             "SAND_TOMB",
             "EARTH_POWER",
-            "BREAKING_SWIPE"
+            "BREAKING_SWIPE",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -13102,7 +13109,8 @@
             "OUTRAGE",
             "SAND_TOMB",
             "EARTH_POWER",
-            "BREAKING_SWIPE"
+            "BREAKING_SWIPE",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -14133,7 +14141,8 @@
             "AERIAL_ACE",
             "EARTHQUAKE",
             "NIGHT_SLASH",
-            "SAND_TOMB"
+            "SAND_TOMB",
+            "ACROBATICS"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -16324,7 +16333,8 @@
             "EARTHQUAKE",
             "MEGAHORN",
             "ROCK_BLAST",
-            "UPPER_HAND"
+            "UPPER_HAND",
+            "ROCK_TOMB"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -16336,7 +16346,8 @@
         },
         "fastMoves": [
             "COUNTER",
-            "STRUGGLE_BUG"
+            "STRUGGLE_BUG",
+            "FURY_CUTTER"
         ],
         "released": true,
         "speciesId": "heracross",
@@ -16356,7 +16367,8 @@
             "EARTHQUAKE",
             "MEGAHORN",
             "ROCK_BLAST",
-            "UPPER_HAND"
+            "UPPER_HAND",
+            "ROCK_TOMB"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -16368,7 +16380,8 @@
         },
         "fastMoves": [
             "COUNTER",
-            "STRUGGLE_BUG"
+            "STRUGGLE_BUG",
+            "FURY_CUTTER"
         ],
         "released": true,
         "speciesId": "heracross_mega",
@@ -22190,7 +22203,8 @@
         "fastMoves": [
             "SUCKER_PUNCH",
             "COUNTER",
-            "POISON_JAB"
+            "POISON_JAB",
+            "SHADOW_CLAW"
         ],
         "released": true,
         "speciesId": "marshadow",
@@ -23782,7 +23796,8 @@
             "HEAT_WAVE",
             "OVERHEAT",
             "SKY_ATTACK",
-            "ANCIENT_POWER"
+            "ANCIENT_POWER",
+            "FLY"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -27132,7 +27147,8 @@
             "AIR_CUTTER",
             "BRAVE_BIRD",
             "HURRICANE",
-            "FEATHER_DANCE"
+            "FEATHER_DANCE",
+            "HEAT_WAVE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -27170,7 +27186,8 @@
             "AIR_CUTTER",
             "BRAVE_BIRD",
             "HURRICANE",
-            "FEATHER_DANCE"
+            "FEATHER_DANCE",
+            "HEAT_WAVE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -30755,7 +30772,8 @@
         "chargedMoves": [
             "OMINOUS_WIND",
             "THUNDER",
-            "THUNDERBOLT"
+            "THUNDERBOLT",
+            "LEAF_STORM"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -31709,7 +31727,8 @@
             "MEGAHORN",
             "SLUDGE_BOMB",
             "GYRO_BALL",
-            "X_SCISSOR"
+            "X_SCISSOR",
+            "AQUA_TAIL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -38409,7 +38428,8 @@
             "ANCIENT_POWER",
             "DAZZLING_GLEAM",
             "DRAINING_KISS",
-            "PSYSHOCK"
+            "PSYSHOCK",
+            "HEAT_WAVE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -40697,7 +40717,8 @@
             "HYDRO_PUMP",
             "OVERHEAT",
             "EARTH_POWER",
-            "SLUDGE_BOMB"
+            "SLUDGE_BOMB",
+            "SCALD"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -41914,7 +41935,8 @@
         ],
         "fastMoves": [
             "BUG_BITE",
-            "CONFUSION"
+            "CONFUSION",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "wormadam_plant",
@@ -41950,7 +41972,8 @@
         ],
         "fastMoves": [
             "BUG_BITE",
-            "CONFUSION"
+            "CONFUSION",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "wormadam_sandy",
@@ -41985,7 +42008,8 @@
         "fastMoves": [
             "BUG_BITE",
             "CONFUSION",
-            "METAL_SOUND"
+            "METAL_SOUND",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "wormadam_trash",
@@ -42624,7 +42648,8 @@
             "THUNDERBOLT",
             "ZAP_CANNON",
             "ANCIENT_POWER",
-            "DRILL_PECK"
+            "DRILL_PECK",
+            "HEAT_WAVE"
         ],
         "defaultIVs": {
             "cp1500": [
