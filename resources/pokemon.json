@@ -3639,7 +3639,7 @@
         "fastMoves": [
             "STRUGGLE_BUG"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "blipbug",
         "types": [
             "bug",
@@ -6259,7 +6259,9 @@
         "chargedMoves": [
             "FLAME_CHARGE",
             "FLAMETHROWER",
-            "FOCUS_BLAST"
+            "FOCUS_BLAST",
+            "PYRO_BALL",
+            "BLAST_BURN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -9218,7 +9220,7 @@
             "STRUGGLE_BUG",
             "CONFUSION"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "dottler",
         "types": [
             "bug",
@@ -23509,7 +23511,7 @@
         "chargedMoves": [
             "SHADOW_SNEAK",
             "PLAY_ROUGH",
-            "SHADOW_BALL"
+            "THUNDER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -23521,7 +23523,7 @@
         },
         "fastMoves": [
             "SHADOW_CLAW",
-            "CHARM"
+            "HEX"
         ],
         "released": false,
         "speciesId": "mimikyu",
@@ -25796,7 +25798,8 @@
         },
         "chargedMoves": [
             "BUG_BUZZ",
-            "PSYCHIC"
+            "PSYCHIC",
+            "PSYSHOCK"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -25812,9 +25815,10 @@
         ],
         "fastMoves": [
             "STRUGGLE_BUG",
-            "CONFUSION"
+            "CONFUSION",
+            "PSYCHO_CUT"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "orbeetle",
         "types": [
             "bug",
