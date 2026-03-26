@@ -560,9 +560,14 @@
         "type": "grass"
     },
     {
-        "moveId": "GIGA_IMPACT",
-        "power": 150,
-        "type": "normal"
+      "moveId": "GIGA_IMPACT",
+      "power": 150,
+      "type": "normal"
+    },
+    {
+      "moveId": "GIGATON_HAMMER",
+      "power": 130,
+      "type": "steel"
     },
     {
         "moveId": "GLACIATE",
