@@ -555,19 +555,19 @@
         "type": "fairy"
     },
     {
+        "moveId": "GIGATON_HAMMER",
+        "power": 130,
+        "type": "steel"
+    },
+    {
         "moveId": "GIGA_DRAIN",
         "power": 50,
         "type": "grass"
     },
     {
-      "moveId": "GIGA_IMPACT",
-      "power": 150,
-      "type": "normal"
-    },
-    {
-      "moveId": "GIGATON_HAMMER",
-      "power": 130,
-      "type": "steel"
+        "moveId": "GIGA_IMPACT",
+        "power": 150,
+        "type": "normal"
     },
     {
         "moveId": "GLACIATE",

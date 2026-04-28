@@ -23534,6 +23534,36 @@
     },
     {
         "baseStats": {
+            "atk": 177,
+            "def": 199,
+            "hp": 146
+        },
+        "chargedMoves": [
+            "SHADOW_SNEAK",
+            "PLAY_ROUGH",
+            "THUNDER"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                25.0,
+                5,
+                13,
+                15
+            ]
+        },
+        "fastMoves": [
+            "SHADOW_CLAW",
+            "HEX"
+        ],
+        "released": false,
+        "speciesId": "mimikyu_busted",
+        "types": [
+            "ghost",
+            "fairy"
+        ]
+    },
+    {
+        "baseStats": {
             "atk": 98,
             "def": 80,
             "hp": 146
@@ -25968,7 +25998,7 @@
             "IRON_TAIL",
             "MUD_SLAP"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "orthworm",
         "types": [
             "steel",
@@ -31238,7 +31268,7 @@
             "MUD_SLAP",
             "MUD_SHOT"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "sandaconda",
         "types": [
             "ground",
@@ -33037,7 +33067,7 @@
             "MUD_SLAP",
             "MUD_SHOT"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "silicobra",
         "types": [
             "ground",
