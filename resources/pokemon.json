@@ -25608,7 +25608,8 @@
         ],
         "fastMoves": [
             "TACKLE",
-            "TAKE_DOWN"
+            "TAKE_DOWN",
+            "MUD_SLAP"
         ],
         "released": true,
         "speciesId": "oinkologne",
@@ -25642,7 +25643,8 @@
         ],
         "fastMoves": [
             "TACKLE",
-            "TAKE_DOWN"
+            "TAKE_DOWN",
+            "MUD_SLAP"
         ],
         "released": true,
         "speciesId": "oinkologne_female",
