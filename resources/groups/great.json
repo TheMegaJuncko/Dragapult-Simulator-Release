@@ -105,7 +105,7 @@
     },
     {
         "speciesId": "forretress_shadow",
-        "fastMove": "VOLT_SWITCH",
+        "fastMove": "BUG_BITE",
         "chargedMoves": ["SAND_TOMB", "ROCK_TOMB"],
         "shadowType": "shadow"
     },
