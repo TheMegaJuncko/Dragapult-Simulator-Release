@@ -2032,7 +2032,8 @@
         ],
         "fastMoves": [
             "CHARM",
-            "CHARGE_BEAM"
+            "CHARGE_BEAM",
+            "FAIRY_WIND"
         ],
         "released": true,
         "speciesId": "aromatisse",
@@ -6879,7 +6880,8 @@
         ],
         "fastMoves": [
             "COUNTER",
-            "POISON_JAB"
+            "POISON_JAB",
+            "FORCE_PALM"
         ],
         "released": true,
         "speciesId": "conkeldurr",
@@ -9140,10 +9142,10 @@
         ],
         "defaultIVs": {
             "cp1500": [
-                20.0,
-                1,
-                1,
-                2
+                18.5,
+                6,
+                13,
+                14
             ]
         },
         "fastMoves": [
@@ -11168,7 +11170,7 @@
             "PECK",
             "CONFUSION"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "espathra",
         "types": [
             "psychic",
@@ -11512,6 +11514,36 @@
         ],
         "released": true,
         "speciesId": "falinks",
+        "types": [
+            "fighting",
+            "none"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 267,
+            "def": 229,
+            "hp": 163
+        },
+        "chargedMoves": [
+            "SUPER_POWER",
+            "BRICK_BREAK",
+            "MEGAHORN"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                15.0,
+                4,
+                11,
+                15
+            ]
+        },
+        "fastMoves": [
+            "ROCK_SMASH",
+            "COUNTER"
+        ],
+        "released": true,
+        "speciesId": "falinks_mega",
         "types": [
             "fighting",
             "none"
@@ -12228,7 +12260,7 @@
             "PECK",
             "CONFUSION"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "flittle",
         "types": [
             "psychic",
@@ -13723,7 +13755,8 @@
         ],
         "fastMoves": [
             "MUD_SLAP",
-            "SMACK_DOWN"
+            "SMACK_DOWN",
+            "LOCK_ON"
         ],
         "released": true,
         "speciesId": "gigalith",
@@ -18132,7 +18165,8 @@
         "chargedMoves": [
             "ANCIENT_POWER",
             "STONE_EDGE",
-            "WATER_PULSE"
+            "WATER_PULSE",
+            "AQUA_JET"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -18369,7 +18403,9 @@
             "FOUL_PLAY",
             "ICE_BEAM",
             "SHADOW_SNEAK",
-            "THUNDER"
+            "THUNDER",
+            "THUNDER_PUNCH",
+            "DYNAMIC_PUNCH"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -18535,7 +18571,8 @@
             "HYDRO_PUMP",
             "OUTRAGE",
             "OCTAZOOKA",
-            "SWIFT"
+            "SWIFT",
+            "SURF"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -19926,7 +19963,8 @@
             "AERIAL_ACE",
             "BUG_BUZZ",
             "SILVER_WIND",
-            "DYNAMIC_PUNCH"
+            "DYNAMIC_PUNCH",
+            "ACROBATICS"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -19942,7 +19980,8 @@
         "fastMoves": [
             "BUG_BITE",
             "STRUGGLE_BUG",
-            "COUNTER"
+            "COUNTER",
+            "ROLLOUT"
         ],
         "released": true,
         "speciesId": "ledian",
@@ -20496,7 +20535,9 @@
             "FIRE_PUNCH",
             "FOCUS_BLAST",
             "HYPER_BEAM",
-            "TRIPLE_AXEL"
+            "TRIPLE_AXEL",
+            "THUNDER_PUNCH",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -20531,7 +20572,9 @@
             "FIRE_PUNCH",
             "FOCUS_BLAST",
             "HYPER_BEAM",
-            "TRIPLE_AXEL"
+            "TRIPLE_AXEL",
+            "THUNDER_PUNCH",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -20801,7 +20844,8 @@
         ],
         "fastMoves": [
             "WATER_GUN",
-            "WATERFALL"
+            "WATERFALL",
+            "GUST"
         ],
         "released": true,
         "speciesId": "lumineon",
@@ -21919,7 +21963,8 @@
             "AERIAL_ACE",
             "ICE_BEAM",
             "WATER_PULSE",
-            "BUBBLE_BEAM"
+            "BUBBLE_BEAM",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -22635,7 +22680,8 @@
             "ROCK_SLIDE",
             "THUNDERBOLT",
             "SUPER_POWER",
-            "DOUBLE_IRON_BASH"
+            "DOUBLE_IRON_BASH",
+            "DYNAMIC_PUNCH"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -23257,6 +23303,76 @@
         ],
         "released": true,
         "speciesId": "mewtwo_armored",
+        "types": [
+            "psychic",
+            "none"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 399,
+            "def": 215,
+            "hp": 214
+        },
+        "chargedMoves": [
+            "FLAMETHROWER",
+            "FOCUS_BLAST",
+            "HYPER_BEAM",
+            "ICE_BEAM",
+            "PSYCHIC",
+            "SHADOW_BALL",
+            "THUNDERBOLT",
+            "PSYSTRIKE"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                9.0,
+                14,
+                11,
+                14
+            ]
+        },
+        "fastMoves": [
+            "CONFUSION",
+            "PSYCHO_CUT"
+        ],
+        "released": false,
+        "speciesId": "mewtwo_mega_x",
+        "types": [
+            "psychic",
+            "fighting"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 413,
+            "def": 228,
+            "hp": 214
+        },
+        "chargedMoves": [
+            "FLAMETHROWER",
+            "FOCUS_BLAST",
+            "HYPER_BEAM",
+            "ICE_BEAM",
+            "PSYCHIC",
+            "SHADOW_BALL",
+            "THUNDERBOLT",
+            "PSYSTRIKE"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                8.5,
+                12,
+                15,
+                11
+            ]
+        },
+        "fastMoves": [
+            "CONFUSION",
+            "PSYCHO_CUT"
+        ],
+        "released": false,
+        "speciesId": "mewtwo_mega_y",
         "types": [
             "psychic",
             "none"
@@ -27184,7 +27300,8 @@
             "BRAVE_BIRD",
             "HURRICANE",
             "FEATHER_DANCE",
-            "HEAT_WAVE"
+            "HEAT_WAVE",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -27223,7 +27340,8 @@
             "BRAVE_BIRD",
             "HURRICANE",
             "FEATHER_DANCE",
-            "HEAT_WAVE"
+            "HEAT_WAVE",
+            "TWISTER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -29041,7 +29159,8 @@
         ],
         "fastMoves": [
             "WATER_GUN",
-            "WING_ATTACK"
+            "WING_ATTACK",
+            "LOW_KICK"
         ],
         "released": true,
         "speciesId": "quaquaval",
@@ -29198,7 +29317,8 @@
             "SLUDGE_WAVE",
             "ACID_SPRAY",
             "FELL_STINGER",
-            "SCALD"
+            "SCALD",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -30308,7 +30428,8 @@
             "SKULL_BASH",
             "SUPER_POWER",
             "ROCK_WRECKER",
-            "BREAKING_SWIPE"
+            "BREAKING_SWIPE",
+            "DRILL_RUN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -32175,7 +32296,8 @@
         "chargedMoves": [
             "MUDDY_WATER",
             "EARTH_POWER",
-            "SLUDGE_BOMB"
+            "SLUDGE_BOMB",
+            "ICY_WIND"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -34263,7 +34385,8 @@
             "DRAGON_PULSE",
             "SLUDGE_WAVE",
             "MUDDY_WATER",
-            "WATER_PULSE"
+            "WATER_PULSE",
+            "BODY_SLAM"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -34279,7 +34402,8 @@
         ],
         "fastMoves": [
             "WATER_GUN",
-            "TACKLE"
+            "TACKLE",
+            "DRAGON_BREATH"
         ],
         "released": true,
         "speciesId": "sliggoo",
@@ -36147,7 +36271,8 @@
             "PSYBEAM",
             "PSYCHIC",
             "THUNDER",
-            "SURF"
+            "SURF",
+            "AQUA_JET"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -36893,7 +37018,8 @@
             "ICE_BEAM",
             "BUBBLE_BEAM",
             "HURRICANE",
-            "FLY"
+            "FLY",
+            "AQUA_JET"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -36908,7 +37034,8 @@
         ],
         "fastMoves": [
             "WATER_GUN",
-            "AIR_SLASH"
+            "AIR_SLASH",
+            "GUST"
         ],
         "released": true,
         "speciesId": "swanna",
@@ -37061,7 +37188,8 @@
             "DAZZLING_GLEAM",
             "DRAINING_KISS",
             "LAST_RESORT",
-            "PSYSHOCK"
+            "PSYSHOCK",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -37083,7 +37211,8 @@
         ],
         "fastMoves": [
             "CHARM",
-            "QUICK_ATTACK"
+            "QUICK_ATTACK",
+            "FAIRY_WIND"
         ],
         "released": true,
         "speciesId": "sylveon",
@@ -42198,7 +42327,8 @@
             "AERIAL_ACE",
             "FUTURE_SIGHT",
             "OMINOUS_WIND",
-            "PSYSHOCK"
+            "PSYSHOCK",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -42728,7 +42858,8 @@
             ]
         },
         "fastMoves": [
-            "COUNTER"
+            "COUNTER",
+            "LOW_KICK"
         ],
         "released": true,
         "speciesId": "zapdos_galarian",
@@ -42841,7 +42972,8 @@
         "chargedMoves": [
             "THUNDER_PUNCH",
             "DISCHARGE",
-            "WILD_CHARGE"
+            "WILD_CHARGE",
+            "PLASMA_FISTS"
         ],
         "defaultIVs": {
             "cp1500": [

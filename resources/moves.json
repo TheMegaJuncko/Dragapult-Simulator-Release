@@ -260,7 +260,7 @@
     {
         "abbreviation": "Ch",
         "moveId": "CHARM",
-        "power": 13,
+        "power": 12,
         "type": "fairy"
     },
     {
@@ -392,7 +392,7 @@
     {
         "abbreviation": "DrA",
         "moveId": "DRAGON_ASCENT",
-        "power": 150,
+        "power": 110,
         "type": "flying"
     },
     {
@@ -446,7 +446,7 @@
     {
         "abbreviation": "",
         "moveId": "DRILL_RUN",
-        "power": 80,
+        "power": 70,
         "type": "ground"
     },
     {
@@ -470,7 +470,7 @@
     {
         "abbreviation": "Eq",
         "moveId": "EARTHQUAKE",
-        "power": 110,
+        "power": 120,
         "type": "ground"
     },
     {
@@ -488,7 +488,7 @@
     {
         "abbreviation": "",
         "moveId": "ENERGY_BALL",
-        "power": 90,
+        "power": 80,
         "type": "grass"
     },
     {
@@ -1242,6 +1242,12 @@
         "type": "grass"
     },
     {
+        "abbreviation": "PlF",
+        "moveId": "PLASMA_FISTS",
+        "power": 60,
+        "type": "electric"
+    },
+    {
         "abbreviation": "",
         "moveId": "PLAY_ROUGH",
         "power": 90,
@@ -1562,7 +1568,7 @@
     {
         "abbreviation": "SvW",
         "moveId": "SILVER_WIND",
-        "power": 60,
+        "power": 75,
         "type": "bug"
     },
     {
@@ -1952,7 +1958,7 @@
     {
         "abbreviation": "Wr",
         "moveId": "WRAP",
-        "power": 60,
+        "power": 70,
         "type": "normal"
     },
     {
