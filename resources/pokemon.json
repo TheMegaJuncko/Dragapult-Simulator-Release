@@ -2853,7 +2853,8 @@
             "AVALANCHE",
             "OUTRAGE",
             "BLIZZARD",
-            "ICY_WIND"
+            "ICY_WIND",
+            "GLAIVE_RUSH"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -23267,7 +23268,8 @@
         },
         "fastMoves": [
             "CONFUSION",
-            "PSYCHO_CUT"
+            "PSYCHO_CUT",
+            "COUNTER"
         ],
         "released": true,
         "speciesId": "mewtwo",
@@ -23312,7 +23314,7 @@
         "baseStats": {
             "atk": 399,
             "def": 215,
-            "hp": 214
+            "hp": 228
         },
         "chargedMoves": [
             "FLAMETHROWER",
@@ -23327,16 +23329,17 @@
         "defaultIVs": {
             "cp1500": [
                 9.0,
-                14,
-                11,
-                14
+                5,
+                13,
+                8
             ]
         },
         "fastMoves": [
             "CONFUSION",
-            "PSYCHO_CUT"
+            "PSYCHO_CUT",
+            "COUNTER"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "mewtwo_mega_x",
         "types": [
             "psychic",
@@ -23346,8 +23349,8 @@
     {
         "baseStats": {
             "atk": 413,
-            "def": 228,
-            "hp": 214
+            "def": 223,
+            "hp": 228
         },
         "chargedMoves": [
             "FLAMETHROWER",
@@ -23362,16 +23365,17 @@
         "defaultIVs": {
             "cp1500": [
                 8.5,
-                12,
-                15,
-                11
+                6,
+                5,
+                15
             ]
         },
         "fastMoves": [
             "CONFUSION",
-            "PSYCHO_CUT"
+            "PSYCHO_CUT",
+            "COUNTER"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "mewtwo_mega_y",
         "types": [
             "psychic",
@@ -23641,7 +23645,7 @@
             "SHADOW_CLAW",
             "HEX"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "mimikyu",
         "types": [
             "ghost",
@@ -34038,6 +34042,36 @@
     },
     {
         "baseStats": {
+            "atk": 273,
+            "def": 228,
+            "hp": 163
+        },
+        "chargedMoves": [
+            "BRAVE_BIRD",
+            "FLASH_CANNON",
+            "SKY_ATTACK"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                14.5,
+                7,
+                14,
+                14
+            ]
+        },
+        "fastMoves": [
+            "AIR_SLASH",
+            "STEEL_WING"
+        ],
+        "released": true,
+        "speciesId": "skarmory_mega",
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    {
+        "baseStats": {
             "atk": 207,
             "def": 178,
             "hp": 232
@@ -35926,128 +35960,8 @@
             "PECK",
             "AIR_SLASH"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "squawkabilly",
-        "types": [
-            "normal",
-            "flying"
-        ]
-    },
-    {
-        "baseStats": {
-            "atk": 185,
-            "def": 105,
-            "hp": 193
-        },
-        "chargedMoves": [
-            "AERIAL_ACE",
-            "BRAVE_BIRD",
-            "FLY"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                28.0,
-                4,
-                15,
-                15
-            ]
-        },
-        "fastMoves": [
-            "PECK",
-            "AIR_SLASH"
-        ],
-        "released": false,
-        "speciesId": "squawkabilly_blue",
-        "types": [
-            "normal",
-            "flying"
-        ]
-    },
-    {
-        "baseStats": {
-            "atk": 185,
-            "def": 105,
-            "hp": 193
-        },
-        "chargedMoves": [
-            "AERIAL_ACE",
-            "BRAVE_BIRD",
-            "FLY"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                28.0,
-                4,
-                15,
-                15
-            ]
-        },
-        "fastMoves": [
-            "PECK",
-            "AIR_SLASH"
-        ],
-        "released": false,
-        "speciesId": "squawkabilly_green",
-        "types": [
-            "normal",
-            "flying"
-        ]
-    },
-    {
-        "baseStats": {
-            "atk": 185,
-            "def": 105,
-            "hp": 193
-        },
-        "chargedMoves": [
-            "AERIAL_ACE",
-            "BRAVE_BIRD",
-            "FLY"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                28.0,
-                4,
-                15,
-                15
-            ]
-        },
-        "fastMoves": [
-            "PECK",
-            "AIR_SLASH"
-        ],
-        "released": false,
-        "speciesId": "squawkabilly_white",
-        "types": [
-            "normal",
-            "flying"
-        ]
-    },
-    {
-        "baseStats": {
-            "atk": 185,
-            "def": 105,
-            "hp": 193
-        },
-        "chargedMoves": [
-            "AERIAL_ACE",
-            "BRAVE_BIRD",
-            "FLY"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                28.0,
-                4,
-                15,
-                15
-            ]
-        },
-        "fastMoves": [
-            "PECK",
-            "AIR_SLASH"
-        ],
-        "released": false,
-        "speciesId": "squawkabilly_yellow",
         "types": [
             "normal",
             "flying"
@@ -42977,17 +42891,17 @@
         ],
         "defaultIVs": {
             "cp1500": [
-                16.0,
-                5,
-                14,
-                15
+                15.5,
+                11,
+                15,
+                13
             ]
         },
         "fastMoves": [
             "SPARK",
             "VOLT_SWITCH"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "zeraora",
         "types": [
             "electric",

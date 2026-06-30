@@ -690,6 +690,12 @@
         "type": "ice"
     },
     {
+        "abbreviation": "GlR",
+        "moveId": "GLAIVE_RUSH",
+        "power": 90,
+        "type": "dragon"
+    },
+    {
         "abbreviation": "",
         "moveId": "GRASS_KNOT",
         "power": 90,
@@ -1242,7 +1248,7 @@
         "type": "grass"
     },
     {
-        "abbreviation": "PlF",
+        "abbreviation": "",
         "moveId": "PLASMA_FISTS",
         "power": 60,
         "type": "electric"
@@ -1612,6 +1618,12 @@
         "moveId": "SNARL",
         "power": 5,
         "type": "dark"
+    },
+    {
+        "abbreviation": "Sni",
+        "moveId": "SNIPE_SHOT",
+        "power": 65,
+        "type": "water"
     },
     {
         "abbreviation": "SoB",
