@@ -92,8 +92,8 @@
       "chargedMoves": [ "DISARMING_VOICE", "CHILLING_WATER" ]
     },
     {
-      "speciesId": "forretress",
-      "fastMove": "VOLT_SWITCH",
+      "speciesId": "forretress_shadow",
+      "fastMove": "BUG_BITE",
       "chargedMoves": [ "ROCK_TOMB", "SAND_TOMB" ]
     },
     {
