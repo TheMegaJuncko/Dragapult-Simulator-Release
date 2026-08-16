@@ -221,6 +221,11 @@
       "chargedMoves": [ "PSYSHOCK", "AURA_SPHERE" ]
     },
     {
+      "speciesId": "thievul",
+      "fastMove": "SUCKER_PUNCH",
+      "chargedMoves": [ "NIGHT_SLASH", "ICY_WIND" ]
+    },
+    {
       "speciesId": "wigglytuff",
       "fastMove": "CHARM",
       "chargedMoves": [ "ICY_WIND", "SWIFT" ]
