@@ -286,7 +286,8 @@
             "HYPER_BEAM",
             "IRON_HEAD",
             "ROCK_SLIDE",
-            "EARTH_POWER"
+            "EARTH_POWER",
+            "BRUTAL_SWING"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -320,7 +321,8 @@
             "HYPER_BEAM",
             "IRON_HEAD",
             "ROCK_SLIDE",
-            "EARTH_POWER"
+            "EARTH_POWER",
+            "BRUTAL_SWING"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -354,7 +356,8 @@
             "STONE_EDGE",
             "THUNDER",
             "ROCK_TOMB",
-            "METEOR_BEAM"
+            "METEOR_BEAM",
+            "BRICK_BREAK"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -392,7 +395,8 @@
             "STONE_EDGE",
             "THUNDER",
             "ROCK_TOMB",
-            "METEOR_BEAM"
+            "METEOR_BEAM",
+            "BRICK_BREAK"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -1032,7 +1036,9 @@
             "DARK_PULSE",
             "GUNK_SHOT",
             "SLUDGE_WAVE",
-            "ACID_SPRAY"
+            "ACID_SPRAY",
+            "BRUTAL_SWING",
+            "WRAP"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -1913,7 +1919,8 @@
             "MEGAHORN",
             "SHADOW_SNEAK",
             "LUNGE",
-            "TRAILBLAZE"
+            "TRAILBLAZE",
+            "FOUL_PLAY"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -2104,7 +2111,7 @@
             "BITE",
             "PECK"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "arrokuda",
         "types": [
             "water",
@@ -2198,7 +2205,8 @@
         },
         "fastMoves": [
             "POUND",
-            "ZEN_HEADBUTT"
+            "ZEN_HEADBUTT",
+            "CHARGE_BEAM"
         ],
         "released": true,
         "speciesId": "audino",
@@ -2229,7 +2237,8 @@
         },
         "fastMoves": [
             "POUND",
-            "ZEN_HEADBUTT"
+            "ZEN_HEADBUTT",
+            "CHARGE_BEAM"
         ],
         "released": true,
         "speciesId": "audino_mega",
@@ -2706,7 +2715,7 @@
             "BITE",
             "PECK"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "barraskewda",
         "types": [
             "water",
@@ -3792,7 +3801,8 @@
             "PAYBACK",
             "AERIAL_ACE",
             "FLY",
-            "ROCK_TOMB"
+            "ROCK_TOMB",
+            "DRILL_RUN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -4925,7 +4935,8 @@
             "rolycoly"
         ],
         "fastMoves": [
-            "SMACK_DOWN"
+            "SMACK_DOWN",
+            "TACKLE"
         ],
         "released": true,
         "speciesId": "carkol",
@@ -5450,7 +5461,8 @@
         "fastMoves": [
             "HEX",
             "FIRE_SPIN",
-            "INCINERATE"
+            "INCINERATE",
+            "ASTONISH"
         ],
         "released": true,
         "speciesId": "chandelure",
@@ -5920,6 +5932,45 @@
         ],
         "released": true,
         "speciesId": "chesnaught",
+        "types": [
+            "grass",
+            "fighting"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 242,
+            "def": 282,
+            "hp": 204
+        },
+        "chargedMoves": [
+            "GYRO_BALL",
+            "ENERGY_BALL",
+            "SUPER_POWER",
+            "SOLAR_BEAM",
+            "FRENZY_PLANT",
+            "THUNDER_PUNCH"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                13.5,
+                4,
+                14,
+                12
+            ]
+        },
+        "family": [
+            "quilladin",
+            "chespin",
+            "chesnaught"
+        ],
+        "fastMoves": [
+            "LOW_KICK",
+            "SMACK_DOWN",
+            "VINE_WHIP"
+        ],
+        "released": true,
+        "speciesId": "chesnaught_mega",
         "types": [
             "grass",
             "fighting"
@@ -6721,7 +6772,8 @@
         "chargedMoves": [
             "SHADOW_BALL",
             "DARK_PULSE",
-            "PSYCHIC"
+            "PSYCHIC",
+            "ENERGY_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -7294,39 +7346,33 @@
     },
     {
         "baseStats": {
-            "atk": 152,
-            "def": 194,
-            "hp": 200
+            "atk": 173,
+            "def": 163,
+            "hp": 172
         },
         "chargedMoves": [
-            "BULLDOZE",
-            "GRASS_KNOT",
-            "STONE_EDGE",
-            "ROCK_SLIDE",
-            "ROCK_TOMB"
+            "FLY",
+            "HYDRO_PUMP",
+            "SURF",
+            "DIVE"
         ],
         "defaultIVs": {
             "cp1500": [
-                25.5,
-                4,
-                14,
-                14
+                26.0,
+                5,
+                15,
+                13
             ]
         },
-        "family": [
-            "lileep",
-            "cradily"
-        ],
         "fastMoves": [
-            "ACID",
-            "INFESTATION",
-            "BULLET_SEED"
+            "PECK",
+            "WATER_GUN"
         ],
         "released": true,
-        "speciesId": "cradily_b",
+        "speciesId": "cramorant",
         "types": [
-            "rock",
-            "grass"
+            "flying",
+            "water"
         ]
     },
     {
@@ -7336,9 +7382,10 @@
             "hp": 172
         },
         "chargedMoves": [
-            "DRILL_PECK",
             "FLY",
-            "HYDRO_PUMP"
+            "HYDRO_PUMP",
+            "SURF",
+            "DIVE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -7353,7 +7400,38 @@
             "WATER_GUN"
         ],
         "released": false,
-        "speciesId": "cramorant",
+        "speciesId": "cramorant_gorging",
+        "types": [
+            "flying",
+            "water"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 173,
+            "def": 163,
+            "hp": 172
+        },
+        "chargedMoves": [
+            "FLY",
+            "HYDRO_PUMP",
+            "SURF",
+            "DIVE"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                26.0,
+                5,
+                15,
+                13
+            ]
+        },
+        "fastMoves": [
+            "PECK",
+            "WATER_GUN"
+        ],
+        "released": false,
+        "speciesId": "cramorant_gulping",
         "types": [
             "flying",
             "water"
@@ -7520,7 +7598,8 @@
         ],
         "fastMoves": [
             "AIR_SLASH",
-            "BITE"
+            "BITE",
+            "GUST"
         ],
         "released": true,
         "speciesId": "crobat",
@@ -7935,7 +8014,8 @@
             "DARK_PULSE",
             "FOCUS_BLAST",
             "SHADOW_BALL",
-            "SLUDGE_BOMB"
+            "SLUDGE_BOMB",
+            "FOUL_PLAY"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -7947,7 +8027,8 @@
         },
         "fastMoves": [
             "FEINT_ATTACK",
-            "SNARL"
+            "SNARL",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "darkrai",
@@ -8479,6 +8560,46 @@
     },
     {
         "baseStats": {
+            "atk": 331,
+            "def": 235,
+            "hp": 181
+        },
+        "chargedMoves": [
+            "PSYCHIC",
+            "FLAMETHROWER",
+            "FLAME_CHARGE",
+            "FIRE_BLAST",
+            "BLAST_BURN",
+            "MYSTICAL_FIRE",
+            "PSYSHOCK"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                11.5,
+                5,
+                14,
+                9
+            ]
+        },
+        "family": [
+            "braixen",
+            "fennekin",
+            "delphox"
+        ],
+        "fastMoves": [
+            "SCRATCH",
+            "FIRE_SPIN",
+            "ZEN_HEADBUTT"
+        ],
+        "released": true,
+        "speciesId": "delphox_mega",
+        "types": [
+            "fire",
+            "psychic"
+        ]
+    },
+    {
+        "baseStats": {
             "atk": 345,
             "def": 115,
             "hp": 137
@@ -8558,7 +8679,8 @@
         },
         "fastMoves": [
             "COUNTER",
-            "ZEN_HEADBUTT"
+            "ZEN_HEADBUTT",
+            "LOW_KICK"
         ],
         "released": true,
         "speciesId": "deoxys_defense",
@@ -12075,7 +12197,8 @@
         },
         "fastMoves": [
             "WING_ATTACK",
-            "DOUBLE_KICK"
+            "DOUBLE_KICK",
+            "PECK"
         ],
         "released": true,
         "speciesId": "flamigo",
@@ -12964,7 +13087,8 @@
             "CLOSE_COMBAT",
             "LEAF_BLADE",
             "PSYCHIC",
-            "SYNCHRONOISE"
+            "SYNCHRONOISE",
+            "SACRED_SWORD"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -13002,7 +13126,8 @@
             "CLOSE_COMBAT",
             "LEAF_BLADE",
             "PSYCHIC",
-            "SYNCHRONOISE"
+            "SYNCHRONOISE",
+            "SACRED_SWORD"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -15010,7 +15135,8 @@
         "chargedMoves": [
             "ACID_SPRAY",
             "POISON_FANG",
-            "SLUDGE_BOMB"
+            "SLUDGE_BOMB",
+            "FOUL_PLAY"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -15025,7 +15151,8 @@
         ],
         "fastMoves": [
             "MUD_SLAP",
-            "POISON_JAB"
+            "POISON_JAB",
+            "SCRATCH"
         ],
         "released": true,
         "speciesId": "grafaiai",
@@ -15278,7 +15405,8 @@
             "AERIAL_ACE",
             "SURF",
             "HYDRO_PUMP",
-            "HYDRO_CANNON"
+            "HYDRO_CANNON",
+            "BRUTAL_SWING"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -15299,6 +15427,45 @@
         ],
         "released": true,
         "speciesId": "greninja",
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 299,
+            "def": 180,
+            "hp": 176
+        },
+        "chargedMoves": [
+            "NIGHT_SLASH",
+            "AERIAL_ACE",
+            "SURF",
+            "HYDRO_PUMP",
+            "HYDRO_CANNON",
+            "BRUTAL_SWING"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                14.5,
+                4,
+                11,
+                15
+            ]
+        },
+        "family": [
+            "frogadier",
+            "froakie",
+            "greninja"
+        ],
+        "fastMoves": [
+            "FEINT_ATTACK",
+            "BUBBLE",
+            "WATER_SHURIKEN"
+        ],
+        "released": true,
+        "speciesId": "greninja_mega",
         "types": [
             "water",
             "dark"
@@ -15381,7 +15548,8 @@
             "FOUL_PLAY",
             "DARK_PULSE",
             "PLAY_ROUGH",
-            "POWER_UP_PUNCH"
+            "POWER_UP_PUNCH",
+            "DRAINING_KISS"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -16965,7 +17133,8 @@
             "CRUNCH",
             "FIRE_BLAST",
             "FLAMETHROWER",
-            "FOUL_PLAY"
+            "FOUL_PLAY",
+            "TRAILBLAZE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -16980,7 +17149,8 @@
         ],
         "fastMoves": [
             "FIRE_FANG",
-            "SNARL"
+            "SNARL",
+            "INCINERATE"
         ],
         "released": true,
         "speciesId": "houndoom",
@@ -16999,7 +17169,8 @@
             "CRUNCH",
             "FIRE_BLAST",
             "FLAMETHROWER",
-            "FOUL_PLAY"
+            "FOUL_PLAY",
+            "TRAILBLAZE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -17015,7 +17186,8 @@
         ],
         "fastMoves": [
             "FIRE_FANG",
-            "SNARL"
+            "SNARL",
+            "INCINERATE"
         ],
         "released": true,
         "speciesId": "houndoom_mega",
@@ -17281,7 +17453,8 @@
         "chargedMoves": [
             "BUG_BUZZ",
             "DAZZLING_GLEAM",
-            "SILVER_WIND"
+            "SILVER_WIND",
+            "SHADOW_BALL"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -17293,7 +17466,8 @@
         },
         "fastMoves": [
             "STRUGGLE_BUG",
-            "TACKLE"
+            "TACKLE",
+            "INFESTATION"
         ],
         "released": true,
         "speciesId": "illumise",
@@ -17511,7 +17685,9 @@
         "chargedMoves": [
             "WATER_PULSE",
             "SURF",
-            "SHADOW_BALL"
+            "SHADOW_BALL",
+            "SNIPE_SHOT",
+            "HYDRO_CANNON"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -18552,7 +18728,8 @@
         "fastMoves": [
             "SNARL",
             "METAL_CLAW",
-            "METAL_SOUND"
+            "METAL_SOUND",
+            "LOW_KICK"
         ],
         "released": true,
         "speciesId": "kingambit",
@@ -20799,7 +20976,8 @@
             "HYDRO_PUMP",
             "SKY_ATTACK",
             "AEROBLAST",
-            "FLY"
+            "FLY",
+            "EARTH_POWER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -21193,7 +21371,7 @@
         },
         "chargedMoves": [
             "CRUNCH",
-            "PAYBACK",
+            "PSYCHIC_FANGS",
             "DIG"
         ],
         "defaultIVs": {
@@ -21211,7 +21389,7 @@
             "SNARL",
             "BITE"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "mabosstiff",
         "types": [
             "dark",
@@ -22303,7 +22481,7 @@
         },
         "chargedMoves": [
             "CRUNCH",
-            "PAYBACK",
+            "PSYCHIC_FANGS",
             "DIG"
         ],
         "defaultIVs": {
@@ -22321,7 +22499,7 @@
             "SNARL",
             "BITE"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "maschiff",
         "types": [
             "dark",
@@ -23567,7 +23745,8 @@
             "GYRO_BALL",
             "ICE_BEAM",
             "STOMP",
-            "THUNDERBOLT"
+            "THUNDERBOLT",
+            "HIGH_HORSEPOWER"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -23911,7 +24090,8 @@
         "chargedMoves": [
             "DARK_PULSE",
             "DAZZLING_GLEAM",
-            "SHADOW_BALL"
+            "SHADOW_BALL",
+            "MYSTICAL_FIRE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -24455,7 +24635,9 @@
             "DARK_PULSE",
             "GUNK_SHOT",
             "SLUDGE_WAVE",
-            "ACID_SPRAY"
+            "ACID_SPRAY",
+            "BRUTAL_SWING",
+            "ICE_PUNCH"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -24952,7 +25134,8 @@
             "MEGAHORN",
             "SLUDGE_WAVE",
             "EARTH_POWER",
-            "SAND_TOMB"
+            "SAND_TOMB",
+            "AVALANCHE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -29485,7 +29668,8 @@
             "WILD_CHARGE",
             "SKULL_BASH",
             "TRAILBLAZE",
-            "SURF"
+            "SURF",
+            "VOLT_TACKLE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -29525,7 +29709,8 @@
             "GRASS_KNOT",
             "TRAILBLAZE",
             "SURF",
-            "PSYSHOCK"
+            "PSYSHOCK",
+            "VOLT_TACKLE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -29550,6 +29735,90 @@
         "types": [
             "electric",
             "psychic"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 277,
+            "def": 203,
+            "hp": 155
+        },
+        "chargedMoves": [
+            "BRICK_BREAK",
+            "THUNDER",
+            "THUNDER_PUNCH",
+            "WILD_CHARGE",
+            "SKULL_BASH",
+            "TRAILBLAZE",
+            "SURF",
+            "VOLT_TACKLE"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                15.5,
+                5,
+                14,
+                15
+            ]
+        },
+        "family": [
+            "pikachu",
+            "pichu",
+            "raichu"
+        ],
+        "fastMoves": [
+            "SPARK",
+            "THUNDER_SHOCK",
+            "VOLT_SWITCH",
+            "CHARM"
+        ],
+        "released": true,
+        "speciesId": "raichu_mega_x",
+        "types": [
+            "electric",
+            "none"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 339,
+            "def": 157,
+            "hp": 155
+        },
+        "chargedMoves": [
+            "BRICK_BREAK",
+            "THUNDER",
+            "THUNDER_PUNCH",
+            "WILD_CHARGE",
+            "SKULL_BASH",
+            "TRAILBLAZE",
+            "SURF",
+            "VOLT_TACKLE"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                14.5,
+                4,
+                11,
+                15
+            ]
+        },
+        "family": [
+            "pikachu",
+            "pichu",
+            "raichu"
+        ],
+        "fastMoves": [
+            "SPARK",
+            "THUNDER_SHOCK",
+            "VOLT_SWITCH",
+            "CHARM"
+        ],
+        "released": true,
+        "speciesId": "raichu_mega_y",
+        "types": [
+            "electric",
+            "none"
         ]
     },
     {
@@ -34019,7 +34288,8 @@
         "chargedMoves": [
             "BRAVE_BIRD",
             "FLASH_CANNON",
-            "SKY_ATTACK"
+            "SKY_ATTACK",
+            "DRILL_RUN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -34049,7 +34319,8 @@
         "chargedMoves": [
             "BRAVE_BIRD",
             "FLASH_CANNON",
-            "SKY_ATTACK"
+            "SKY_ATTACK",
+            "DRILL_RUN"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -35320,7 +35591,8 @@
         "fastMoves": [
             "LICK",
             "ZEN_HEADBUTT",
-            "YAWN"
+            "YAWN",
+            "PSYWAVE"
         ],
         "released": true,
         "speciesId": "snorlax",
@@ -36103,6 +36375,44 @@
     },
     {
         "baseStats": {
+            "atk": 278,
+            "def": 207,
+            "hp": 198
+        },
+        "chargedMoves": [
+            "BRAVE_BIRD",
+            "CLOSE_COMBAT",
+            "HEAT_WAVE",
+            "FLY"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                13.5,
+                8,
+                15,
+                15
+            ]
+        },
+        "family": [
+            "staravia",
+            "starly",
+            "staraptor"
+        ],
+        "fastMoves": [
+            "QUICK_ATTACK",
+            "WING_ATTACK",
+            "GUST",
+            "SAND_ATTACK"
+        ],
+        "released": false,
+        "speciesId": "staraptor_mega",
+        "types": [
+            "fighting",
+            "flying"
+        ]
+    },
+    {
+        "baseStats": {
             "atk": 142,
             "def": 94,
             "hp": 146
@@ -36223,6 +36533,63 @@
         ],
         "released": true,
         "speciesId": "starmie",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 276,
+            "def": 229,
+            "hp": 155
+        },
+        "chargedMoves": [
+            "HYDRO_PUMP",
+            "ICE_BEAM",
+            "POWER_GEM",
+            "PSYBEAM",
+            "PSYCHIC",
+            "THUNDER",
+            "SURF",
+            "AQUA_JET"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                15.0,
+                4,
+                11,
+                12
+            ]
+        },
+        "family": [
+            "staryu",
+            "starmie"
+        ],
+        "fastMoves": [
+            "HIDDEN_POWER_BUG",
+            "HIDDEN_POWER_DARK",
+            "HIDDEN_POWER_DRAGON",
+            "HIDDEN_POWER_ELECTRIC",
+            "HIDDEN_POWER_FIGHTING",
+            "HIDDEN_POWER_FIRE",
+            "HIDDEN_POWER_FLYING",
+            "HIDDEN_POWER_GHOST",
+            "HIDDEN_POWER_GRASS",
+            "HIDDEN_POWER_GROUND",
+            "HIDDEN_POWER_ICE",
+            "HIDDEN_POWER_POISON",
+            "HIDDEN_POWER_PSYCHIC",
+            "HIDDEN_POWER_ROCK",
+            "HIDDEN_POWER_STEEL",
+            "HIDDEN_POWER_WATER",
+            "QUICK_ATTACK",
+            "TACKLE",
+            "WATER_GUN",
+            "PSYWAVE"
+        ],
+        "released": true,
+        "speciesId": "starmie_mega",
         "types": [
             "water",
             "psychic"
@@ -37945,7 +38312,8 @@
         },
         "chargedMoves": [
             "NIGHT_SLASH",
-            "PLAY_ROUGH"
+            "PLAY_ROUGH",
+            "ICY_WIND"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -38932,7 +39300,8 @@
             "ACID_SPRAY",
             "DISCHARGE",
             "WILD_CHARGE",
-            "POWER_UP_PUNCH"
+            "POWER_UP_PUNCH",
+            "SWIFT"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -39868,7 +40237,8 @@
         "fastMoves": [
             "TACKLE",
             "ROCK_SMASH",
-            "SMACK_DOWN"
+            "SMACK_DOWN",
+            "SCRATCH"
         ],
         "released": true,
         "speciesId": "ursaluna",
@@ -40535,7 +40905,8 @@
         "fastMoves": [
             "ACID",
             "RAZOR_LEAF",
-            "MAGICAL_LEAF"
+            "MAGICAL_LEAF",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "victreebel",
@@ -40573,7 +40944,8 @@
         "fastMoves": [
             "ACID",
             "RAZOR_LEAF",
-            "MAGICAL_LEAF"
+            "MAGICAL_LEAF",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "victreebel_mega",
@@ -40766,7 +41138,8 @@
         "chargedMoves": [
             "BUG_BUZZ",
             "SIGNAL_BEAM",
-            "THUNDERBOLT"
+            "THUNDERBOLT",
+            "LUNGE"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -40778,7 +41151,8 @@
         },
         "fastMoves": [
             "STRUGGLE_BUG",
-            "TACKLE"
+            "TACKLE",
+            "INFESTATION"
         ],
         "released": true,
         "speciesId": "volbeat",
@@ -42887,7 +43261,8 @@
             "THUNDER_PUNCH",
             "DISCHARGE",
             "WILD_CHARGE",
-            "PLASMA_FISTS"
+            "PLASMA_FISTS",
+            "DYNAMIC_PUNCH"
         ],
         "defaultIVs": {
             "cp1500": [
@@ -43020,7 +43395,8 @@
             "FOUL_PLAY",
             "SLUDGE_BOMB",
             "FLAMETHROWER",
-            "SHADOW_BALL"
+            "SHADOW_BALL",
+            "SWIFT"
         ],
         "defaultIVs": {
             "cp1500": [
