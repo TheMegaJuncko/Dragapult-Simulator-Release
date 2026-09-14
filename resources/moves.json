@@ -1,6 +1,10 @@
 [
     {
         "abbreviation": "Ac",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "ACID",
@@ -10,6 +14,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ACID_SPRAY",
@@ -19,6 +27,10 @@
     },
     {
         "abbreviation": "AS+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "ACID_SPRAY_PLUS",
@@ -28,6 +40,10 @@
     },
     {
         "abbreviation": "Acr",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "ACROBATICS",
@@ -37,6 +53,10 @@
     },
     {
         "abbreviation": "AS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "AEGISLASH_CHARGE_AIR_SLASH",
@@ -46,6 +66,10 @@
     },
     {
         "abbreviation": "PC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "AEGISLASH_CHARGE_PSYCHO_CUT",
@@ -55,6 +79,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "AERIAL_ACE",
@@ -64,6 +92,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "AEROBLAST",
@@ -73,6 +105,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "AIR_CUTTER",
@@ -82,6 +118,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "AIR_SLASH",
@@ -91,6 +131,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ANCIENT_POWER",
@@ -100,6 +144,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "AQUA_JET",
@@ -109,6 +157,10 @@
     },
     {
         "abbreviation": "ASt",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "AQUA_STEP",
@@ -118,6 +170,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "AQUA_TAIL",
@@ -127,6 +183,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "ASTONISH",
@@ -136,6 +196,10 @@
     },
     {
         "abbreviation": "AuS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "AURA_SPHERE",
@@ -145,6 +209,10 @@
     },
     {
         "abbreviation": "AuW",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "AURA_WHEEL_DARK",
@@ -154,6 +222,10 @@
     },
     {
         "abbreviation": "AuW",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "AURA_WHEEL_ELECTRIC",
@@ -163,6 +235,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "AURORA_BEAM",
@@ -172,6 +248,10 @@
     },
     {
         "abbreviation": "Av",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "AVALANCHE",
@@ -181,6 +261,10 @@
     },
     {
         "abbreviation": "BBl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "BEAK_BLAST",
@@ -190,6 +274,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "BEHEMOTH_BASH",
@@ -199,6 +287,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "BEHEMOTH_BLADE",
@@ -208,6 +300,10 @@
     },
     {
         "abbreviation": "Bi",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "BITE",
@@ -217,6 +313,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "BLAST_BURN",
@@ -226,6 +326,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "BLAZE_KICK",
@@ -235,6 +339,10 @@
     },
     {
         "abbreviation": "BwS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "BLEAKWIND_STORM",
@@ -244,6 +352,10 @@
     },
     {
         "abbreviation": "Bl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "BLIZZARD",
@@ -253,6 +365,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "BODY_SLAM",
@@ -262,6 +378,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "BONE_CLUB",
@@ -271,6 +391,10 @@
     },
     {
         "abbreviation": "BmB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 70,
         "energyGain": 0,
         "moveId": "BOOMBURST",
@@ -280,6 +404,10 @@
     },
     {
         "abbreviation": "BrB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "BRAVE_BIRD",
@@ -289,6 +417,10 @@
     },
     {
         "abbreviation": "BkS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "BREAKING_SWIPE",
@@ -298,6 +430,10 @@
     },
     {
         "abbreviation": "BkB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "BRICK_BREAK",
@@ -307,6 +443,10 @@
     },
     {
         "abbreviation": "BkB+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "BRICK_BREAK_PLUS",
@@ -316,6 +456,10 @@
     },
     {
         "abbreviation": "Bri",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "BRINE",
@@ -325,6 +469,10 @@
     },
     {
         "abbreviation": "BrS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "BRUTAL_SWING",
@@ -334,6 +482,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 11,
         "moveId": "BUBBLE",
@@ -343,6 +495,10 @@
     },
     {
         "abbreviation": "BuB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "BUBBLE_BEAM",
@@ -352,6 +508,10 @@
     },
     {
         "abbreviation": "BBi",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 3,
         "moveId": "BUG_BITE",
@@ -361,6 +521,10 @@
     },
     {
         "abbreviation": "BBu",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "BUG_BUZZ",
@@ -370,6 +534,10 @@
     },
     {
         "abbreviation": "Bd",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "BULLDOZE",
@@ -379,6 +547,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "BULLET_PUNCH",
@@ -388,6 +560,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 13,
         "moveId": "BULLET_SEED",
@@ -397,6 +573,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 11,
         "moveId": "CHARGE_BEAM",
@@ -406,6 +586,10 @@
     },
     {
         "abbreviation": "Ch",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "CHARM",
@@ -415,6 +599,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "CHILLING_WATER",
@@ -424,6 +612,10 @@
     },
     {
         "abbreviation": "ClS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "CLANGING_SCALES",
@@ -433,6 +625,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "CLOSE_COMBAT",
@@ -442,6 +638,10 @@
     },
     {
         "abbreviation": "Cf",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 14,
         "moveId": "CONFUSION",
@@ -451,6 +651,10 @@
     },
     {
         "abbreviation": "C",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "COUNTER",
@@ -460,6 +664,10 @@
     },
     {
         "abbreviation": "Crbh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "CRABHAMMER",
@@ -469,6 +677,10 @@
     },
     {
         "abbreviation": "CrC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "CROSS_CHOP",
@@ -478,6 +690,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "CROSS_POISON",
@@ -487,6 +703,10 @@
     },
     {
         "abbreviation": "Cr",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "CRUNCH",
@@ -496,6 +716,10 @@
     },
     {
         "abbreviation": "CrG",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "CRUSH_GRIP",
@@ -505,6 +729,10 @@
     },
     {
         "abbreviation": "Cu",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 2,
         "moveId": "CUT",
@@ -514,6 +742,10 @@
     },
     {
         "abbreviation": "DkL",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "DARKEST_LARIAT",
@@ -523,6 +755,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DARK_PULSE",
@@ -532,6 +768,23 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 40,
+        "energyGain": 0,
+        "moveId": "DARK_PULSE_PLUS",
+        "power": 60,
+        "turns": 1,
+        "type": "dark"
+    },
+    {
+        "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "DAZZLING_GLEAM",
@@ -541,6 +794,10 @@
     },
     {
         "abbreviation": "Dg",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "DIG",
@@ -550,6 +807,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DISARMING_VOICE",
@@ -559,6 +820,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DISCHARGE",
@@ -568,6 +833,10 @@
     },
     {
         "abbreviation": "Dve",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DIVE",
@@ -577,6 +846,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DOOM_DESIRE",
@@ -586,6 +859,10 @@
     },
     {
         "abbreviation": "DbI",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "DOUBLE_IRON_BASH",
@@ -595,6 +872,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "DOUBLE_KICK",
@@ -604,6 +885,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "DRACO_METEOR",
@@ -613,6 +898,10 @@
     },
     {
         "abbreviation": "DrA",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DRAGON_ASCENT",
@@ -622,6 +911,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "DRAGON_BREATH",
@@ -631,6 +924,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "DRAGON_CLAW",
@@ -640,6 +937,10 @@
     },
     {
         "abbreviation": "DrE",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DRAGON_ENERGY",
@@ -649,6 +950,10 @@
     },
     {
         "abbreviation": "DgP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "DRAGON_PULSE",
@@ -658,6 +963,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "DRAGON_TAIL",
@@ -667,6 +976,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "DRAINING_KISS",
@@ -676,6 +989,10 @@
     },
     {
         "abbreviation": "DrP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DRAIN_PUNCH",
@@ -685,6 +1002,10 @@
     },
     {
         "abbreviation": "DrlP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DRILL_PECK",
@@ -694,6 +1015,10 @@
     },
     {
         "abbreviation": "DrP+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "DRILL_PECK_PLUS",
@@ -703,6 +1028,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "DRILL_RUN",
@@ -712,6 +1041,10 @@
     },
     {
         "abbreviation": "DrB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "DRUM_BEATING",
@@ -721,6 +1054,10 @@
     },
     {
         "abbreviation": "DyC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DYNAMAX_CANNON",
@@ -730,6 +1067,10 @@
     },
     {
         "abbreviation": "DyP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "DYNAMIC_PUNCH",
@@ -739,6 +1080,10 @@
     },
     {
         "abbreviation": "DyP+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "DYNAMIC_PUNCH_PLUS",
@@ -748,6 +1093,10 @@
     },
     {
         "abbreviation": "Eq",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "EARTHQUAKE",
@@ -757,6 +1106,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "EARTH_POWER",
@@ -766,6 +1119,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "EMBER",
@@ -775,6 +1132,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ENERGY_BALL",
@@ -784,6 +1145,10 @@
     },
     {
         "abbreviation": "Ex",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "EXTRASENSORY",
@@ -793,6 +1158,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "FAIRY_WIND",
@@ -802,6 +1171,10 @@
     },
     {
         "abbreviation": "FrD",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "FEATHER_DANCE",
@@ -811,6 +1184,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "FEINT_ATTACK",
@@ -820,6 +1197,10 @@
     },
     {
         "abbreviation": "FeS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "FELL_STINGER",
@@ -829,6 +1210,10 @@
     },
     {
         "abbreviation": "FeS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "FELL_STINGER_PLUS",
@@ -838,6 +1223,10 @@
     },
     {
         "abbreviation": "FiB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "FIRE_BLAST",
@@ -847,6 +1236,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "FIRE_FANG",
@@ -856,6 +1249,10 @@
     },
     {
         "abbreviation": "FiP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "FIRE_PUNCH",
@@ -865,6 +1262,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "FIRE_SPIN",
@@ -874,6 +1275,10 @@
     },
     {
         "abbreviation": "Ft",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "FLAMETHROWER",
@@ -883,6 +1288,10 @@
     },
     {
         "abbreviation": "FmB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "FLAME_BURST",
@@ -892,6 +1301,10 @@
     },
     {
         "abbreviation": "FmC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "FLAME_CHARGE",
@@ -901,6 +1314,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "FLAME_WHEEL",
@@ -910,6 +1327,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "FLASH_CANNON",
@@ -919,6 +1340,10 @@
     },
     {
         "abbreviation": "FlT",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "FLOWER_TRICK",
@@ -928,6 +1353,10 @@
     },
     {
         "abbreviation": "Fl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "FLY",
@@ -937,6 +1366,10 @@
     },
     {
         "abbreviation": "FlP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "FLYING_PRESS",
@@ -946,6 +1379,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "FOCUS_BLAST",
@@ -955,6 +1392,10 @@
     },
     {
         "abbreviation": "FPm",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "FORCE_PALM",
@@ -964,6 +1405,10 @@
     },
     {
         "abbreviation": "FoP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "FOUL_PLAY",
@@ -973,6 +1418,10 @@
     },
     {
         "abbreviation": "FSh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "FREEZE_SHOCK",
@@ -982,6 +1431,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "FRENZY_PLANT",
@@ -991,6 +1444,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 5,
         "moveId": "FROST_BREATH",
@@ -1000,6 +1457,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 70,
         "energyGain": 0,
         "moveId": "FRUSTRATION",
@@ -1009,6 +1470,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "FURY_CUTTER",
@@ -1018,6 +1483,10 @@
     },
     {
         "abbreviation": "FuB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "FUSION_BOLT",
@@ -1027,6 +1496,10 @@
     },
     {
         "abbreviation": "FuF",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "FUSION_FLARE",
@@ -1036,6 +1509,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "FUTURE_SIGHT",
@@ -1045,6 +1522,10 @@
     },
     {
         "abbreviation": "FS+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "FUTURE_SIGHT_PLUS",
@@ -1054,6 +1535,10 @@
     },
     {
         "abbreviation": "Geo",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 13,
         "moveId": "GEOMANCY",
@@ -1063,6 +1548,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "GIGATON_HAMMER",
@@ -1072,6 +1561,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "GIGA_DRAIN",
@@ -1081,6 +1574,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "GIGA_IMPACT",
@@ -1090,6 +1587,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "GLACIATE",
@@ -1099,6 +1600,10 @@
     },
     {
         "abbreviation": "GlR",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "GLAIVE_RUSH",
@@ -1108,6 +1613,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "GRASS_KNOT",
@@ -1117,6 +1626,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 0,
         "moveId": "GULP_MISSILE_ARROKUDA",
@@ -1126,6 +1639,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 0,
         "moveId": "GULP_MISSILE_PIKACHU",
@@ -1135,6 +1652,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "GUNK_SHOT",
@@ -1144,6 +1665,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 14,
         "moveId": "GUST",
@@ -1153,6 +1678,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "GYRO_BALL",
@@ -1162,6 +1691,10 @@
     },
     {
         "abbreviation": "HeS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "HEART_STAMP",
@@ -1171,6 +1704,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "HEAT_WAVE",
@@ -1180,6 +1717,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "HEAVY_SLAM",
@@ -1189,6 +1730,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 13,
         "moveId": "HEX",
@@ -1198,6 +1743,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_BUG",
@@ -1207,6 +1756,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_DARK",
@@ -1216,6 +1769,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_DRAGON",
@@ -1225,6 +1782,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_ELECTRIC",
@@ -1234,6 +1795,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_FIGHTING",
@@ -1243,6 +1808,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_FIRE",
@@ -1252,6 +1821,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_FLYING",
@@ -1261,6 +1834,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_GHOST",
@@ -1270,6 +1847,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_GRASS",
@@ -1279,6 +1860,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_GROUND",
@@ -1288,6 +1873,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_ICE",
@@ -1297,6 +1886,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_NORMAL",
@@ -1306,6 +1899,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_POISON",
@@ -1315,6 +1912,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_PSYCHIC",
@@ -1324,6 +1925,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_ROCK",
@@ -1333,6 +1938,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_STEEL",
@@ -1342,6 +1951,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "HIDDEN_POWER_WATER",
@@ -1351,6 +1964,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "HIGH_HORSEPOWER",
@@ -1360,6 +1977,10 @@
     },
     {
         "abbreviation": "HJK",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "HIGH_JUMP_KICK",
@@ -1369,6 +1990,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "HORN_ATTACK",
@@ -1378,6 +2003,10 @@
     },
     {
         "abbreviation": "Hu",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "HURRICANE",
@@ -1387,6 +2016,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "HYDRO_CANNON",
@@ -1396,6 +2029,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "HYDRO_PUMP",
@@ -1405,6 +2042,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "HYDRO_PUMP_BLASTOISE",
@@ -1414,6 +2055,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "HYPER_BEAM",
@@ -1423,6 +2068,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "HYPER_FANG",
@@ -1432,6 +2081,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "ICE_BEAM",
@@ -1441,6 +2094,10 @@
     },
     {
         "abbreviation": "IBu",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "ICE_BURN",
@@ -1450,6 +2107,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "ICE_FANG",
@@ -1459,6 +2120,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "ICE_PUNCH",
@@ -1468,6 +2133,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "ICE_SHARD",
@@ -1477,6 +2146,10 @@
     },
     {
         "abbreviation": "ISp",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "ICICLE_SPEAR",
@@ -1486,6 +2159,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ICY_WIND",
@@ -1495,6 +2172,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 20,
         "moveId": "INCINERATE",
@@ -1504,6 +2185,10 @@
     },
     {
         "abbreviation": "Inf",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "INFESTATION",
@@ -1513,6 +2198,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "IRON_HEAD",
@@ -1522,6 +2211,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "IRON_TAIL",
@@ -1531,6 +2224,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "KARATE_CHOP",
@@ -1540,6 +2237,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "LAST_RESORT",
@@ -1549,6 +2250,10 @@
     },
     {
         "abbreviation": "Lf",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "LEAFAGE",
@@ -1558,6 +2263,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "LEAF_BLADE",
@@ -1567,6 +2276,10 @@
     },
     {
         "abbreviation": "LfS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "LEAF_STORM",
@@ -1576,6 +2289,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "LEAF_TORNADO",
@@ -1585,6 +2302,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 3,
         "moveId": "LICK",
@@ -1594,6 +2315,10 @@
     },
     {
         "abbreviation": "Li",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "LIQUIDATION",
@@ -1603,6 +2328,10 @@
     },
     {
         "abbreviation": "Li+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "LIQUIDATION_PLUS",
@@ -1612,6 +2341,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 5,
         "moveId": "LOCK_ON",
@@ -1621,6 +2354,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "LOW_KICK",
@@ -1630,6 +2367,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "LOW_SWEEP",
@@ -1639,6 +2380,10 @@
     },
     {
         "abbreviation": "Lu",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "LUNGE",
@@ -1648,6 +2393,10 @@
     },
     {
         "abbreviation": "LrP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "LUSTER_PURGE",
@@ -1657,6 +2406,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "MAGICAL_LEAF",
@@ -1666,6 +2419,10 @@
     },
     {
         "abbreviation": "MgS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "MAGMA_STORM",
@@ -1675,6 +2432,10 @@
     },
     {
         "abbreviation": "MgB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "MAGNET_BOMB",
@@ -1684,6 +2445,10 @@
     },
     {
         "abbreviation": "Mh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "MEGAHORN",
@@ -1693,6 +2458,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "MEGA_DRAIN",
@@ -1702,6 +2471,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "METAL_CLAW",
@@ -1711,6 +2484,10 @@
     },
     {
         "abbreviation": "MSo",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "METAL_SOUND",
@@ -1720,6 +2497,10 @@
     },
     {
         "abbreviation": "MeB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "METEOR_BEAM",
@@ -1729,6 +2510,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "METEOR_MASH",
@@ -1738,6 +2523,10 @@
     },
     {
         "abbreviation": "MdB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "MIND_BLOWN",
@@ -1747,6 +2536,10 @@
     },
     {
         "abbreviation": "MrC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "MIRROR_COAT",
@@ -1756,6 +2549,10 @@
     },
     {
         "abbreviation": "MrS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "MIRROR_SHOT",
@@ -1765,6 +2562,10 @@
     },
     {
         "abbreviation": "MsB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "MIST_BALL",
@@ -1774,6 +2575,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "MOONBLAST",
@@ -1783,6 +2588,10 @@
     },
     {
         "abbreviation": "MoG",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "MOONGEIST_BEAM",
@@ -1792,6 +2601,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "MUDDY_WATER",
@@ -1801,6 +2614,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "MUD_BOMB",
@@ -1810,6 +2627,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "MUD_SHOT",
@@ -1819,6 +2640,10 @@
     },
     {
         "abbreviation": "MSl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "MUD_SLAP",
@@ -1828,6 +2653,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "MYSTICAL_FIRE",
@@ -1837,6 +2666,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "MYSTICAL_FIRE_PLUS",
@@ -1846,6 +2679,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "NATURES_MADNESS",
@@ -1855,6 +2692,10 @@
     },
     {
         "abbreviation": "NSh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "NIGHT_SHADE",
@@ -1864,6 +2705,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "NIGHT_SLASH",
@@ -1873,6 +2718,10 @@
     },
     {
         "abbreviation": "ObW",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "OBLIVION_WING",
@@ -1882,6 +2731,10 @@
     },
     {
         "abbreviation": "Ob",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "OBSTRUCT",
@@ -1891,6 +2744,10 @@
     },
     {
         "abbreviation": "Oc",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "OCTAZOOKA",
@@ -1900,6 +2757,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "OMINOUS_WIND",
@@ -1909,6 +2770,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "ORIGIN_PULSE",
@@ -1918,6 +2783,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "OUTRAGE",
@@ -1927,6 +2796,10 @@
     },
     {
         "abbreviation": "O+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "OUTRAGE_PLUS",
@@ -1936,6 +2809,10 @@
     },
     {
         "abbreviation": "Ov",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "OVERHEAT",
@@ -1945,6 +2822,10 @@
     },
     {
         "abbreviation": "PbC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "PARABOLIC_CHARGE",
@@ -1954,6 +2835,10 @@
     },
     {
         "abbreviation": "Pbk",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "PAYBACK",
@@ -1963,6 +2848,10 @@
     },
     {
         "abbreviation": "Pk",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "PECK",
@@ -1972,6 +2861,10 @@
     },
     {
         "abbreviation": "PlB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "PETAL_BLIZZARD",
@@ -1981,6 +2874,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "PLASMA_FISTS",
@@ -1990,6 +2887,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "PLAY_ROUGH",
@@ -1999,6 +2900,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "POISON_FANG",
@@ -2008,6 +2913,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "POISON_JAB",
@@ -2017,6 +2926,10 @@
     },
     {
         "abbreviation": "PSt",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "POISON_STING",
@@ -2026,6 +2939,10 @@
     },
     {
         "abbreviation": "Po",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "POLTERGEIST",
@@ -2035,6 +2952,10 @@
     },
     {
         "abbreviation": "Pd",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "POUND",
@@ -2044,6 +2965,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "POWDER_SNOW",
@@ -2053,6 +2978,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "POWER_GEM",
@@ -2062,6 +2991,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "POWER_UP_PUNCH",
@@ -2071,6 +3004,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "POWER_WHIP",
@@ -2080,6 +3017,10 @@
     },
     {
         "abbreviation": "PrB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "PRECIPICE_BLADES",
@@ -2089,6 +3030,10 @@
     },
     {
         "abbreviation": "Pr",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "PRESENT",
@@ -2098,6 +3043,10 @@
     },
     {
         "abbreviation": "Psb",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "PSYBEAM",
@@ -2107,6 +3056,10 @@
     },
     {
         "abbreviation": "Psb+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "PSYBEAM_PLUS",
@@ -2116,6 +3069,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "PSYCHIC",
@@ -2125,6 +3082,10 @@
     },
     {
         "abbreviation": "PsF",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "PSYCHIC_FANGS",
@@ -2134,6 +3095,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "PSYCHO_BOOST",
@@ -2143,6 +3108,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "PSYCHO_CUT",
@@ -2152,6 +3121,10 @@
     },
     {
         "abbreviation": "Psh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "PSYSHOCK",
@@ -2161,6 +3134,10 @@
     },
     {
         "abbreviation": "Pst",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "PSYSTRIKE",
@@ -2170,6 +3147,10 @@
     },
     {
         "abbreviation": "Psy",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "PSYWAVE",
@@ -2179,6 +3160,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "PYRO_BALL",
@@ -2188,6 +3173,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "QUICK_ATTACK",
@@ -2197,6 +3186,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "RAGE_FIST",
@@ -2206,6 +3199,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "RAZOR_LEAF",
@@ -2215,6 +3212,10 @@
     },
     {
         "abbreviation": "RSh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "RAZOR_SHELL",
@@ -2224,6 +3225,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "REST",
@@ -2233,6 +3238,10 @@
     },
     {
         "abbreviation": "Re",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 70,
         "energyGain": 0,
         "moveId": "RETURN",
@@ -2242,6 +3251,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "ROAR_OF_TIME",
@@ -2251,6 +3264,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "ROCK_BLAST",
@@ -2260,6 +3277,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ROCK_SLIDE",
@@ -2269,6 +3290,10 @@
     },
     {
         "abbreviation": "RSm",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "ROCK_SMASH",
@@ -2278,6 +3303,10 @@
     },
     {
         "abbreviation": "RTh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 5,
         "moveId": "ROCK_THROW",
@@ -2287,6 +3316,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "ROCK_TOMB",
@@ -2296,6 +3329,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "ROCK_WRECKER",
@@ -2305,6 +3342,10 @@
     },
     {
         "abbreviation": "RO",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 13,
         "moveId": "ROLLOUT",
@@ -2314,6 +3355,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "SACRED_FIRE",
@@ -2323,6 +3368,10 @@
     },
     {
         "abbreviation": "SSw",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SACRED_SWORD",
@@ -2332,6 +3381,10 @@
     },
     {
         "abbreviation": "SSt",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SANDSEAR_STORM",
@@ -2341,6 +3394,10 @@
     },
     {
         "abbreviation": "SdA",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "SAND_ATTACK",
@@ -2350,6 +3407,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SAND_TOMB",
@@ -2359,6 +3420,10 @@
     },
     {
         "abbreviation": "Sc",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SCALD",
@@ -2368,6 +3433,10 @@
     },
     {
         "abbreviation": "ScS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SCORCHING_SANDS",
@@ -2377,6 +3446,10 @@
     },
     {
         "abbreviation": "Scr",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "SCRATCH",
@@ -2386,6 +3459,10 @@
     },
     {
         "abbreviation": "SeS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SECRET_SWORD",
@@ -2395,6 +3472,10 @@
     },
     {
         "abbreviation": "SeB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "SEED_BOMB",
@@ -2404,6 +3485,10 @@
     },
     {
         "abbreviation": "SeB+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "SEED_BOMB_PLUS",
@@ -2413,6 +3498,10 @@
     },
     {
         "abbreviation": "SFl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "SEED_FLARE",
@@ -2422,6 +3511,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SHADOW_BALL",
@@ -2431,6 +3524,10 @@
     },
     {
         "abbreviation": "SBo",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SHADOW_BONE",
@@ -2440,6 +3537,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "SHADOW_CLAW",
@@ -2449,6 +3550,10 @@
     },
     {
         "abbreviation": "ShF",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "SHADOW_FORCE",
@@ -2458,6 +3563,10 @@
     },
     {
         "abbreviation": "ShP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SHADOW_PUNCH",
@@ -2467,6 +3576,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SHADOW_SNEAK",
@@ -2476,6 +3589,10 @@
     },
     {
         "abbreviation": "SiB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "SIGNAL_BEAM",
@@ -2485,6 +3602,10 @@
     },
     {
         "abbreviation": "SvW",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SILVER_WIND",
@@ -2494,6 +3615,10 @@
     },
     {
         "abbreviation": "SkB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 75,
         "energyGain": 0,
         "moveId": "SKULL_BASH",
@@ -2503,6 +3628,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SKY_ATTACK",
@@ -2512,6 +3641,10 @@
     },
     {
         "abbreviation": "Sl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "SLUDGE",
@@ -2521,6 +3654,10 @@
     },
     {
         "abbreviation": "SlB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SLUDGE_BOMB",
@@ -2530,6 +3667,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "SLUDGE_WAVE",
@@ -2539,6 +3680,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "SMACK_DOWN",
@@ -2548,6 +3693,10 @@
     },
     {
         "abbreviation": "Sn",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 13,
         "moveId": "SNARL",
@@ -2557,6 +3706,10 @@
     },
     {
         "abbreviation": "Sni",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SNIPE_SHOT",
@@ -2566,6 +3719,10 @@
     },
     {
         "abbreviation": "SoB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "SOLAR_BEAM",
@@ -2575,6 +3732,10 @@
     },
     {
         "abbreviation": "SpR",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "SPACIAL_REND",
@@ -2584,6 +3745,10 @@
     },
     {
         "abbreviation": "Sp",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "SPARK",
@@ -2593,6 +3758,10 @@
     },
     {
         "abbreviation": "SpA",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SPARKLING_ARIA",
@@ -2602,6 +3771,10 @@
     },
     {
         "abbreviation": "SSh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "SPIRIT_SHACKLE",
@@ -2611,6 +3784,10 @@
     },
     {
         "abbreviation": "Spl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "SPLASH",
@@ -2620,6 +3797,10 @@
     },
     {
         "abbreviation": "StS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SPRINGTIDE_STORM",
@@ -2629,6 +3810,10 @@
     },
     {
         "abbreviation": "StW",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 5,
         "moveId": "STEEL_WING",
@@ -2638,6 +3823,10 @@
     },
     {
         "abbreviation": "St",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "STOMP",
@@ -2647,6 +3836,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "STONE_EDGE",
@@ -2656,6 +3849,10 @@
     },
     {
         "abbreviation": "Str",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 100,
         "energyGain": 0,
         "moveId": "STRUGGLE",
@@ -2665,6 +3862,10 @@
     },
     {
         "abbreviation": "StB",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "STRUGGLE_BUG",
@@ -2674,6 +3875,10 @@
     },
     {
         "abbreviation": "Sm",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SUBMISSION",
@@ -2683,6 +3888,10 @@
     },
     {
         "abbreviation": "SkP",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 7,
         "moveId": "SUCKER_PUNCH",
@@ -2692,6 +3901,10 @@
     },
     {
         "abbreviation": "Stl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 65,
         "energyGain": 0,
         "moveId": "SUNSTEEL_STRIKE",
@@ -2701,6 +3914,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "SUPER_POWER",
@@ -2710,6 +3927,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "SURF",
@@ -2719,6 +3940,10 @@
     },
     {
         "abbreviation": "S+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SURF_PLUS",
@@ -2728,6 +3953,10 @@
     },
     {
         "abbreviation": "Sw",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "SWIFT",
@@ -2737,6 +3966,10 @@
     },
     {
         "abbreviation": "Sy",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "SYNCHRONOISE",
@@ -2746,6 +3979,10 @@
     },
     {
         "abbreviation": "Tk",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 3,
         "moveId": "TACKLE",
@@ -2755,6 +3992,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "TAKE_DOWN",
@@ -2764,6 +4005,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "TECHNO_BLAST_BURN",
@@ -2773,6 +4018,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "TECHNO_BLAST_CHILL",
@@ -2782,6 +4031,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "TECHNO_BLAST_DOUSE",
@@ -2791,6 +4044,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "TECHNO_BLAST_NORMAL",
@@ -2800,6 +4057,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "TECHNO_BLAST_SHOCK",
@@ -2809,6 +4070,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 60,
         "energyGain": 0,
         "moveId": "THUNDER",
@@ -2818,6 +4083,10 @@
     },
     {
         "abbreviation": "Tb",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 55,
         "energyGain": 0,
         "moveId": "THUNDERBOLT",
@@ -2827,6 +4096,10 @@
     },
     {
         "abbreviation": "ThC",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "THUNDER_CAGE",
@@ -2836,6 +4109,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "THUNDER_FANG",
@@ -2845,6 +4122,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "THUNDER_PUNCH",
@@ -2854,6 +4135,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 9,
         "moveId": "THUNDER_SHOCK",
@@ -2863,6 +4148,10 @@
     },
     {
         "abbreviation": "TSo",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "TORCH_SONG",
@@ -2872,6 +4161,10 @@
     },
     {
         "abbreviation": "TBl",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "TRAILBLAZE",
@@ -2881,6 +4174,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 0,
         "moveId": "TRANSFORM",
@@ -2890,6 +4187,10 @@
     },
     {
         "abbreviation": "TAx",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "TRIPLE_AXEL",
@@ -2899,6 +4200,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "TRI_ATTACK",
@@ -2908,6 +4213,10 @@
     },
     {
         "abbreviation": "Tw",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "TWISTER",
@@ -2917,6 +4226,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "UPPER_HAND",
@@ -2926,6 +4239,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "VICE_GRIP",
@@ -2935,6 +4252,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "VINE_WHIP",
@@ -2944,6 +4265,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 16,
         "moveId": "VOLT_SWITCH",
@@ -2953,6 +4278,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "VOLT_TACKLE",
@@ -2962,6 +4291,10 @@
     },
     {
         "abbreviation": "VT+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "VOLT_TACKLE_PLUS",
@@ -2971,6 +4304,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "V_CREATE",
@@ -2980,6 +4317,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 10,
         "moveId": "WATERFALL",
@@ -2989,6 +4330,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 3,
         "moveId": "WATER_GUN",
@@ -2998,6 +4343,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 4,
         "moveId": "WATER_GUN_FAST_BLASTOISE",
@@ -3007,6 +4356,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 50,
         "energyGain": 0,
         "moveId": "WATER_PULSE",
@@ -3016,6 +4369,10 @@
     },
     {
         "abbreviation": "WSh",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 14,
         "moveId": "WATER_SHURIKEN",
@@ -3025,6 +4382,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "WEATHER_BALL_FIRE",
@@ -3034,6 +4395,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "WEATHER_BALL_ICE",
@@ -3043,6 +4408,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "WEATHER_BALL_NORMAL",
@@ -3052,6 +4421,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "WEATHER_BALL_ROCK",
@@ -3061,6 +4434,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 35,
         "energyGain": 0,
         "moveId": "WEATHER_BALL_WATER",
@@ -3070,6 +4447,10 @@
     },
     {
         "abbreviation": "WbS",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "WILDBOLT_STORM",
@@ -3079,6 +4460,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "WILD_CHARGE",
@@ -3088,6 +4473,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 8,
         "moveId": "WING_ATTACK",
@@ -3097,6 +4486,10 @@
     },
     {
         "abbreviation": "Wr",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "WRAP",
@@ -3106,6 +4499,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 40,
         "energyGain": 0,
         "moveId": "X_SCISSOR",
@@ -3115,6 +4512,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 12,
         "moveId": "YAWN",
@@ -3124,6 +4525,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 80,
         "energyGain": 0,
         "moveId": "ZAP_CANNON",
@@ -3133,6 +4538,10 @@
     },
     {
         "abbreviation": "ZC+",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 45,
         "energyGain": 0,
         "moveId": "ZAP_CANNON_PLUS",
@@ -3142,6 +4551,10 @@
     },
     {
         "abbreviation": "",
+        "buffs": [
+            0,
+            0
+        ],
         "energy": 0,
         "energyGain": 6,
         "moveId": "ZEN_HEADBUTT",
