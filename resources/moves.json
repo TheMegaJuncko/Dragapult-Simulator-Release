@@ -1,2102 +1,3152 @@
 [
     {
         "abbreviation": "Ac",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "ACID",
         "power": 6,
+        "turns": 2,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ACID_SPRAY",
         "power": 20,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "AS+",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "ACID_SPRAY_PLUS",
         "power": 20,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "Acr",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "ACROBATICS",
         "power": 110,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "AS",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "AEGISLASH_CHARGE_AIR_SLASH",
         "power": 0,
+        "turns": 3,
         "type": "flying"
     },
     {
         "abbreviation": "PC",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "AEGISLASH_CHARGE_PSYCHO_CUT",
         "power": 0,
+        "turns": 2,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "AERIAL_ACE",
         "power": 60,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "AEROBLAST",
         "power": 170,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "AIR_CUTTER",
         "power": 60,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "AIR_SLASH",
         "power": 9,
+        "turns": 3,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ANCIENT_POWER",
         "power": 60,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "AQUA_JET",
         "power": 70,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "ASt",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "AQUA_STEP",
         "power": 55,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "AQUA_TAIL",
         "power": 55,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "ASTONISH",
         "power": 12,
+        "turns": 3,
         "type": "ghost"
     },
     {
         "abbreviation": "AuS",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "AURA_SPHERE",
         "power": 80,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "AuW",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "AURA_WHEEL_DARK",
         "power": 100,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "AuW",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "AURA_WHEEL_ELECTRIC",
         "power": 100,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "AURORA_BEAM",
         "power": 80,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "Av",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "AVALANCHE",
         "power": 90,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "BBl",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "BEAK_BLAST",
         "power": 110,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "BEHEMOTH_BASH",
         "power": 80,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "BEHEMOTH_BLADE",
         "power": 100,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "Bi",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "BITE",
         "power": 2,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "BLAST_BURN",
         "power": 110,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "BLAZE_KICK",
         "power": 60,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "BwS",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "BLEAKWIND_STORM",
         "power": 60,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "Bl",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "BLIZZARD",
         "power": 140,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "BODY_SLAM",
         "power": 65,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "BONE_CLUB",
         "power": 55,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "BmB",
+        "energy": 70,
+        "energyGain": 0,
         "moveId": "BOOMBURST",
         "power": 150,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "BrB",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "BRAVE_BIRD",
         "power": 130,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "BkS",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "BREAKING_SWIPE",
         "power": 50,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "BkB",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "BRICK_BREAK",
         "power": 50,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "BkB+",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "BRICK_BREAK_PLUS",
         "power": 40,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "Bri",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "BRINE",
         "power": 100,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "BrS",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "BRUTAL_SWING",
         "power": 55,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 11,
         "moveId": "BUBBLE",
         "power": 8,
+        "turns": 3,
         "type": "water"
     },
     {
         "abbreviation": "BuB",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "BUBBLE_BEAM",
         "power": 50,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "BBi",
+        "energy": 0,
+        "energyGain": 3,
         "moveId": "BUG_BITE",
         "power": 4,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "BBu",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "BUG_BUZZ",
         "power": 100,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "Bd",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "BULLDOZE",
         "power": 80,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "BULLET_PUNCH",
         "power": 7,
+        "turns": 2,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 13,
         "moveId": "BULLET_SEED",
         "power": 5,
+        "turns": 3,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 11,
         "moveId": "CHARGE_BEAM",
         "power": 6,
+        "turns": 3,
         "type": "electric"
     },
     {
         "abbreviation": "Ch",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "CHARM",
         "power": 12,
+        "turns": 3,
         "type": "fairy"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "CHILLING_WATER",
         "power": 60,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "ClS",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "CLANGING_SCALES",
         "power": 120,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "CLOSE_COMBAT",
         "power": 100,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "Cf",
+        "energy": 0,
+        "energyGain": 14,
         "moveId": "CONFUSION",
         "power": 16,
+        "turns": 4,
         "type": "psychic"
     },
     {
         "abbreviation": "C",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "COUNTER",
         "power": 8,
+        "turns": 2,
         "type": "fighting"
     },
     {
         "abbreviation": "Crbh",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "CRABHAMMER",
         "power": 85,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "CrC",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "CROSS_CHOP",
         "power": 55,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "CROSS_POISON",
         "power": 50,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "Cr",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "CRUNCH",
         "power": 70,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "CrG",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "CRUSH_GRIP",
         "power": 110,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Cu",
+        "energy": 0,
+        "energyGain": 2,
         "moveId": "CUT",
         "power": 3,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "DkL",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "DARKEST_LARIAT",
         "power": 120,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DARK_PULSE",
         "power": 80,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "DAZZLING_GLEAM",
         "power": 90,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "Dg",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "DIG",
         "power": 70,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DISARMING_VOICE",
         "power": 70,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DISCHARGE",
         "power": 55,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "Dve",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DIVE",
         "power": 50,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DOOM_DESIRE",
         "power": 80,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "DbI",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "DOUBLE_IRON_BASH",
         "power": 70,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "DOUBLE_KICK",
         "power": 8,
+        "turns": 3,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "DRACO_METEOR",
         "power": 150,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "DrA",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DRAGON_ASCENT",
         "power": 110,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "DRAGON_BREATH",
         "power": 3,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "DRAGON_CLAW",
         "power": 80,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "DrE",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DRAGON_ENERGY",
         "power": 90,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "DgP",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "DRAGON_PULSE",
         "power": 90,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "DRAGON_TAIL",
         "power": 9,
+        "turns": 3,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "DRAINING_KISS",
         "power": 80,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "DrP",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DRAIN_PUNCH",
         "power": 40,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "DrlP",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DRILL_PECK",
         "power": 70,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "DrP+",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "DRILL_PECK_PLUS",
         "power": 60,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "DRILL_RUN",
         "power": 70,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "DrB",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "DRUM_BEATING",
         "power": 60,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "DyC",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DYNAMAX_CANNON",
         "power": 80,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "DyP",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "DYNAMIC_PUNCH",
         "power": 90,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "DyP+",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "DYNAMIC_PUNCH_PLUS",
         "power": 130,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "Eq",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "EARTHQUAKE",
         "power": 120,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "EARTH_POWER",
         "power": 90,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "EMBER",
         "power": 4,
+        "turns": 2,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ENERGY_BALL",
         "power": 80,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "Ex",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "EXTRASENSORY",
         "power": 8,
+        "turns": 3,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "FAIRY_WIND",
         "power": 4,
+        "turns": 2,
         "type": "fairy"
     },
     {
         "abbreviation": "FrD",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "FEATHER_DANCE",
         "power": 35,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "FEINT_ATTACK",
         "power": 6,
+        "turns": 2,
         "type": "dark"
     },
     {
         "abbreviation": "FeS",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "FELL_STINGER",
         "power": 20,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "FeS",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "FELL_STINGER_PLUS",
         "power": 40,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "FiB",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "FIRE_BLAST",
         "power": 140,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "FIRE_FANG",
         "power": 8,
+        "turns": 2,
         "type": "fire"
     },
     {
         "abbreviation": "FiP",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "FIRE_PUNCH",
         "power": 60,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "FIRE_SPIN",
         "power": 11,
+        "turns": 3,
         "type": "fire"
     },
     {
         "abbreviation": "Ft",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "FLAMETHROWER",
         "power": 90,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "FmB",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "FLAME_BURST",
         "power": 70,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "FmC",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "FLAME_CHARGE",
         "power": 65,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "FLAME_WHEEL",
         "power": 80,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "FLASH_CANNON",
         "power": 110,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "FlT",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "FLOWER_TRICK",
         "power": 30,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "Fl",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "FLY",
         "power": 80,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "FlP",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "FLYING_PRESS",
         "power": 90,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "FOCUS_BLAST",
         "power": 150,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "FPm",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "FORCE_PALM",
         "power": 13,
+        "turns": 3,
         "type": "fighting"
     },
     {
         "abbreviation": "FoP",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "FOUL_PLAY",
         "power": 65,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "FSh",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "FREEZE_SHOCK",
         "power": 120,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "FRENZY_PLANT",
         "power": 100,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 5,
         "moveId": "FROST_BREATH",
         "power": 7,
+        "turns": 2,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 70,
+        "energyGain": 0,
         "moveId": "FRUSTRATION",
         "power": 10,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "FURY_CUTTER",
         "power": 3,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "FuB",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "FUSION_BOLT",
         "power": 90,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "FuF",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "FUSION_FLARE",
         "power": 90,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "FUTURE_SIGHT",
         "power": 110,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "FS+",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "FUTURE_SIGHT_PLUS",
         "power": 130,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "Geo",
+        "energy": 0,
+        "energyGain": 13,
         "moveId": "GEOMANCY",
         "power": 8,
+        "turns": 3,
         "type": "fairy"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "GIGATON_HAMMER",
         "power": 130,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "GIGA_DRAIN",
         "power": 50,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "GIGA_IMPACT",
         "power": 150,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "GLACIATE",
         "power": 60,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "GlR",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "GLAIVE_RUSH",
         "power": 90,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "GRASS_KNOT",
         "power": 90,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 0,
         "moveId": "GULP_MISSILE_ARROKUDA",
         "power": 15,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 0,
         "moveId": "GULP_MISSILE_PIKACHU",
         "power": 15,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "GUNK_SHOT",
         "power": 130,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 14,
         "moveId": "GUST",
         "power": 16,
+        "turns": 4,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "GYRO_BALL",
         "power": 80,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "HeS",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "HEART_STAMP",
         "power": 40,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "HEAT_WAVE",
         "power": 75,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "HEAVY_SLAM",
         "power": 70,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 13,
         "moveId": "HEX",
         "power": 7,
+        "turns": 3,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_BUG",
         "power": 9,
+        "turns": 3,
         "type": "bug"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_DARK",
         "power": 9,
+        "turns": 3,
         "type": "dark"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_DRAGON",
         "power": 9,
+        "turns": 3,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_ELECTRIC",
         "power": 9,
+        "turns": 3,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_FIGHTING",
         "power": 9,
+        "turns": 3,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_FIRE",
         "power": 9,
+        "turns": 3,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_FLYING",
         "power": 9,
+        "turns": 3,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_GHOST",
         "power": 9,
+        "turns": 3,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_GRASS",
         "power": 9,
+        "turns": 3,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_GROUND",
         "power": 9,
+        "turns": 3,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_ICE",
         "power": 9,
+        "turns": 3,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_NORMAL",
         "power": 9,
+        "turns": 3,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_POISON",
         "power": 9,
+        "turns": 3,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_PSYCHIC",
         "power": 9,
+        "turns": 3,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_ROCK",
         "power": 9,
+        "turns": 3,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_STEEL",
         "power": 9,
+        "turns": 3,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "HIDDEN_POWER_WATER",
         "power": 9,
+        "turns": 3,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "HIGH_HORSEPOWER",
         "power": 100,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "HJK",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "HIGH_JUMP_KICK",
         "power": 110,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "HORN_ATTACK",
         "power": 40,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Hu",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "HURRICANE",
         "power": 110,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "HYDRO_CANNON",
         "power": 80,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "HYDRO_PUMP",
         "power": 130,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "HYDRO_PUMP_BLASTOISE",
         "power": 90,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "HYPER_BEAM",
         "power": 150,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "HYPER_FANG",
         "power": 80,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "ICE_BEAM",
         "power": 90,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "IBu",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "ICE_BURN",
         "power": 120,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "ICE_FANG",
         "power": 8,
+        "turns": 2,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "ICE_PUNCH",
         "power": 60,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "ICE_SHARD",
         "power": 9,
+        "turns": 3,
         "type": "ice"
     },
     {
         "abbreviation": "ISp",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "ICICLE_SPEAR",
         "power": 70,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ICY_WIND",
         "power": 60,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 20,
         "moveId": "INCINERATE",
         "power": 20,
+        "turns": 5,
         "type": "fire"
     },
     {
         "abbreviation": "Inf",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "INFESTATION",
         "power": 10,
+        "turns": 3,
         "type": "bug"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "IRON_HEAD",
         "power": 85,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "IRON_TAIL",
         "power": 10,
+        "turns": 3,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "KARATE_CHOP",
         "power": 5,
+        "turns": 2,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "LAST_RESORT",
         "power": 90,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Lf",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "LEAFAGE",
         "power": 6,
+        "turns": 2,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "LEAF_BLADE",
         "power": 70,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "LfS",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "LEAF_STORM",
         "power": 130,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "LEAF_TORNADO",
         "power": 45,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 3,
         "moveId": "LICK",
         "power": 3,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "Li",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "LIQUIDATION",
         "power": 70,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "Li+",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "LIQUIDATION_PLUS",
         "power": 55,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 5,
         "moveId": "LOCK_ON",
         "power": 1,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "LOW_KICK",
         "power": 6,
+        "turns": 2,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "LOW_SWEEP",
         "power": 40,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "Lu",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "LUNGE",
         "power": 70,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "LrP",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "LUSTER_PURGE",
         "power": 120,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "MAGICAL_LEAF",
         "power": 10,
+        "turns": 3,
         "type": "grass"
     },
     {
         "abbreviation": "MgS",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "MAGMA_STORM",
         "power": 65,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "MgB",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "MAGNET_BOMB",
         "power": 70,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "Mh",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "MEGAHORN",
         "power": 110,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "MEGA_DRAIN",
         "power": 25,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "METAL_CLAW",
         "power": 5,
+        "turns": 2,
         "type": "steel"
     },
     {
         "abbreviation": "MSo",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "METAL_SOUND",
         "power": 5,
+        "turns": 2,
         "type": "steel"
     },
     {
         "abbreviation": "MeB",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "METEOR_BEAM",
         "power": 120,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "METEOR_MASH",
         "power": 100,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "MdB",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "MIND_BLOWN",
         "power": 90,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "MrC",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "MIRROR_COAT",
         "power": 75,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "MrS",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "MIRROR_SHOT",
         "power": 35,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "MsB",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "MIST_BALL",
         "power": 120,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "MOONBLAST",
         "power": 90,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "MoG",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "MOONGEIST_BEAM",
         "power": 135,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "MUDDY_WATER",
         "power": 35,
+        "turns": 2,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "MUD_BOMB",
         "power": 65,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "MUD_SHOT",
         "power": 3,
+        "turns": 2,
         "type": "ground"
     },
     {
         "abbreviation": "MSl",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "MUD_SLAP",
         "power": 11,
+        "turns": 3,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "MYSTICAL_FIRE",
         "power": 60,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "MYSTICAL_FIRE_PLUS",
         "power": 50,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "NATURES_MADNESS",
         "power": 80,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "NSh",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "NIGHT_SHADE",
         "power": 70,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "NIGHT_SLASH",
         "power": 50,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "ObW",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "OBLIVION_WING",
         "power": 85,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "Ob",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "OBSTRUCT",
         "power": 15,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "Oc",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "OCTAZOOKA",
         "power": 50,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "OMINOUS_WIND",
         "power": 45,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "ORIGIN_PULSE",
         "power": 130,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "OUTRAGE",
         "power": 110,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "O+",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "OUTRAGE_PLUS",
         "power": 80,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "Ov",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "OVERHEAT",
         "power": 130,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "PbC",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "PARABOLIC_CHARGE",
         "power": 70,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "Pbk",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "PAYBACK",
         "power": 110,
+        "turns": 1,
         "type": "dark"
     },
     {
         "abbreviation": "Pk",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "PECK",
         "power": 6,
+        "turns": 2,
         "type": "flying"
     },
     {
         "abbreviation": "PlB",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "PETAL_BLIZZARD",
         "power": 110,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "PLASMA_FISTS",
         "power": 60,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "PLAY_ROUGH",
         "power": 90,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "POISON_FANG",
         "power": 50,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "POISON_JAB",
         "power": 7,
+        "turns": 2,
         "type": "poison"
     },
     {
         "abbreviation": "PSt",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "POISON_STING",
         "power": 4,
+        "turns": 2,
         "type": "poison"
     },
     {
         "abbreviation": "Po",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "POLTERGEIST",
         "power": 150,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "Pd",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "POUND",
         "power": 4,
+        "turns": 2,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "POWDER_SNOW",
         "power": 6,
+        "turns": 2,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "POWER_GEM",
         "power": 85,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "POWER_UP_PUNCH",
         "power": 20,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "POWER_WHIP",
         "power": 90,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "PrB",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "PRECIPICE_BLADES",
         "power": 130,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "Pr",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "PRESENT",
         "power": 3,
+        "turns": 3,
         "type": "normal"
     },
     {
         "abbreviation": "Psb",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "PSYBEAM",
         "power": 70,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "Psb+",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "PSYBEAM_PLUS",
         "power": 60,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "PSYCHIC",
         "power": 75,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "PsF",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "PSYCHIC_FANGS",
         "power": 40,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "PSYCHO_BOOST",
         "power": 85,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "PSYCHO_CUT",
         "power": 4,
+        "turns": 2,
         "type": "psychic"
     },
     {
         "abbreviation": "Psh",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "PSYSHOCK",
         "power": 70,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "Pst",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "PSYSTRIKE",
         "power": 90,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "Psy",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "PSYWAVE",
         "power": 3,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "PYRO_BALL",
         "power": 75,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "QUICK_ATTACK",
         "power": 5,
+        "turns": 2,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "RAGE_FIST",
         "power": 55,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "RAZOR_LEAF",
         "power": 9,
+        "turns": 2,
         "type": "grass"
     },
     {
         "abbreviation": "RSh",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "RAZOR_SHELL",
         "power": 35,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "REST",
         "power": 50,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Re",
+        "energy": 70,
+        "energyGain": 0,
         "moveId": "RETURN",
         "power": 130,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "ROAR_OF_TIME",
         "power": 150,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "ROCK_BLAST",
         "power": 50,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ROCK_SLIDE",
         "power": 75,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "RSm",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "ROCK_SMASH",
         "power": 9,
+        "turns": 3,
         "type": "fighting"
     },
     {
         "abbreviation": "RTh",
+        "energy": 0,
+        "energyGain": 5,
         "moveId": "ROCK_THROW",
         "power": 8,
+        "turns": 2,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "ROCK_TOMB",
         "power": 75,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "ROCK_WRECKER",
         "power": 110,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "RO",
+        "energy": 0,
+        "energyGain": 13,
         "moveId": "ROLLOUT",
         "power": 7,
+        "turns": 3,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "SACRED_FIRE",
         "power": 130,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "SSw",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SACRED_SWORD",
         "power": 60,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "SSt",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SANDSEAR_STORM",
         "power": 60,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "SdA",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "SAND_ATTACK",
         "power": 2,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SAND_TOMB",
         "power": 55,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "Sc",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SCALD",
         "power": 85,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "ScS",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SCORCHING_SANDS",
         "power": 80,
+        "turns": 1,
         "type": "ground"
     },
     {
         "abbreviation": "Scr",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "SCRATCH",
         "power": 3,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "SeS",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SECRET_SWORD",
         "power": 70,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "SeB",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "SEED_BOMB",
         "power": 55,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "SeB+",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "SEED_BOMB_PLUS",
         "power": 60,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "SFl",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "SEED_FLARE",
         "power": 130,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SHADOW_BALL",
         "power": 90,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "SBo",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SHADOW_BONE",
         "power": 80,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "SHADOW_CLAW",
         "power": 6,
+        "turns": 2,
         "type": "ghost"
     },
     {
         "abbreviation": "ShF",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "SHADOW_FORCE",
         "power": 120,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "ShP",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SHADOW_PUNCH",
         "power": 55,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SHADOW_SNEAK",
         "power": 75,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "SiB",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "SIGNAL_BEAM",
         "power": 75,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "SvW",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SILVER_WIND",
         "power": 75,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "SkB",
+        "energy": 75,
+        "energyGain": 0,
         "moveId": "SKULL_BASH",
         "power": 130,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SKY_ATTACK",
         "power": 75,
+        "turns": 1,
         "type": "flying"
     },
     {
         "abbreviation": "Sl",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "SLUDGE",
         "power": 70,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "SlB",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SLUDGE_BOMB",
         "power": 80,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "SLUDGE_WAVE",
         "power": 110,
+        "turns": 1,
         "type": "poison"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "SMACK_DOWN",
         "power": 11,
+        "turns": 3,
         "type": "rock"
     },
     {
         "abbreviation": "Sn",
+        "energy": 0,
+        "energyGain": 13,
         "moveId": "SNARL",
         "power": 5,
+        "turns": 3,
         "type": "dark"
     },
     {
         "abbreviation": "Sni",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SNIPE_SHOT",
         "power": 65,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "SoB",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "SOLAR_BEAM",
         "power": 150,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "SpR",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "SPACIAL_REND",
         "power": 95,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "Sp",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "SPARK",
         "power": 5,
+        "turns": 2,
         "type": "electric"
     },
     {
         "abbreviation": "SpA",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SPARKLING_ARIA",
         "power": 80,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "SSh",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "SPIRIT_SHACKLE",
         "power": 50,
+        "turns": 1,
         "type": "ghost"
     },
     {
         "abbreviation": "Spl",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "SPLASH",
         "power": 0,
+        "turns": 4,
         "type": "water"
     },
     {
         "abbreviation": "StS",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SPRINGTIDE_STORM",
         "power": 60,
+        "turns": 1,
         "type": "fairy"
     },
     {
         "abbreviation": "StW",
+        "energy": 0,
+        "energyGain": 5,
         "moveId": "STEEL_WING",
         "power": 7,
+        "turns": 2,
         "type": "steel"
     },
     {
         "abbreviation": "St",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "STOMP",
         "power": 55,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "STONE_EDGE",
         "power": 100,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "Str",
+        "energy": 100,
+        "energyGain": 0,
         "moveId": "STRUGGLE",
         "power": 35,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "StB",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "STRUGGLE_BUG",
         "power": 9,
+        "turns": 3,
         "type": "bug"
     },
     {
         "abbreviation": "Sm",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SUBMISSION",
         "power": 60,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "SkP",
+        "energy": 0,
+        "energyGain": 7,
         "moveId": "SUCKER_PUNCH",
         "power": 8,
+        "turns": 2,
         "type": "dark"
     },
     {
         "abbreviation": "Stl",
+        "energy": 65,
+        "energyGain": 0,
         "moveId": "SUNSTEEL_STRIKE",
         "power": 135,
+        "turns": 1,
         "type": "steel"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "SUPER_POWER",
         "power": 85,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "SURF",
         "power": 75,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "S+",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SURF_PLUS",
         "power": 55,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "Sw",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "SWIFT",
         "power": 55,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Sy",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "SYNCHRONOISE",
         "power": 80,
+        "turns": 1,
         "type": "psychic"
     },
     {
         "abbreviation": "Tk",
+        "energy": 0,
+        "energyGain": 3,
         "moveId": "TACKLE",
         "power": 3,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "TAKE_DOWN",
         "power": 14,
+        "turns": 3,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "TECHNO_BLAST_BURN",
         "power": 120,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "TECHNO_BLAST_CHILL",
         "power": 120,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "TECHNO_BLAST_DOUSE",
         "power": 120,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "TECHNO_BLAST_NORMAL",
         "power": 120,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "TECHNO_BLAST_SHOCK",
         "power": 120,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 60,
+        "energyGain": 0,
         "moveId": "THUNDER",
         "power": 100,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "Tb",
+        "energy": 55,
+        "energyGain": 0,
         "moveId": "THUNDERBOLT",
         "power": 90,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "ThC",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "THUNDER_CAGE",
         "power": 60,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "THUNDER_FANG",
         "power": 8,
+        "turns": 2,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "THUNDER_PUNCH",
         "power": 60,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 9,
         "moveId": "THUNDER_SHOCK",
         "power": 4,
+        "turns": 2,
         "type": "electric"
     },
     {
         "abbreviation": "TSo",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "TORCH_SONG",
         "power": 70,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "TBl",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "TRAILBLAZE",
         "power": 65,
+        "turns": 1,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 0,
         "moveId": "TRANSFORM",
         "power": 0,
+        "turns": 3,
         "type": "normal"
     },
     {
         "abbreviation": "TAx",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "TRIPLE_AXEL",
         "power": 60,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "TRI_ATTACK",
         "power": 65,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "Tw",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "TWISTER",
         "power": 70,
+        "turns": 1,
         "type": "dragon"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "UPPER_HAND",
         "power": 70,
+        "turns": 1,
         "type": "fighting"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "VICE_GRIP",
         "power": 70,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "VINE_WHIP",
         "power": 5,
+        "turns": 2,
         "type": "grass"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 16,
         "moveId": "VOLT_SWITCH",
         "power": 14,
+        "turns": 4,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "VOLT_TACKLE",
         "power": 90,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "VT+",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "VOLT_TACKLE_PLUS",
         "power": 65,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "V_CREATE",
         "power": 95,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 10,
         "moveId": "WATERFALL",
         "power": 11,
+        "turns": 3,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 3,
         "moveId": "WATER_GUN",
         "power": 3,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 4,
         "moveId": "WATER_GUN_FAST_BLASTOISE",
         "power": 6,
+        "turns": 2,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 50,
+        "energyGain": 0,
         "moveId": "WATER_PULSE",
         "power": 80,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "WSh",
+        "energy": 0,
+        "energyGain": 14,
         "moveId": "WATER_SHURIKEN",
         "power": 6,
+        "turns": 3,
         "type": "water"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "WEATHER_BALL_FIRE",
         "power": 60,
+        "turns": 1,
         "type": "fire"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "WEATHER_BALL_ICE",
         "power": 60,
+        "turns": 1,
         "type": "ice"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "WEATHER_BALL_NORMAL",
         "power": 60,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "WEATHER_BALL_ROCK",
         "power": 60,
+        "turns": 1,
         "type": "rock"
     },
     {
         "abbreviation": "",
+        "energy": 35,
+        "energyGain": 0,
         "moveId": "WEATHER_BALL_WATER",
         "power": 60,
+        "turns": 1,
         "type": "water"
     },
     {
         "abbreviation": "WbS",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "WILDBOLT_STORM",
         "power": 60,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "WILD_CHARGE",
         "power": 100,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 8,
         "moveId": "WING_ATTACK",
         "power": 5,
+        "turns": 2,
         "type": "flying"
     },
     {
         "abbreviation": "Wr",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "WRAP",
         "power": 70,
+        "turns": 1,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 40,
+        "energyGain": 0,
         "moveId": "X_SCISSOR",
         "power": 65,
+        "turns": 1,
         "type": "bug"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 12,
         "moveId": "YAWN",
         "power": 0,
+        "turns": 4,
         "type": "normal"
     },
     {
         "abbreviation": "",
+        "energy": 80,
+        "energyGain": 0,
         "moveId": "ZAP_CANNON",
         "power": 150,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "ZC+",
+        "energy": 45,
+        "energyGain": 0,
         "moveId": "ZAP_CANNON_PLUS",
         "power": 70,
+        "turns": 1,
         "type": "electric"
     },
     {
         "abbreviation": "",
+        "energy": 0,
+        "energyGain": 6,
         "moveId": "ZEN_HEADBUTT",
         "power": 8,
+        "turns": 3,
         "type": "psychic"
     }
 ]
