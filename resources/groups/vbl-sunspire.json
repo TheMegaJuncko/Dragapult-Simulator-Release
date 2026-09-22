@@ -16,7 +16,7 @@
     ]
   },
   {
-    "speciesId": "dusclops_shadow-shadow",
+    "speciesId": "dusclops_shadow",
     "fastMove": "HEX",
     "chargedMoves": [
       "ICE_PUNCH",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "speciesId": "ninetales_shadow-shadow",
+    "speciesId": "ninetales_shadow",
     "fastMove": "EMBER",
     "chargedMoves": [
       "WEATHER_BALL_FIRE",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "speciesId": "persian_shadow-shadow",
+    "speciesId": "persian_shadow",
     "fastMove": "SCRATCH",
     "chargedMoves": [
       "NIGHT_SLASH",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "speciesId": "girafarig_shadow-shadow",
+    "speciesId": "girafarig_shadow",
     "fastMove": "CONFUSION",
     "chargedMoves": [
       "PSYCHIC_FANGS",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "speciesId": "ursaring_shadow-shadow",
+    "speciesId": "ursaring_shadow",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": [
       "CLOSE_COMBAT",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "speciesId": "snorlax_shadow-shadow",
+    "speciesId": "snorlax_shadow",
     "fastMove": "PSYWAVE",
     "chargedMoves": [
       "BODY_SLAM",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "speciesId": "gyarados_shadow-shadow",
+    "speciesId": "gyarados_shadow",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": [
       "AQUA_TAIL",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "speciesId": "blaziken_shadow-shadow",
+    "speciesId": "blaziken_shadow",
     "fastMove": "EMBER",
     "chargedMoves": [
       "AURA_SPHERE",
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "speciesId": "qwilfish_shadow-shadow",
+    "speciesId": "qwilfish_shadow",
     "fastMove": "POISON_STING",
     "chargedMoves": [
       "AQUA_TAIL",
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "speciesId": "aerodactyl_shadow-shadow",
+    "speciesId": "aerodactyl_shadow",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": [
       "ROCK_SLIDE",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "speciesId": "gallade_shadow-shadow",
+    "speciesId": "gallade_shadow",
     "fastMove": "PSYCHO_CUT",
     "chargedMoves": [
       "LEAF_BLADE",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "speciesId": "teddiursa_shadow-shadow",
+    "speciesId": "teddiursa_shadow",
     "fastMove": "SCRATCH",
     "chargedMoves": [
       "SWIFT",
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "speciesId": "abomasnow_shadow-shadow",
+    "speciesId": "abomasnow_shadow",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": [
       "WEATHER_BALL_ICE",
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "speciesId": "quagsire_shadow-shadow",
+    "speciesId": "quagsire_shadow",
     "fastMove": "MUD_SHOT",
     "chargedMoves": [
       "AQUA_TAIL",
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "speciesId": "zapdos_shadow-shadow",
+    "speciesId": "zapdos_shadow",
     "fastMove": "THUNDER_SHOCK",
     "chargedMoves": [
       "DRILL_PECK",
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "speciesId": "gligar_shadow-shadow",
+    "speciesId": "gligar_shadow",
     "fastMove": "WING_ATTACK",
     "chargedMoves": [
       "NIGHT_SLASH",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "speciesId": "aipom_shadow-shadow",
+    "speciesId": "aipom_shadow",
     "fastMove": "SCRATCH",
     "chargedMoves": [
       "SWIFT",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "speciesId": "arbok_shadow-shadow",
+    "speciesId": "arbok_shadow",
     "fastMove": "ACID",
     "chargedMoves": [
       "BRUTAL_SWING",
