@@ -3981,7 +3981,7 @@
             "HEX",
             "BULLET_SEED"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "brambleghast",
         "types": [
             "grass",
@@ -4014,7 +4014,7 @@
             "ASTONISH",
             "BULLET_SEED"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "bramblin",
         "types": [
             "grass",
@@ -4839,7 +4839,7 @@
             "ROCK_SMASH",
             "INCINERATE"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "camerupt_mega",
         "types": [
             "fire",
@@ -5466,6 +5466,45 @@
         ],
         "released": true,
         "speciesId": "chandelure",
+        "types": [
+            "ghost",
+            "fire"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 335,
+            "def": 227,
+            "hp": 155
+        },
+        "chargedMoves": [
+            "ENERGY_BALL",
+            "SHADOW_BALL",
+            "OVERHEAT",
+            "FLAME_CHARGE",
+            "POLTERGEIST"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                12.5,
+                4,
+                7,
+                13
+            ]
+        },
+        "family": [
+            "lampent",
+            "litwick",
+            "chandelure"
+        ],
+        "fastMoves": [
+            "HEX",
+            "FIRE_SPIN",
+            "INCINERATE",
+            "ASTONISH"
+        ],
+        "released": true,
+        "speciesId": "chandelure_mega",
         "types": [
             "ghost",
             "fire"
@@ -6513,6 +6552,47 @@
         ],
         "released": true,
         "speciesId": "clefable",
+        "types": [
+            "fairy",
+            "none"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 253,
+            "def": 205,
+            "hp": 216
+        },
+        "chargedMoves": [
+            "DAZZLING_GLEAM",
+            "METEOR_MASH",
+            "MOONBLAST",
+            "PSYCHIC",
+            "SWIFT",
+            "DRAINING_KISS"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                14.5,
+                4,
+                15,
+                14
+            ]
+        },
+        "family": [
+            "clefairy",
+            "cleffa",
+            "clefable"
+        ],
+        "fastMoves": [
+            "CHARGE_BEAM",
+            "POUND",
+            "ZEN_HEADBUTT",
+            "CHARM",
+            "FAIRY_WIND"
+        ],
+        "released": false,
+        "speciesId": "clefable_mega",
         "types": [
             "fairy",
             "none"
@@ -14646,44 +14726,6 @@
     },
     {
         "baseStats": {
-            "atk": 218,
-            "def": 226,
-            "hp": 181
-        },
-        "chargedMoves": [
-            "X_SCISSOR",
-            "AQUA_JET",
-            "AERIAL_ACE",
-            "LIQUIDATION",
-            "RAZOR_SHELL"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                17.5,
-                4,
-                15,
-                13
-            ]
-        },
-        "family": [
-            "wimpod",
-            "golisopod"
-        ],
-        "fastMoves": [
-            "FURY_CUTTER",
-            "METAL_CLAW",
-            "WATERFALL",
-            "SHADOW_CLAW"
-        ],
-        "released": true,
-        "speciesId": "golisopodsh",
-        "types": [
-            "bug",
-            "water"
-        ]
-    },
-    {
-        "baseStats": {
             "atk": 222,
             "def": 154,
             "hp": 205
@@ -14751,6 +14793,43 @@
         "types": [
             "dragon",
             "none"
+        ]
+    },
+    {
+        "baseStats": {
+            "atk": 211,
+            "def": 255,
+            "hp": 190
+        },
+        "chargedMoves": [
+            "DRACO_METEOR",
+            "SLUDGE_WAVE",
+            "HYDRO_PUMP",
+            "HEAVY_SLAM"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                16.5,
+                5,
+                15,
+                15
+            ]
+        },
+        "family": [
+            "sliggoo",
+            "goomy",
+            "goodra"
+        ],
+        "fastMoves": [
+            "WATER_GUN",
+            "DRAGON_TAIL",
+            "IRON_TAIL"
+        ],
+        "released": true,
+        "speciesId": "goodra_hisuian",
+        "types": [
+            "dragon",
+            "steel"
         ]
     },
     {
@@ -19752,42 +19831,6 @@
     },
     {
         "baseStats": {
-            "atk": 146,
-            "def": 137,
-            "hp": 268
-        },
-        "chargedMoves": [
-            "HYDRO_PUMP",
-            "THUNDER",
-            "THUNDERBOLT",
-            "SURF"
-        ],
-        "defaultIVs": {
-            "cp1500": [
-                27.0,
-                5,
-                15,
-                12
-            ]
-        },
-        "family": [
-            "chinchou",
-            "lanturn"
-        ],
-        "fastMoves": [
-            "CHARGE_BEAM",
-            "WATER_GUN",
-            "SPARK"
-        ],
-        "released": false,
-        "speciesId": "lanturnw",
-        "types": [
-            "water",
-            "electric"
-        ]
-    },
-    {
-        "baseStats": {
             "atk": 165,
             "def": 174,
             "hp": 277
@@ -23815,8 +23858,8 @@
         "defaultIVs": {
             "cp1500": [
                 25.0,
-                5,
-                13,
+                4,
+                14,
                 15
             ]
         },
@@ -23917,7 +23960,7 @@
             "ROLLOUT",
             "TAKE_DOWN"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "minior_core",
         "types": [
             "rock",
@@ -23937,8 +23980,8 @@
         ],
         "defaultIVs": {
             "cp1500": [
-                45.5,
-                4,
+                44.0,
+                5,
                 14,
                 13
             ]
@@ -34719,6 +34762,42 @@
     },
     {
         "baseStats": {
+            "atk": 153,
+            "def": 190,
+            "hp": 151
+        },
+        "chargedMoves": [
+            "DRAGON_PULSE",
+            "SLUDGE_WAVE",
+            "WATER_PULSE",
+            "HEAVY_SLAM"
+        ],
+        "defaultIVs": {
+            "cp1500": [
+                29.0,
+                4,
+                14,
+                15
+            ]
+        },
+        "family": [
+            "goomy",
+            "goodra",
+            "sliggoo"
+        ],
+        "fastMoves": [
+            "WATER_GUN",
+            "TACKLE"
+        ],
+        "released": true,
+        "speciesId": "sliggoo_hisuian",
+        "types": [
+            "dragon",
+            "steel"
+        ]
+    },
+    {
+        "baseStats": {
             "atk": 261,
             "def": 193,
             "hp": 198
@@ -36404,7 +36483,7 @@
             "GUST",
             "SAND_ATTACK"
         ],
-        "released": false,
+        "released": true,
         "speciesId": "staraptor_mega",
         "types": [
             "fighting",
@@ -43376,7 +43455,8 @@
         ],
         "fastMoves": [
             "SHADOW_CLAW",
-            "SNARL"
+            "SNARL",
+            "SUCKER_PUNCH"
         ],
         "released": true,
         "speciesId": "zoroark",

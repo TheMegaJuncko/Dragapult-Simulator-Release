@@ -416,6 +416,19 @@
         "type": "flying"
     },
     {
+        "abbreviation": "BrB+",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 40,
+        "energyGain": 0,
+        "moveId": "BRAVE_BIRD_PLUS",
+        "power": 70,
+        "turns": 1,
+        "type": "flying"
+    },
+    {
         "abbreviation": "BkS",
         "buffs": [
             0,
@@ -2236,6 +2249,19 @@
         "type": "fighting"
     },
     {
+        "abbreviation": "KTC",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 40,
+        "energyGain": 0,
+        "moveId": "KOWTOW_CLEAVE",
+        "power": 75,
+        "turns": 1,
+        "type": "dark"
+    },
+    {
         "abbreviation": "",
         "buffs": [
             0,
@@ -2587,6 +2613,19 @@
         "type": "fairy"
     },
     {
+        "abbreviation": "M+",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 50,
+        "energyGain": 0,
+        "moveId": "MOONBLAST_PLUS",
+        "power": 80,
+        "turns": 1,
+        "type": "fairy"
+    },
+    {
         "abbreviation": "MoG",
         "buffs": [
             0,
@@ -2704,6 +2743,19 @@
         "type": "ghost"
     },
     {
+        "abbreviation": "NSh+",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 45,
+        "energyGain": 0,
+        "moveId": "NIGHT_SHADE_PLUS",
+        "power": 55,
+        "turns": 1,
+        "type": "ghost"
+    },
+    {
         "abbreviation": "",
         "buffs": [
             0,
@@ -2765,6 +2817,19 @@
         "energyGain": 0,
         "moveId": "OMINOUS_WIND",
         "power": 45,
+        "turns": 1,
+        "type": "ghost"
+    },
+    {
+        "abbreviation": "OW+",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 40,
+        "energyGain": 0,
+        "moveId": "OMINOUS_WIND_PLUS",
+        "power": 50,
         "turns": 1,
         "type": "ghost"
     },
@@ -3715,6 +3780,19 @@
         "moveId": "SNIPE_SHOT",
         "power": 65,
         "turns": 1,
+        "type": "water"
+    },
+    {
+        "abbreviation": "Sk",
+        "buffs": [
+            0,
+            0
+        ],
+        "energy": 0,
+        "energyGain": 8,
+        "moveId": "SOAK",
+        "power": 6,
+        "turns": 2,
         "type": "water"
     },
     {
